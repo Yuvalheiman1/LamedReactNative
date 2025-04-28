@@ -1,0 +1,4985 @@
+[
+  {
+    "id": 1,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of this sign?",
+      "ar": "ما معنى هذه العلامة؟"
+    },
+    "options": [
+      {
+        "he": "תחנת קו שירות למוניות ולאוטובוסים לנסיעות מיוחדות.",
+        "en": "Service line station for taxis and buses for special trips.",
+        "ar": "محطة خط خدمة للتاكسي والحافلات للرحلات الخاصة."
+      },
+      {
+        "he": "תחנת הסעה. עצירה וחנייה של כל רכב אחר אסורות.",
+        "en": "Shuttle station. Stopping and parking of any other vehicle are prohibited.",
+        "ar": "محطة نقل. ممنوع وقوف وتوقف أي مركبة أخرى."
+      },
+      {
+        "he": "עצירה וחנייה של כל רכב אסורות בתחום של 20 מטרים.",
+        "en": "Stopping and parking of any vehicle are prohibited within 20 meters.",
+        "ar": "ممنوع وقوف وتوقف أي مركبة في نطاق 20 متر."
+      },
+      {
+        "he": "תחנת מוניות. עצירה וחנייה של רכב אחר אסורות, למעט להורדת נוסעים.",
+        "en": "Taxi station. Stopping and parking of other vehicles are prohibited, except for dropping off passengers.",
+        "ar": "محطة تاكسي. ممنوع وقوف وتوقف المركبات الأخرى، باستثناء إنزال الركاب."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "תחנת קו שירות למוניות ולאוטובוסים לנסיעות מיוחדות.",
+      "en": "Service line station for taxis and buses for special trips.",
+      "ar": "محطة خط خدمة للتاكسي والحافلات للرحلات الخاصة."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 5
+  },
+  {
+    "id": 2,
+    "text": {
+      "he": "כיצד מסמנים מטען הבולט מחלקו האחורי או הקדמי של הרכב?",
+      "en": "How do you mark a load that protrudes from the rear or front of the vehicle?",
+      "ar": "كيف تقوم بتمييز الحمولة البارزة من خلف أو مقدمة المركبة؟"
+    },
+    "options": [
+      {
+        "he": "בחלקו הקדמי של הרכב יסומן המטען במשולש מחזיר אור בצבע לבן, ובחלקו האחורי יסומן במשולש לבן בעל שוליים אדומים מחזירי אור.",
+        "en": "In the front part of the vehicle, the load will be marked with a white reflective triangle, and in the rear part, it will be marked with a white triangle with red reflective edges.",
+        "ar": "في الجزء الأمامي من المركبة، سيتم تمييز الحمولة بمثلث عاكس أبيض، وفي الجزء الخلفي، سيتم تمييزها بمثلث أبيض ذو حواف عاكسة حمراء."
+      },
+      {
+        "he": "בחלקו הקדמי של הרכב יסומן המטען במשולש בצבע אדום, ובחלקו האחורי יסומן המטען במשולש בצבע לבן.",
+        "en": "In the front part of the vehicle, the load will be marked with a red triangle, and in the rear part, the load will be marked with a white triangle.",
+        "ar": "في الجزء الأمامي من المركبة، سيتم تمييز الحمولة بمثلث أحمر، وفي الجزء الخلفي، سيتم تمييز الحمولة بمثلث أبيض."
+      },
+      {
+        "he": "מטען הבולט מחלקו הקדמי או האחורי של הרכב והחריגה גדולה מ-150 ס\"מ, יש לסמנו בשני משולשים אדומים זוהרים מכל צד.",
+        "en": "A load protruding from the front or rear of the vehicle and the deviation is greater than 150 cm, should be marked with two fluorescent red triangles on each side.",
+        "ar": "الحمولة البارزة من الجزء الأمامي أو الخلفي من المركبة والتي يتجاوز بروزها 150 سم، يجب تمييزها بمثلثين أحمرين متوهجين على كل جانب."
+      },
+      {
+        "he": "אין חובה לסמן את הבולט בחלקו הקדמי של הרכב, ואילו המטען הבולט מאחור יסומן במשולש אדום זוהר.",
+        "en": "There is no obligation to mark the protrusion in the front part of the vehicle, while the load protruding from the rear will be marked with a fluorescent red triangle.",
+        "ar": "لا يوجد التزام بتمييز البروز في الجزء الأمامي من المركبة، بينما سيتم تمييز الحمولة البارزة من الخلف بمثلث أحمر متوهج."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "בחלקו הקדמי של הרכב יסומן המטען במשולש מחזיר אור בצבע לבן, ובחלקו האחורי יסומן במשולש לבן בעל שוליים אדומים מחזירי אור.",
+      "en": "In the front part of the vehicle, the load will be marked with a white reflective triangle, and in the rear part, it will be marked with a white triangle with red reflective edges.",
+      "ar": "في الجزء الأمامي من المركبة، سيتم تمييز الحمولة بمثلث عاكس أبيض، وفي الجزء الخلفي، سيتم تمييزها بمثلث أبيض ذو حواف عاكسة حمراء."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "text": {
+      "he": "איזה סוג רכב חייב להיכנס לצומת מהנתיב הימני, בכביש שיש בו שני נתיבים או יותר באותו כיוון נסיעה?",
+      "en": "What type of vehicle must enter an intersection from the right lane, on a road with two or more lanes in the same direction?",
+      "ar": "ما نوع المركبة التي يجب أن تدخل التقاطع من المسار الأيمن، في طريق به مسارين أو أكثر في نفس الاتجاه؟"
+    },
+    "options": [
+      {
+        "he": "רכב מסחרי ורכב עבודה שמשקלם הכולל המותר יותר מ-10,000 ק\"ג.",
+        "en": "Commercial vehicles and work vehicles with a gross weight of more than 10,000 kg.",
+        "ar": "المركبات التجارية ومركبات العمل التي يزيد وزنها الإجمالي المسموح به عن 10,000 كجم."
+      },
+      {
+        "he": "רכב מסחרי שמשקלו הכולל המותר 10,000 ק\"ג או פחות.",
+        "en": "Commercial vehicles with a gross weight of 10,000 kg or less.",
+        "ar": "المركبات التجارية التي يبلغ وزنها الإجمالي المسموح به 10,000 كجم أو أقل."
+      },
+      {
+        "he": "רכב מנועי מסחרי שמשקלו הכולל המותר 6,000 ק\"ג או יותר.",
+        "en": "Commercial motor vehicles with a gross weight of 6,000 kg or more.",
+        "ar": "المركبات التجارية ذات المحرك التي يبلغ وزنها الإجمالي المسموح به 6,000 كجم أو أكثر."
+      },
+      {
+        "he": "רכב מסחרי שמשקלו הכולל המותר יותר מ-4,000 ק\"ג.",
+        "en": "Commercial vehicles with a gross weight of more than 4,000 kg.",
+        "ar": "المركبات التجارية التي يزيد وزنها الإجمالي المسموح به عن 4,000 كجم."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "רכב מסחרי ורכב עבודה שמשקלם הכולל המותר יותר מ-10,000 ק\"ג.",
+      "en": "Commercial vehicles and work vehicles with a gross weight of more than 10,000 kg.",
+      "ar": "المركبات التجارية ومركبات العمل التي يزيد وزنها الإجمالي المسموح به عن 10,000 كجم."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 4,
+    "text": {
+      "he": "נוהג ברכב מסחרי המסיע יותר משמונה נוסעים והחייב בהרכבת מכשירים אופטיים, חייב:",
+      "en": "A driver in a commercial vehicle carrying more than eight passengers and required to wear optical devices must:",
+      "ar": "يجب على السائق في مركبة تجارية تقل أكثر من ثمانية ركاب والمطلوب منه ارتداء أجهزة بصرية:"
+    },
+    "options": [
+      {
+        "he": "להחזיק זוג משקפי שמש, נוסף על המכשירים האופטיים שהוא מרכיב.",
+        "en": "Hold a pair of sunglasses, in addition to the optical devices he wears.",
+        "ar": "احمل زوجًا من النظارات الشمسية، بالإضافة إلى الأجهزة البصرية التي يرتديها."
+      },
+      {
+        "he": "לבדוק ולוודא את תקינותם ואת ניקיונם של המכשירים האופטיים לפני הנסיעה.",
+        "en": "Check and ensure the proper functioning and cleanliness of the optical devices before driving.",
+        "ar": "تحقق وتأكد من سلامة ونظافة الأجهزة البصرية قبل القيادة."
+      },
+      {
+        "he": "להיבדק בדיקת ראייה אחת לשישה חודשים על פי הנדרש.",
+        "en": "Have an eye exam once every six months as required.",
+        "ar": "قم بإجراء فحص للعين مرة واحدة كل ستة أشهر كما هو مطلوب."
+      },
+      {
+        "he": "להחזיק ברכב זוג מכשירים אופטיים, נוסף על הזוג שהוא מרכיב.",
+        "en": "Hold a pair of optical devices in the vehicle, in addition to the pair he wears.",
+        "ar": "احمل زوجًا من الأجهزة البصرية في السيارة، بالإضافة إلى الزوج الذي يرتديه."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "לבדוק ולוודא את תקינותם ואת ניקיונם של המכשירים האופטיים לפני הנסיעה.",
+      "en": "Check and ensure the proper functioning and cleanliness of the optical devices before driving.",
+      "ar": "تحقق وتأكد من سلامة ونظافة الأجهزة البصرية قبل القيادة."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "text": {
+      "he": "האם מותרת הכניסה לאופניים לדרך שלפניה הוצב התמרור?",
+      "en": "Is bicycle entry allowed on a road with this sign?",
+      "ar": "هل يسمح بدخول الدراجات الهوائية إلى طريق تحمل هذه العلامة؟"
+    },
+    "options": [
+      {
+        "he": "לא.",
+        "en": "No.",
+        "ar": "لا."
+      },
+      {
+        "he": "כן. הכניסה אסורה לרכב ציבורי בלבד.",
+        "en": "Yes. Entry is prohibited for public transport only.",
+        "ar": "نعم. الدخول ممنوع على وسائل النقل العام فقط."
+      },
+      {
+        "he": "כן. הכניסה אסורה לרכב משא בלבד.",
+        "en": "Yes. Entry is prohibited for freight vehicles only.",
+        "ar": "نعم. الدخول ممنوع على مركبات الشحن فقط."
+      },
+      {
+        "he": "כן.",
+        "en": "Yes.",
+        "ar": "نعم."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "לא.",
+      "en": "No.",
+      "ar": "لا."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 6
+  },
+  {
+    "id": 6,
+    "text": {
+      "he": "מה מספר הנוסעים המרבי שמותר להסיע ברכב מסחרי שמשקלו הכולל המותר יותר מ-3,500 ק\"ג?",
+      "en": "What is the maximum number of passengers allowed in a commercial vehicle with a gross vehicle weight of more than 3,500 kg?",
+      "ar": "ما هو الحد الأقصى لعدد الركاب المسموح به في مركبة تجارية بوزن إجمالي للمركبة يزيد عن 3500 كجم؟"
+    },
+    "options": [
+      {
+        "he": "שמונה נוסעים, בנוסף לנוסעים לצד הנהג.",
+        "en": "Eight passengers, in addition to the passengers next to the driver.",
+        "ar": "ثمانية ركاب، بالإضافة إلى الركاب بجوار السائق."
+      },
+      {
+        "he": "11 נוסעים, כולל הנהג.",
+        "en": "11 passengers, including the driver.",
+        "ar": "11 راكبًا، بمن فيهم السائق."
+      },
+      {
+        "he": "שישה נוסעים, מלבד הנוסעים לצד הנהג.",
+        "en": "Six passengers, excluding the passengers next to the driver.",
+        "ar": "ستة ركاب، باستثناء الركاب بجوار السائق."
+      },
+      {
+        "he": "שישה נוסעים, כולל הנוסעים לצד הנהג.",
+        "en": "Six passengers, including the passengers next to the driver.",
+        "ar": "ستة ركاب، بمن فيهم الركاب بجوار السائق."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "שמונה נוסעים, בנוסף לנוסעים לצד הנהג.",
+      "en": "Eight passengers, in addition to the passengers next to the driver.",
+      "ar": "ثمانية ركاب، بالإضافة إلى الركاب بجوار السائق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 7,
+    "text": {
+      "he": "איזה כוח מכוחות הטבע מופעל על הרכב בעת בלימה והאטה?",
+      "en": "Which force of nature is exerted on the vehicle during braking and deceleration?",
+      "ar": "ما هي قوة الطبيعة التي تمارس على السيارة أثناء الكبح والتباطؤ؟"
+    },
+    "options": [
+      {
+        "he": "כוח העילוי: הכוח המושך את הרכב כלפי מעלה.",
+        "en": "Lift force: The force that pulls the vehicle upwards.",
+        "ar": "قوة الرفع: القوة التي تسحب السيارة إلى الأعلى."
+      },
+      {
+        "he": "כוח ההתמדה: הכוח הגורם לרכב להמשיך בתנועתו.",
+        "en": "Inertia force: The force that causes the vehicle to continue moving.",
+        "ar": "قوة القصور الذاتي: القوة التي تتسبب في استمرار حركة السيارة."
+      },
+      {
+        "he": "הכוח הצנטריפוגלי: הכוח הפועל על הרכב בסיבובים.",
+        "en": "Centrifugal force: The force acting on the vehicle in turns.",
+        "ar": "قوة الطرد المركزي: القوة المؤثرة على السيارة في المنعطفات."
+      },
+      {
+        "he": "אף אחד מכוחות הטבע אינו פועל על הרכב בעת בלימה או האטה.",
+        "en": "None of the forces of nature act on the vehicle during braking or deceleration.",
+        "ar": "لا توجد أي من قوى الطبيعة تؤثر على السيارة أثناء الكبح أو التباطؤ."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "כוח ההתמדה: הכוח הגורם לרכב להמשיך בתנועתו.",
+      "en": "Inertia force: The force that causes the vehicle to continue moving.",
+      "ar": "قوة القصور الذاتي: القوة التي تتسبب في استمرار حركة السيارة."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "text": {
+      "he": "כיצד ינהג נוהג ברכב היוצא מדרך עפר ומתכוון להיכנס לדרך הסלולה?",
+      "en": "How should a driver of a vehicle exiting a dirt road and intending to enter a paved road behave?",
+      "ar": "كيف يجب أن يتصرف سائق مركبة يخرج من طريق ترابي وينوي الدخول إلى طريق معبد؟"
+    },
+    "options": [
+      {
+        "he": "יאפשר לכלי הרכב הנעים בדרך הסלולה להמשיך בדרכם ללא הפרעה מצדו, ואז ייכנס לדרך.",
+        "en": "Allow vehicles moving on the paved road to continue on their way without interference from him, and then enter the road.",
+        "ar": "اسمح للمركبات التي تتحرك على الطريق المعبد بمواصلة طريقها دون تدخل منه، ثم ادخل الطريق."
+      },
+      {
+        "he": "יאפשר לתנועה הבאה מימינו להמשיך בדרכה ללא הפרעה, וייכנס לדרך.",
+        "en": "Allow traffic coming from his right to continue on its way without interference, and enter the road.",
+        "ar": "اسمح لحركة المرور القادمة من يمينه بمواصلة طريقها دون تدخل، وادخل الطريق."
+      },
+      {
+        "he": "ייכנס לדרך הסלולה: לרכב היוצא מדרך עפר עדיפות על פני כלי הרכב הנעים בדרך הסלולה.",
+        "en": "Enter the paved road: a vehicle exiting a dirt road has priority over vehicles moving on the paved road.",
+        "ar": "ادخل الطريق المعبد: السيارة التي تخرج من طريق ترابي لها الأولوية على المركبات التي تتحرك على الطريق المعبد."
+      },
+      {
+        "he": "יצפור, יהבהב באורות וייכנס לדרך סלולה.",
+        "en": "Honk, flash the lights and enter a paved road.",
+        "ar": "أطلق البوق، وأضئ الأضواء وادخل طريقًا معبدًا."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "יאפשר לכלי הרכב הנעים בדרך הסלולה להמשיך בדרכם ללא הפרעה מצדו, ואז ייכנס לדרך.",
+      "en": "Allow vehicles moving on the paved road to continue on their way without interference from him, and then enter the road.",
+      "ar": "اسمح للمركبات التي تتحرك على الطريق المعبد بمواصلة طريقها دون تدخل منه، ثم ادخل الطريق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 9,
+    "text": {
+      "he": "היכן צריך לעצור כאשר מוצב לפניך התמרור?",
+      "en": "Where should you stop when this sign is placed in front of you?",
+      "ar": "أين يجب أن تتوقف عندما توضع هذه العلامة أمامك؟"
+    },
+    "options": [
+      {
+        "he": "אם סומן קו עצירה, עצור לפני הקו וסמוך לו.",
+        "en": "If a stop line is marked, stop before and close to the line.",
+        "ar": "إذا تم تحديد خط توقف، فتوقف قبل الخط وبالقرب منه."
+      },
+      {
+        "he": "אם אין קו עצירה, עצור במקום שבו תוכל לראות את התנועה.",
+        "en": "If there is no stop line, stop where you can see the traffic.",
+        "ar": "إذا لم يكن هناك خط توقف، فتوقف حيث يمكنك رؤية حركة المرور."
+      },
+      {
+        "he": "עצור לפני הצומת, בכל מקום שתחפוץ.",
+        "en": "Stop before the intersection, anywhere you want.",
+        "ar": "توقف قبل التقاطع، في أي مكان تريده."
+      },
+      {
+        "he": "אם סומן קו עצירה, עצור מיד אחרי הקו.",
+        "en": "If a stop line is marked, stop immediately after the line.",
+        "ar": "إذا تم تحديد خط توقف، فتوقف فورًا بعد الخط."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "אם סומן קו עצירה, עצור לפני הקו וסמוך לו.",
+      "en": "If a stop line is marked, stop before and close to the line.",
+      "ar": "إذا تم تحديد خط توقف، فتوقف قبل الخط وبالقرب منه."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 7
+  },
+  {
+    "id": 10,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ماذا تعني هذه العلامة؟"
+    },
+    "options": [
+      {
+        "he": "אסור לעקוף או לעבור על פניו של רכב ציבורי בלבד.",
+        "en": "Overtaking or passing a public vehicle only is prohibited.",
+        "ar": "يحظر تجاوز أو المرور بمركبة عامة فقط."
+      },
+      {
+        "he": "אסור לעקוף או לעבור על פניו של רכב שאינו מנועי הנע על יותר משישה גלגלים.",
+        "en": "Overtaking or passing a non-motorized vehicle moving on more than six wheels is prohibited.",
+        "ar": "يحظر تجاوز أو المرور بمركبة غير آلية تتحرك على أكثر من ست عجلات."
+      },
+      {
+        "he": "אסור לעקוף או לעבור על פניו של רכב אטי בלבד.",
+        "en": "Overtaking or passing a slow vehicle only is prohibited.",
+        "ar": "يحظر تجاوز أو المرور بمركبة بطيئة فقط."
+      },
+      {
+        "he": "אסור לעקוף או לעבור על פניו של רכב מנועי הנע על יותר משני גלגלים.",
+        "en": "Overtaking or passing a motorized vehicle moving on more than two wheels is prohibited.",
+        "ar": "يحظر تجاوز أو المرور بمركبة آلية تتحرك على أكثر من عجلتين."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "אסור לעקוף או לעבור על פניו של רכב ציבורי בלבד.",
+      "en": "Overtaking or passing a public vehicle only is prohibited.",
+      "ar": "يحظر تجاوز أو المرور بمركبة عامة فقط."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 11,
+    "text": {
+      "he": "באילו תנאים כדאי ביותר להדליק אורות גם ביום?",
+      "en": "Under what conditions is it best to turn on lights even during the day?",
+      "ar": "في أي الظروف من الأفضل تشغيل الأضواء حتى أثناء النهار؟"
+    },
+    "options": [
+      {
+        "he": "כשהשמש מאחורי הנהג.",
+        "en": "When the sun is behind the driver.",
+        "ar": "عندما تكون الشمس خلف السائق."
+      },
+      {
+        "he": "כשהשמש ממול הנהג.",
+        "en": "When the sun is in front of the driver.",
+        "ar": "عندما تكون الشمس أمام السائق."
+      },
+      {
+        "he": "כשהשמש מימין למסלול הנסיעה.",
+        "en": "When the sun is to the right of the driving path.",
+        "ar": "عندما تكون الشمس على يمين مسار القيادة."
+      },
+      {
+        "he": "כשהשמש משמאל למסלול הנסיעה.",
+        "en": "When the sun is to the left of the driving path.",
+        "ar": "عندما تكون الشمس على يسار مسار القيادة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "כשהשמש מאחורי הנהג.",
+      "en": "When the sun is behind the driver.",
+      "ar": "عندما تكون الشمس خلف السائق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 12,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ماذا تعني هذه العلامة؟"
+    },
+    "options": [
+      {
+        "he": "תמרור אזהרה 500 מטרים לפני מפגש מסילת ברזל.",
+        "en": "Warning sign 500 meters before a railway crossing.",
+        "ar": "علامة تحذير قبل 500 متر من معبر سكة حديد."
+      },
+      {
+        "he": "מפגש מסילת ברזל.",
+        "en": "Railway crossing.",
+        "ar": "معبر سكة حديد."
+      },
+      {
+        "he": "תמרור אזהרה לפני תחנת רכבת.",
+        "en": "Warning sign before a train station.",
+        "ar": "علامة تحذير قبل محطة قطار."
+      },
+      {
+        "he": "מפגש מסילת ברזל– יותר ממסילה אחת.",
+        "en": "Railway crossing - more than one track.",
+        "ar": "معبر سكة حديد - أكثر من مسار واحد."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "מפגש מסילת ברזל.",
+      "en": "Railway crossing.",
+      "ar": "معبر سكة حديد."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 8
+  },
+  {
+    "id": 13,
+    "text": {
+      "he": "כיצד יש לנהוג כשהאור הצהוב ברמזור מהבהב?",
+      "en": "How should you drive when the yellow light on the traffic light is flashing?",
+      "ar": "كيف يجب أن تقود السيارة عندما يكون الضوء الأصفر على إشارة المرور وامضًا؟"
+    },
+    "options": [
+      {
+        "he": "התקדם בזהירות ונהג על פי התמרורים המוצבים בצומת.",
+        "en": "Proceed with caution and drive according to the signs at the intersection.",
+        "ar": "تقدم بحذر وقد وفقًا للإشارات الموجودة عند التقاطع."
+      },
+      {
+        "he": "התעלם מהרמזור והמשך בנסיעתך – הכול בסדר.",
+        "en": "Ignore the traffic light and continue driving - everything is fine.",
+        "ar": "تجاهل إشارة المرور واستمر في القيادة - كل شيء على ما يرام."
+      },
+      {
+        "he": "עצור במקום העצירה המקובל והמתן לאור הירוק.",
+        "en": "Stop at the usual stopping place and wait for the green light.",
+        "ar": "توقف في مكان التوقف المعتاد وانتظر الضوء الأخضر."
+      },
+      {
+        "he": "עצור בתוך הצומת והמתן לאור הירוק.",
+        "en": "Stop inside the intersection and wait for the green light.",
+        "ar": "توقف داخل التقاطع وانتظر الضوء الأخضر."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "התקדם בזהירות ונהג על פי התמרורים המוצבים בצומת.",
+      "en": "Proceed with caution and drive according to the signs at the intersection.",
+      "ar": "تقدم بحذر وقد وفقًا للإشارات الموجودة عند التقاطع."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 14,
+    "text": {
+      "he": "כיצד תנהג כשהאור הצהוב ברמזור מהבהב?",
+      "en": "How should you drive when the yellow light on the traffic light is flashing?",
+      "ar": "كيف يجب أن تقود السيارة عندما يكون الضوء الأصفر على إشارة المرور وامضًا؟"
+    },
+    "options": [
+      {
+        "he": "התעלם ממנו. הוא מכוון להולכי רגל בלבד.",
+        "en": "Ignore it. It is intended for pedestrians only.",
+        "ar": "تجاهله. إنه مخصص للمشاة فقط."
+      },
+      {
+        "he": "עצור תמיד לפני מעבר חצייה, גם אם אין איש במעבר.",
+        "en": "Always stop before a crosswalk, even if there is no one in the crossing.",
+        "ar": "توقف دائمًا قبل معبر المشاة، حتى لو لم يكن هناك أحد في المعبر."
+      },
+      {
+        "he": "עצור ואל תמשיך בנסיעה עד שיכבה האור הצהוב המהבהב ברמזור.",
+        "en": "Stop and do not continue driving until the flashing yellow light on the traffic light goes out.",
+        "ar": "توقف ولا تستمر في القيادة حتى ينطفئ الضوء الأصفر الوامض على إشارة المرور."
+      },
+      {
+        "he": "התקדם בזהירות ואפשר להולך רגל לחצות בבטחה את הכביש.",
+        "en": "Proceed with caution and allow a pedestrian to safely cross the road.",
+        "ar": "تقدم بحذر واسمح للمشاة بعبور الطريق بأمان."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "התקדם בזהירות ואפשר להולך רגל לחצות בבטחה את הכביש.",
+      "en": "Proceed with caution and allow a pedestrian to safely cross the road.",
+      "ar": "تقدم بحذر واسمح للمشاة بعبور الطريق بأمان."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 15,
+    "text": {
+      "he": "האם מותר לעקוף או לנסות לעקוף רכב אחר בתחום של 100 מטרים לפני מסילת ברזל?",
+      "en": "Is it allowed to overtake or attempt to overtake another vehicle within 100 meters before a railway?",
+      "ar": "هل يجوز تجاوز أو محاولة تجاوز مركبة أخرى على بعد 100 متر قبل سكة حديد؟"
+    },
+    "options": [
+      {
+        "he": "מותר, אם הרכב הנעקף הוא טרקטור.",
+        "en": "Allowed, if the overtaken vehicle is a tractor.",
+        "ar": "مسموح به، إذا كانت السيارة التي تم تجاوزها جرارًا."
+      },
+      {
+        "he": "מותר, בתנאי שרכבת אינה נראית ואינה נשמעת.",
+        "en": "Allowed, provided that a train is not seen or heard.",
+        "ar": "مسموح به، بشرط ألا يرى أو يسمع قطار."
+      },
+      {
+        "he": "אסור בהחלט.",
+        "en": "Absolutely forbidden.",
+        "ar": "ممنوع قطعيا."
+      },
+      {
+        "he": "מותר, אם הנעקף הוא אופנוע.",
+        "en": "Allowed, if the overtaken is a motorcycle.",
+        "ar": "مسموح به، إذا كانت السيارة التي تم تجاوزها دراجة نارية."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "אסור בהחלט.",
+      "en": "Absolutely forbidden.",
+      "ar": "ممنوع قطعيا."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 16,
+    "text": {
+      "he": "מהו המשפט הנכון?",
+      "en": "What is the correct statement?",
+      "ar": "ما هي العبارة الصحيحة؟"
+    },
+    "options": [
+      {
+        "he": "נהגי משאיות הם נהגים מקצועיים ולכן הנסיעה בסביבתם בטוחה.",
+        "en": "Truck drivers are professional drivers, therefore driving near them is safe.",
+        "ar": "سائقو الشاحنات هم سائقون محترفون، لذا فإن القيادة بالقرب منهم آمنة."
+      },
+      {
+        "he": "יש להניח שנהגים אחרים ייתנו לך תמיד זכות קדימה, כשהחוק מחייב אותهم.",
+        "en": "Assume that other drivers will always give you the right of way when the law requires them to.",
+        "ar": "افترض أن السائقين الآخرين سيمنحونك دائمًا حق الأولوية عندما يقتضي القانون ذلك."
+      },
+      {
+        "he": "אין לסמוך על נהגים אחרים שייתנו לך תמיד זכות קדימה.",
+        "en": "Do not rely on other drivers to always give you the right of way.",
+        "ar": "لا تعتمد على السائقين الآخرين لمنحك دائمًا حق الأولوية."
+      },
+      {
+        "he": "נהגים המפעילים איתות תמיד ממתינים לפני שהם פונים לכיוון שאליו הם מאותתים.",
+        "en": "Drivers who use turn signals always wait before turning in the direction they are signaling.",
+        "ar": "السائقون الذين يستخدمون إشارات الانعطاف ينتظرون دائمًا قبل الانعطاف في الاتجاه الذي يشيرون إليه."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "אין לסמוך על נהגים אחרים שייתנו לך תמיד זכות קדימה.",
+      "en": "Do not rely on other drivers to always give you the right of way.",
+      "ar": "لا تعتمد على السائقين الآخرين لمنحك دائمًا حق الأولوية."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 17,
+    "text": {
+      "he": "באיזה סוג של כביש חלה חובה להשתמש בצדו הימני הקיצוני?",
+      "en": "On which type of road is it mandatory to use the far right side?",
+      "ar": "في أي نوع من الطرق يجب استخدام أقصى الجانب الأيمن؟"
+    },
+    "options": [
+      {
+        "he": "רק בכביש דו-סטרי.",
+        "en": "Only on a two-way road.",
+        "ar": "فقط على طريق ذي اتجاهين."
+      },
+      {
+        "he": "בכל כביש.",
+        "en": "On every road.",
+        "ar": "على كل طريق."
+      },
+      {
+        "he": "רק בכביש שאינו עירוני.",
+        "en": "Only on a non-urban road.",
+        "ar": "فقط على طريق غير حضري."
+      },
+      {
+        "he": "רק בכביש חד-סטרי.",
+        "en": "Only on a one-way road.",
+        "ar": "فقط على طريق ذي اتجاه واحد."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "בכל כביש.",
+      "en": "On every road.",
+      "ar": "على كل طريق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 18,
+    "text": {
+      "he": "מהו מספר ימי המנוחה בשנה המגיעים לנוהג ברכב מסחרי שמשקלו הכולל המותר יותר מ-6,000 ק\"ג?",
+      "en": "What is the number of rest days per year entitled to a driver of a commercial vehicle whose permitted gross weight exceeds 6,000 kg?",
+      "ar": "ما هو عدد أيام الراحة السنوية المستحقة لسائق مركبة تجارية يتجاوز وزنها الإجمالي المسموح به 6000 كجم؟"
+    },
+    "options": [
+      {
+        "he": "31 יום בשנה לפחות.",
+        "en": "At least 31 days per year.",
+        "ar": "31 يومًا على الأقل سنويًا."
+      },
+      {
+        "he": "52 יום לפחות.",
+        "en": "At least 52 days.",
+        "ar": "52 يومًا على الأقل."
+      },
+      {
+        "he": "יומיים בחודש לפחות.",
+        "en": "At least two days per month.",
+        "ar": "يومان على الأقل شهريًا."
+      },
+      {
+        "he": "בהתאם להסכם העבודה הקיבוצי.",
+        "en": "According to the collective labor agreement.",
+        "ar": "وفقًا لاتفاقية العمل الجماعية."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "52 יום לפחות.",
+      "en": "At least 52 days.",
+      "ar": "52 يومًا على الأقل."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 19,
+    "text": {
+      "he": "איזה נהג חייב לנוח לפחות שבע שעות רצופות לפני תחילת יום עבודתו?",
+      "en": "Which driver must rest for at least seven consecutive hours before starting their workday?",
+      "ar": "أي سائق يجب أن يستريح لمدة سبع ساعات متتالية على الأقل قبل بدء يوم عمله؟"
+    },
+    "options": [
+      {
+        "he": "הנוהג ברכב ציבורי וברכב מסחרי שמשקלו הכולל המותר מעל 6,000 ק\"ג והמסיע או המורשה להסיע 11 נוסעים ויותר.",
+        "en": "The driver of a public vehicle and a commercial vehicle whose permitted gross weight is over 6,000 kg and who transports or is authorized to transport 11 passengers or more.",
+        "ar": "سائق مركبة عامة ومركبة تجارية يتجاوز وزنها الإجمالي المسموح به 6000 كجم وينقل أو مرخص له بنقل 11 راكبًا أو أكثر."
+      },
+      {
+        "he": "כל בעל רישיון נהיגה לדרגה .B",
+        "en": "Every holder of a category B driver's license.",
+        "ar": "كل حامل رخصة قيادة من الفئة B."
+      },
+      {
+        "he": "נהגים המובילים חומר מסוכן.",
+        "en": "Drivers transporting hazardous materials.",
+        "ar": "السائقون الذين ينقلون مواد خطرة."
+      },
+      {
+        "he": "כל בעל רישיון נהיגה מדרגה .1",
+        "en": "Every holder of a category 1 driver's license.",
+        "ar": "كل حامل رخصة قيادة من الفئة 1."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "הנוהג ברכב ציבורי וברכב מסחרי שמשקלו הכולל המותר מעל 6,000 ק\"ג והמסיע או המורשה להסיע 11 נוסעים ויותר.",
+      "en": "The driver of a public vehicle and a commercial vehicle whose permitted gross weight is over 6,000 kg and who transports or is authorized to transport 11 passengers or more.",
+      "ar": "سائق مركبة عامة ومركبة تجارية يتجاوز وزنها الإجمالي المسموح به 6000 كجم وينقل أو مرخص له بنقل 11 راكبًا أو أكثر."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 20,
+    "text": {
+      "he": "מתי חייב נוהג ברכב לנסוע על שול הדרך הסלול באספלט?",
+      "en": "When must a vehicle driver drive on the asphalt-paved shoulder of the road?",
+      "ar": "متى يجب على سائق المركبة القيادة على كتف الطريق المعبد بالإسفلت؟"
+    },
+    "options": [
+      {
+        "he": "כאשר הוא נוהג ברכב מנועי הנאלץ לנסוע במהירות נמוכה בשל מטענו או בשל שיפוע הדרך.",
+        "en": "When driving a motor vehicle forced to travel at low speed due to its load or the slope of the road.",
+        "ar": "عند قيادة مركبة آلية مجبرة على السير بسرعة منخفضة بسبب حمولتها أو بسبب انحدار الطريق."
+      },
+      {
+        "he": "כאשר הוא נוהג ברכב מנועי מסחרי שמשקלו הכולל המותר יותר מ-10,000 ק\"ג.",
+        "en": "When driving a commercial motor vehicle whose permitted gross weight exceeds 10,000 kg.",
+        "ar": "عند قيادة مركبة تجارية آلية يتجاوز وزنها الإجمالي المسموح به 10,000 كجم."
+      },
+      {
+        "he": "כאשר הוא נוהג באוטובוס שמשקלו הכולל המותר יותר מ-10,000 ק\"ג.",
+        "en": "When driving a bus whose permitted gross weight exceeds 10,000 kg.",
+        "ar": "عند قيادة حافلة يتجاوز وزنها الإجمالي المسموح به 10,000 كجم."
+      },
+      {
+        "he": "אף פעם. על פי החוק, הנסיעה על השוליים אסורה.",
+        "en": "Never. According to the law, driving on the shoulder is prohibited.",
+        "ar": "أبداً. وفقًا للقانون، القيادة على الأكتاف محظورة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "כאשר הוא נוהג ברכב מנועי הנאלץ לנסוע במהירות נמוכה בשל מטענו או בשל שיפוע הדרך.",
+      "en": "When driving a motor vehicle forced to travel at low speed due to its load or the slope of the road.",
+      "ar": "عند قيادة مركبة آلية مجبرة على السير بسرعة منخفضة بسبب حمولتها أو بسبب انحدار الطريق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 21,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What is the meaning of the sign?",
+      "ar": "ما معنى هذه اللافتة؟"
+    },
+    "options": [
+      {
+        "he": "הכניסה אסורה לרכב שעם או בלי מטענו הוא גבוה מן הגובה הרשום בתמרור.",
+        "en": "Entry is prohibited for a vehicle that, with or without its load, is taller than the height indicated on the sign.",
+        "ar": "الدخول محظور للمركبة التي تكون، مع أو بدون حمولتها، أطول من الارتفاع المسجل على اللافتة."
+      },
+      {
+        "he": "הכניסה מותרת לרכב לא מנועי בלבד שגובהו יותר משלושה מטרים.",
+        "en": "Entry is permitted only for non-motorized vehicles taller than three meters.",
+        "ar": "الدخول مسموح فقط للمركبات غير الآلية التي يزيد ارتفاعها عن ثلاثة أمتار."
+      },
+      {
+        "he": "הכניסה אסורה לרכב שרוחב המטען שלו גדול יותר מן הרוחב הרשום בתמרור.",
+        "en": "Entry is prohibited for a vehicle whose cargo width is greater than the width indicated on the sign.",
+        "ar": "الدخول محظور للمركبة التي يزيد عرض حمولتها عن العرض المسجل على اللافتة."
+      },
+      {
+        "he": "הכניסה אסורה לרכב שגובהו קטן מהגובה הרשום בתמרור.",
+        "en": "Entry is prohibited for a vehicle whose height is less than the height indicated on the sign.",
+        "ar": "الدخول محظور للمركبة التي يقل ارتفاعها عن الارتفاع المسجل على اللافتة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "הכניסה אסורה לרכב שעם או בלי מטענו הוא גבוה מן הגובה הרשום בתמרור.",
+      "en": "Entry is prohibited for a vehicle that, with or without its load, is taller than the height indicated on the sign.",
+      "ar": "الدخول محظور للمركبة التي تكون، مع أو بدون حمولتها، أطول من الارتفاع المسجل على اللافتة."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 9
+  },
+  {
+    "id": 22,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of the sign?",
+      "ar": "ما معنى هذه اللافتة؟"
+    },
+    "options": [
+      {
+        "he": "הכניסה אסורה לכל רכב שרוחבו או רוחב מטענו גדולים מן הרוחב הרשום בתמרור.",
+        "en": "Entry is prohibited for any vehicle whose width or cargo width is greater than the width indicated on the sign.",
+        "ar": "الدخول محظور لأي مركبة يزيد عرضها أو عرض حمولتها عن العرض المسجل على اللافتة."
+      },
+      {
+        "he": "הכניסה אסורה לרכב שרוחבו פחות מן הרוחב הרשום בתמרור.",
+        "en": "Entry is prohibited for a vehicle whose width is less than the width indicated on the sign.",
+        "ar": "الدخول محظور للمركبة التي يقل عرضها عن العرض المسجل على اللافتة."
+      },
+      {
+        "he": "הכניסה אסורה רק לרכב מסחרי שרוחבו גדול מן הרוחב הרשום בתמרור.",
+        "en": "Entry is prohibited only for commercial vehicles whose width is greater than the width indicated on the sign.",
+        "ar": "الدخول محظور فقط للمركبات التجارية التي يزيد عرضها عن العرض المسجل على اللافتة."
+      },
+      {
+        "he": "הכניסה אסורה לרכב לא מנועי בלבד.",
+        "en": "Entry is prohibited for non-motorized vehicles only.",
+        "ar": "الدخول محظور للمركبات غير الآلية فقط."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "הכניסה אסורה לכל רכב שרוחבו או רוחב מטענו גדולים מן הרוחב הרשום בתמרור.",
+      "en": "Entry is prohibited for any vehicle whose width or cargo width is greater than the width indicated on the sign.",
+      "ar": "الدخول محظور لأي مركبة يزيد عرضها أو عرض حمولتها عن العرض المسجل على اللافتة."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 10
+  },
+  {
+    "id": 23,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What is the meaning of the sign?",
+      "ar": "ما معنى هذه اللافتة؟"
+    },
+    "options": [
+      {
+        "he": "הכביש הולך ומתרחב.",
+        "en": "The road is widening.",
+        "ar": "الطريق يتوسع."
+      },
+      {
+        "he": "פנייה שמאלה או ימינה לפניך.",
+        "en": "Turn left or right ahead.",
+        "ar": "انعطاف يسارًا أو يمينًا أمامك."
+      },
+      {
+        "he": "מספר הנתיבים בכביש הולך וגדל.",
+        "en": "The number of lanes on the road is increasing.",
+        "ar": "عدد المسارات على الطريق في ازدياد."
+      },
+      {
+        "he": "מותר לעצור בצד שמאל של הכביש.",
+        "en": "Stopping is permitted on the left side of the road.",
+        "ar": "يُسمح بالتوقف على الجانب الأيسر من الطريق."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "מספר הנתיבים בכביש הולך וגדל.",
+      "en": "The number of lanes on the road is increasing.",
+      "ar": "عدد المسارات على الطريق في ازدياد."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 11
+  },
+  {
+    "id": 24,
+    "text": {
+      "he": "הוצב תמרור במרחק של כ-100 מטר לפני מפגש מסילת ברזל ולפניך נוסע רכב איטי:",
+      "en": "A sign is placed about 100 meters before a railway crossing, and a slow vehicle is traveling in front of you:",
+      "ar": "تم وضع لافتة على بعد حوالي 100 متر قبل تقاطع سكة حديد، وتسير أمامك مركبة بطيئة:"
+    },
+    "options": [
+      {
+        "he": "אסור לך לעקוף את הרכב עד לחציית המפגש.",
+        "en": "You are forbidden to overtake the vehicle until after crossing the crossing.",
+        "ar": "يُحظر عليك تجاوز المركبة حتى بعد عبور التقاطع."
+      },
+      {
+        "he": "מותר לך לעקוף את הרכב עוד לפני המפגש.",
+        "en": "You are allowed to overtake the vehicle before the crossing.",
+        "ar": "يُسمح لك بتجاوز المركبة قبل التقاطع."
+      },
+      {
+        "he": "מותר לך לעקוף את הרכב רק כאשר הדרך ממול פנויה.",
+        "en": "You are allowed to overtake the vehicle only when the oncoming lane is clear.",
+        "ar": "يُسمح لك بتجاوز المركبة فقط عندما يكون المسار المقابل خاليًا."
+      },
+      {
+        "he": "מותר לך לעקוף את הרכב רק כאשר המהירות אינה עולה על 35 קמ\"ש.",
+        "en": "You are allowed to overtake the vehicle only when the speed does not exceed 35 km/h.",
+        "ar": "يُسمح لك بتجاوز المركبة فقط عندما لا تتجاوز السرعة 35 كم/ساعة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "אסור לך לעקוף את הרכב עד לחציית המפגש.",
+      "en": "You are forbidden to overtake the vehicle until after crossing the crossing.",
+      "ar": "يُحظر عليك تجاوز المركبة حتى بعد عبور التقاطع."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 25,
+    "text": {
+      "he": "כיצד יש לנהוג ממקום הצבת התמרור ועד אחרי המסילה?",
+      "en": "How should you drive from the location of the sign until after the railway tracks?",
+      "ar": "كيف يجب أن تقود من موقع اللافتة حتى بعد مسار السكة الحديد؟"
+    },
+    "options": [
+      {
+        "he": "האט ועבור את המסילה בנסיעה רצופה וללא עיכוב, אין לעצור על המסילה.",
+        "en": "Slow down and cross the tracks continuously without delay; do not stop on the tracks.",
+        "ar": "أبطئ واعبر المسارات بشكل مستمر ودون تأخير؛ لا تتوقف على المسارات."
+      },
+      {
+        "he": "עצור אחרי התמרור והבט שמאלה וימינה.",
+        "en": "Stop after the sign and look left and right.",
+        "ar": "توقف بعد اللافتة وانظر يسارًا ويمينًا."
+      },
+      {
+        "he": "תן זכות קדימה לתנועה מהכיוון הנגדי.",
+        "en": "Give way to traffic from the opposite direction.",
+        "ar": "أعط الأولوية لحركة المرور من الاتجاه المعاكس."
+      },
+      {
+        "he": "עבור את המסילה במהירות.",
+        "en": "Cross the tracks quickly.",
+        "ar": "اعبر المسارات بسرعة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "האט ועבור את המסילה בנסיעה רצופה וללא עיכוב, אין לעצור על המסילה.",
+      "en": "Slow down and cross the tracks continuously without delay; do not stop on the tracks.",
+      "ar": "أبطئ واعبر المسارات بشكل مستمر ودون تأخير؛ لا تتوقف على المسارات."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 12
+  },
+  {
+    "id": 26,
+    "text": {
+      "he": "נכנסת לרכב. מה עליך לעשות תחילה, לפני התחלת הנסיעה?",
+      "en": "You entered the vehicle. What should you do first, before starting to drive?",
+      "ar": "لقد دخلت المركبة. ما الذي يجب عليك فعله أولاً قبل البدء في القيادة؟"
+    },
+    "options": [
+      {
+        "he": "לוודא כי בלם עזר (חנייה-יד) מופעל ולכוון את מושב הנהג.",
+        "en": "Ensure the parking brake (handbrake) is engaged and adjust the driver's seat.",
+        "ar": "تأكد من أن فرامل اليد (فرامل الانتظار) مشغولة واضبط مقعد السائق."
+      },
+      {
+        "he": "להתניע את המנוע ולסדר את המושב לנהיגה בטוחה.",
+        "en": "Start the engine and arrange the seat for safe driving.",
+        "ar": "شغل المحرك ورتب المقعد لقيادة آمنة."
+      },
+      {
+        "he": "לסדר את המושב ליד הנהג כדי לאפשר כניסה נוחה של נוסע מימין.",
+        "en": "Arrange the seat next to the driver to allow comfortable entry for a passenger from the right.",
+        "ar": "رتب المقعد بجوار السائق للسماح بدخول مريح للراكب من اليمين."
+      },
+      {
+        "he": "לוודא כי ברשותך מפתחות נוספים (חלופיים) של הרכב.",
+        "en": "Ensure you have additional (spare) keys for the vehicle.",
+        "ar": "تأكد من أن لديك مفاتيح إضافية (احتياطية) للمركبة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "לוודא כי בלם עזר (חנייה-יד) מופעל ולכוון את מושב הנהג.",
+      "en": "Ensure the parking brake (handbrake) is engaged and adjust the driver's seat.",
+      "ar": "تأكد من أن فرامل اليد (فرامل الانتظار) مشغولة واضبط مقعد السائق."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 27,
+    "text": {
+      "he": "באילו תנאים מותר לפנות פניית פרסה?",
+      "en": "Under what conditions is a U-turn permitted?",
+      "ar": "تحت أي ظروف يُسمح بالدوران للخلف (U-turn)؟"
+    },
+    "options": [
+      {
+        "he": "כאשר אין הפרעה לתנועה או אין סיכון לעוברי דרך ואין תמרור האוסר פניית פרסה.",
+        "en": "When there is no obstruction to traffic or risk to pedestrians, and there is no sign prohibiting a U-turn.",
+        "ar": "عندما لا يكون هناك إعاقة لحركة المرور أو خطر على المارة، ولا توجد لافتة تمنع الدوران للخلف."
+      },
+      {
+        "he": "מותר בכל מקום אבל אסור לתמרן בכביש לצורך ביצוע הפנייה.",
+        "en": "Permitted anywhere, but maneuvering on the road to perform the turn is forbidden.",
+        "ar": "مسموح به في أي مكان، ولكن المناورة على الطريق لتنفيذ الدوران ممنوعة."
+      },
+      {
+        "he": "פניית פרסה מותרת רק בכביש בעל שלושה נתיבים לפחות.",
+        "en": "A U-turn is permitted only on a road with at least three lanes.",
+        "ar": "يُسمح بالدوران للخلف فقط على طريق به ثلاثة مسارات على الأقل."
+      },
+      {
+        "he": "הפנייה מותרת בצומת בלבד.",
+        "en": "The turn is permitted only at an intersection.",
+        "ar": "الدوران مسموح به فقط عند التقاطع."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "כאשר אין הפרעה לתנועה או אין סיכון לעוברי דרך ואין תמרור האוסר פניית פרסה.",
+      "en": "When there is no obstruction to traffic or risk to pedestrians, and there is no sign prohibiting a U-turn.",
+      "ar": "عندما لا يكون هناك إعاقة لحركة المرور أو خطر على المارة، ولا توجد لافتة تمنع الدوران للخلف."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 28,
+    "text": {
+      "he": "כיצד תנהג על פי התמרור?",
+      "en": "How should you drive according to the sign?",
+      "ar": "كيف يجب أن تقود وفقًا للافتة؟"
+    },
+    "options": [
+      {
+        "he": "התכונן לאפשרות של האטה, שים לב לעומס התנועה והתאם נסיעתך לתנועה ולתנאי הדרך.",
+        "en": "Prepare for the possibility of slowing down, pay attention to traffic load, and adjust your driving to the traffic and road conditions.",
+        "ar": "استعد لاحتمال التباطؤ، انتبه لكثافة حركة المرور، واضبط قيادتك وفقًا لحركة المرور وظروف الطريق."
+      },
+      {
+        "he": "המשך בנסיעתך ושים לב להתנהגותם של כלי הרכב מימינך.",
+        "en": "Continue driving and pay attention to the behavior of vehicles to your right.",
+        "ar": "استمر في القيادة وانتبه لسلوك المركبات على يمينك."
+      },
+      {
+        "he": "הגבר מהירות ועקוף את כלי הרכב הנוסעים לאט בדרך.",
+        "en": "Increase speed and overtake the slow-moving vehicles on the road.",
+        "ar": "زد السرعة وتجاوز المركبات البطيئة على الطريق."
+      },
+      {
+        "he": "הישמע להוראות העובדים בכביש והתקדם בהתאם לסימונים.",
+        "en": "Obey the instructions of the workers on the road and proceed according to the markings.",
+        "ar": "امتثل لتعليمات العمال على الطريق وتقدم وفقًا للعلامات."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "התכונן לאפשרות של האטה, שים לב לעומס התנועה והתאם נסיעתך לתנועה ולתנאי הדרך.",
+      "en": "Prepare for the possibility of slowing down, pay attention to traffic load, and adjust your driving to the traffic and road conditions.",
+      "ar": "استعد لاحتمال التباطؤ، انتبه لكثافة حركة المرور، واضبط قيادتك وفقًا لحركة المرور وظروف الطريق."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 13
+  },
+  {
+    "id": 29,
+    "text": {
+      "he": "כיצד תנהג (רכב 3) כשאתה פונה ימינה בצומת שלפניך?",
+      "en": "How should you (vehicle 3) drive when turning right at the intersection ahead?",
+      "ar": "كيف يجب أن تقود (مركبة 3) عند الانعطاف يمينًا عند التقاطع أمامك؟"
+    },
+    "options": [
+      {
+        "he": "אפשר לרוכב האופניים (1) להמשיך בנסיעה ופנה ימינה מאחוריו.",
+        "en": "Allow the cyclist (1) to continue riding and turn right behind them.",
+        "ar": "اسمح لراكب الدراجة (1) بمواصلة السير وانعطف يمينًا خلفه."
+      },
+      {
+        "he": "עקוף את רוכב האופניים (1) בזריזות ובזהירות. הוא ימתין.",
+        "en": "Overtake the cyclist (1) quickly and carefully. They will wait.",
+        "ar": "تجاوز راكب الدراجة (1) بسرعة وحذر. هو سينتظر."
+      },
+      {
+        "he": "היכנס (3) למרכז הצומת, ובכך תמנע פגיעה באופניים (1) מצד הרכב הכחול (2).",
+        "en": "Enter (3) the center of the intersection, thus preventing a collision with the bicycle (1) by the blue vehicle (2).",
+        "ar": "ادخل (3) إلى وسط التقاطع، وبذلك تمنع الاصطدام بالدراجة (1) من جانب المركبة الزرقاء (2)."
+      },
+      {
+        "he": "צפור בחזקה לרוכב האופניים (1) כדי שיאפשר לך להשלים את הפנייה ימינה.",
+        "en": "Honk loudly at the cyclist (1) so they allow you to complete the right turn.",
+        "ar": "أطلق البوق بقوة على راكب الدراجة (1) ليسمح لك بإكمال الانعطاف يمينًا."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "אפשר לרוכב האופניים (1) להמשיך בנסיעה ופנה ימינה מאחוריו.",
+      "en": "Allow the cyclist (1) to continue riding and turn right behind them.",
+      "ar": "اسمح لراكب الدراجة (1) بمواصلة السير وانعطف يمينًا خلفه."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 14
+  },
+  {
+    "id": 30,
+    "text": {
+      "he": "מה תפקיד המתנע (סטרטר) ברכב?",
+      "en": "What is the role of the starter in a vehicle?",
+      "ar": "ما هو دور المشغل (المبدئ - الستارتر) في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "להתניע את המנוע.",
+        "en": "To start the engine.",
+        "ar": "لبدء تشغيل المحرك."
+      },
+      {
+        "he": "לחבר את התנועה מן המנוע לגלגלים.",
+        "en": "To connect the motion from the engine to the wheels.",
+        "ar": "لتوصيل الحركة من المحرك إلى العجلات."
+      },
+      {
+        "he": "לנתק את התנועה מן המנוע לגלגלים.",
+        "en": "To disconnect the motion from the engine from the wheels.",
+        "ar": "لفصل الحركة من المحرك عن العجلات."
+      },
+      {
+        "he": "לשלוט על פעולת המנוע.",
+        "en": "To control the engine's operation.",
+        "ar": "للتحكم في تشغيل المحرك."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "להתניע את המנוע.",
+      "en": "To start the engine.",
+      "ar": "لبدء تشغيل المحرك."
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 39,
+    "text": {
+      "he": "הצומת שלפניך מתומרר בדיוק כבציור. מהו האופן הנכון לפנייה ימינה מרחוב ב' לרחוב ג'?",
+      "en": "The intersection ahead is marked exactly as shown. What is the correct way to turn right from Street B to Street C?",
+      "ar": "التقاطع أمامك معلم تمامًا كما في الرسم. ما هي الطريقة الصحيحة للانعطاف يمينًا من الشارع ب إلى الشارع ج؟"
+    },
+    "options": [
+      {
+        "he": "מנתיב 7 לנתיב 6 או לנתיב 1.",
+        "en": "From lane 7 to lane 6 or to lane 1.",
+        "ar": "من المسار 7 إلى المسار 6 أو إلى المسار 1."
+      },
+      {
+        "he": "מנתיב 7 לנתיב 6 בלבד.",
+        "en": "From lane 7 to lane 6 only.",
+        "ar": "من المسار 7 إلى المسار 6 فقط."
+      },
+      {
+        "he": "מנתיב 7 או מנתיב 8 לנתיב 6 או לנתיב 5.",
+        "en": "From lane 7 or lane 8 to lane 6 or to lane 5.",
+        "ar": "من المسار 7 أو المسار 8 إلى المسار 6 أو إلى المسار 5."
+      },
+      {
+        "he": "מנתיב 8 לנתיב 6.",
+        "en": "From lane 8 to lane 6.",
+        "ar": "من المسار 8 إلى المسار 6."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "מנתיב 7 לנתיב 6 בלבד.",
+      "en": "From lane 7 to lane 6 only.",
+      "ar": "من المسار 7 إلى المسار 6 فقط."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 15
+  },
+  {
+    "id": 40,
+    "text": {
+      "he": "הצומת שלפניך מתומרר בדיוק כבציור. מהו האופן (C) הנכון לפנות מרחוב א' לרחוב ג'?",
+      "en": "The intersection ahead is marked exactly as shown. What is the correct way (C) to turn from Street A to Street C?",
+      "ar": "التقاطع أمامك معلم تمامًا كما في الرسم. ما هي الطريقة الصحيحة (C) للانعطاف من الشارع أ إلى الشارع ج؟"
+    },
+    "options": [
+      {
+        "he": "מנתיב 1 או מנתיב 2 לנתיב 1.",
+        "en": "From lane 1 or lane 2 to lane 1.",
+        "ar": "من المسار 1 أو المسار 2 إلى المسار 1."
+      },
+      {
+        "he": "מנתיב 2 לנתיב 3.",
+        "en": "From lane 2 to lane 3.",
+        "ar": "من المسار 2 إلى المسار 3."
+      },
+      {
+        "he": "מנתיב 1 או מנתיב 2 לנתיב 3.",
+        "en": "From lane 1 or lane 2 to lane 3.",
+        "ar": "من المسار 1 أو المسار 2 إلى المسار 3."
+      },
+      {
+        "he": "מנתיב 2 לנתיב 4.",
+        "en": "From lane 2 to lane 4.",
+        "ar": "من المسار 2 إلى المسار 4."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "מנתיב 2 לנתיב 4.",
+      "en": "From lane 2 to lane 4.",
+      "ar": "من المسار 2 إلى المسار 4."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 16
+  },
+  {
+    "id": 55,
+    "text": {
+      "he": "תוקפו של איזה מהתמרורים האלה לא יפוג בצומת הקרוב?",
+      "en": "Which of these signs remains in effect at the next intersection?",
+      "ar": "أي من هذه الإشارات يظل ساري المفعول عند التقاطع التالي؟"
+    },
+    "options": [
+      {
+        "he": "14–24.",
+        "en": "14–24.",
+        "ar": "14–24."
+      },
+      {
+        "he": "24–26.",
+        "en": "24–26.",
+        "ar": "24–26."
+      },
+      {
+        "he": "34–32.",
+        "en": "34–32.",
+        "ar": "34–32."
+      },
+      {
+        "he": "45–04.",
+        "en": "45–04.",
+        "ar": "45–04."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "14–24.",
+      "en": "14–24.",
+      "ar": "14–24."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 18
+  },
+  {
+    "id": 56,
+    "text": {
+      "he": "מה פירוש הסמל?",
+      "en": "What is the meaning of this symbol?",
+      "ar": "ما معنى هذا الرمز؟"
+    },
+    "options": [
+      {
+        "he": "חניון לתיקון אוטובוסים בלבד.",
+        "en": "Parking for bus repair only.",
+        "ar": "موقف لتصليح الحافلات فقط."
+      },
+      {
+        "he": "חניון־לילה לאוטובוסים בלבד.",
+        "en": "Overnight parking for buses only.",
+        "ar": "موقف ليلي للحافلات فقط."
+      },
+      {
+        "he": "חניון בתשלום לאוטובוסים בלבד.",
+        "en": "Paid parking for buses only.",
+        "ar": "موقف مدفوع للحافلات فقط."
+      },
+      {
+        "he": "חנה וסע.",
+        "en": "Park and ride.",
+        "ar": "حرك وركن."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "חניון בתשלום לאוטובוסים בלבד.",
+      "en": "Paid parking for buses only.",
+      "ar": "موقف مدفوع للحافلات فقط."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 18
+  },
+  {
+    "id": 57,
+    "text": {
+      "he": "מה משמעות הסימון על פני הכביש?",
+      "en": "What is the meaning of the road marking?",
+      "ar": "ما معنى الخط المرسوم على الطريق؟"
+    },
+    "options": [
+      {
+        "he": "האט! כביש משובש לפניך.",
+        "en": "Slow down! Rough road ahead.",
+        "ar": "تمهّل! طريق وعِر أمامك."
+      },
+      {
+        "he": "אזהרה: עובדים בכביש.",
+        "en": "Warning: road works ahead.",
+        "ar": "تحذير: أعمال في الطريق."
+      },
+      {
+        "he": "מקום עצירה לסוג מסוים של רכב במקום שאין בו מפרץ.",
+        "en": "Stopping area for a specific vehicle type where there is no bay.",
+        "ar": "منطقة توقف لنوع مركبة معين حيث لا توجد خليّة."
+      },
+      {
+        "he": "אזור חנייה לרכב נוסעים פרטי.",
+        "en": "Parking area for private passenger vehicles.",
+        "ar": "منطقة وقوف للمركبات الخاصة."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "מקום עצירה לסוג מסוים של רכב במקום שאין בו מפרץ.",
+      "en": "Stopping area for a specific vehicle type where there is no bay.",
+      "ar": "منطقة توقف لنوع مركبة معين حيث لا توجد خليّة."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 19
+  },
+  {
+    "id": 58,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What is the meaning of the sign?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "מחסום לפני מפגש מסילת ברזל.",
+        "en": "Barrier before a railway crossing.",
+        "ar": "حاجز قبل معبر سكك الحديد."
+      },
+      {
+        "he": "העצירה והחנייה אסורות, פרט לאוטובוסים.",
+        "en": "Stopping and parking prohibited, except for buses.",
+        "ar": "التوقف والوقوف ممنوعان، باستثناء الحافلات."
+      },
+      {
+        "he": "החנייה מותרת באמצעות כרטיסי חנייה.",
+        "en": "Parking permitted by parking tickets.",
+        "ar": "يسمح بالوقوف بتذاكر الوقوف."
+      },
+      {
+        "he": "עצירת רגע מותרת אך החנייה אסורה.",
+        "en": "Brief stopping allowed but parking prohibited.",
+        "ar": "مسموح بالتوقف للحظة ولكن الوقوف ممنوع."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "מחסום לפני מפגש מסילת ברזל.",
+      "en": "Barrier before a railway crossing.",
+      "ar": "حاجز قبل معبر سكك الحديد."
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 20
+  },
+  {
+    "id": 62,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What is the meaning of this traffic sign?",
+      "ar": "ما هو معنى هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "מכאן ולאורך קטע של 2,500 מטרים יש ירידה תלולה.",
+        "en": "From here and for 2,500 m there is a steep descent.",
+        "ar": "من هنا ولمسافة ٢٥٠٠ متر يوجد نزول حاد."
+      },
+      {
+        "he": "בעוד 2,500 מטרים מתחילה ירידה תלולה.",
+        "en": "In 2,500 m a steep descent begins.",
+        "ar": "بعد ٢٥٠٠ متر يبدأ نزول حاد."
+      },
+      {
+        "he": "לאורך קטע של 2,500 מטרים יש עלייה תלולה המתחילה עתה.",
+        "en": "For 2,500 m there is a steep ascent starting now.",
+        "ar": "لمسافة ٢٥٠٠ متر يوجد صعود حاد يبدأ الآن."
+      },
+      {
+        "he": "בעוד 2,500 מטרים מתחילה עלייה מסוכנת.",
+        "en": "In 2,500 m a dangerous ascent begins.",
+        "ar": "بعد ٢٥٠٠ متر يبدأ صعود خطير."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 23
+  },
+  {
+    "id": 63,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What does this sign indicate?",
+      "ar": "ماذا يشير هذا الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "תמרור אזהרה: הכניסה אסורה לרכב מנועי בשני הכיוונים.",
+        "en": "Warning sign: motor vehicles prohibited in both directions.",
+        "ar": "شاخصة تحذير: يُمنع دخول المركبات الآلية في الاتجاهين."
+      },
+      {
+        "he": "אין כניסה לכלי רכב.",
+        "en": "No entry to vehicles.",
+        "ar": "ممنوع دخول المركبات."
+      },
+      {
+        "he": "אסורה הכניסה לכל רכב (כביש חד-סטרי. יש תנועה ממול).",
+        "en": "Entry forbidden to all vehicles (one‑way road, on‑coming traffic).",
+        "ar": "ممنوع دخول أي مركبة (طريق باتجاه واحد مع حركة مقابلة)."
+      },
+      {
+        "he": "תמרור מודיעין: הכניסה אסורה לרכב שאינו מנועי בשני הכיוונים.",
+        "en": "Information sign: non‑motor vehicles prohibited in both directions.",
+        "ar": "شاخصة إرشاد: يُمنع مرور المركبات غير الآلية في الاتجاهين."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 24
+  },
+  {
+    "id": 72,
+    "text": {
+      "he": "כיצד תנהג על פי התמרור?",
+      "en": "How should you act according to the sign?",
+      "ar": "كيف يجب أن تتصرف وفقًا للشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "אפשר לרכב הבא ממול לחלוף על פניך בלי שיתעכב ובלי שיסטה מנתיבו.",
+        "en": "Allow the on‑coming vehicle to pass without delay and without deviating from its lane.",
+        "ar": "اسمح للمركبة القادمة من الاتجاه المقابل بالمرور دون تأخير ودون أن تنحرف عن مسارها."
+      },
+      {
+        "he": "הגבר מהירות כדי לסיים את התנועה בקטע בזמן קצר.",
+        "en": "Increase speed to clear the section quickly.",
+        "ar": "زد سرعتك لتجتاز המقطع بسرعة."
+      },
+      {
+        "he": "הימנע משימוש בעת הנסיעה בנתיב הימני.",
+        "en": "Avoid using the right‑hand lane while driving.",
+        "ar": "تجنب استخدام المسار الأيمن أثناء القيادة."
+      },
+      {
+        "he": "המשך בנסיעה במהירות הרגילה – זכות הקדימה שלך.",
+        "en": "Continue at normal speed – the right‑of‑way is yours.",
+        "ar": "واصل السير بالسرعة العادية – أحقية المرور لك."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 25
+  },
+  {
+    "id": 74,
+    "text": {
+      "he": "מה מציין התמרור?",
+      "en": "What does the sign indicate?",
+      "ar": "ماذا تشير هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "מלון לפניך.",
+        "en": "Hotel ahead.",
+        "ar": "فندق أمامك."
+      },
+      {
+        "he": "מסעדה.",
+        "en": "Restaurant.",
+        "ar": "مطعم."
+      },
+      {
+        "he": "מאהל דרכים.",
+        "en": "Roadside campground.",
+        "ar": "مخيم طريق."
+      },
+      {
+        "he": "תחנת רענון לנהגים.",
+        "en": "Driver rest station.",
+        "ar": "محطة استراحة للسائقين."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 26
+  },
+  {
+    "id": 77,
+    "text": {
+      "he": "מה מציין התמרור?",
+      "en": "What does the sign denote?",
+      "ar": "ماذا تشير الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "מפעל ליציקת זכוכית.",
+        "en": "Glass‑casting factory.",
+        "ar": "مصنع لصب الزجاج."
+      },
+      {
+        "he": "מזנון או בית קפה.",
+        "en": "Snack bar or café.",
+        "ar": "كافتيريا أو مقهى."
+      },
+      {
+        "he": "מאהל דרכים.",
+        "en": "Roadside campground.",
+        "ar": "مخيم طريق."
+      },
+      {
+        "he": "שירותים ציבוריים.",
+        "en": "Public toilets.",
+        "ar": "دورات مياه عامة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 28
+  },
+  {
+    "id": 82,
+    "text": {
+      "he": "כשהתמרורים או הסימון שעל הכביש בצבע כתום:",
+      "en": "When the signs or road markings are orange:",
+      "ar": "عندما تكون الشواخص أو علامات الطريق باللون البرتقالي:"
+    },
+    "options": [
+      {
+        "he": "הם מסמנים אתר של עבודה בדרך.",
+        "en": "They mark a road‑work site.",
+        "ar": "إنها تشير إلى موقع أعمال طريق."
+      },
+      {
+        "he": "אלה תמרורים זמניים בדרך שאינה עירונית בלבד, שתוקפם מוגבל לשלושה חודשים.",
+        "en": "They are temporary signs on non‑urban roads only, valid for three months.",
+        "ar": "هي شواخص مؤقتة في طرق غير حضرية فقط، ويسري مفعولها ثلاثة أشهر."
+      },
+      {
+        "he": "אלה תמרורים בצבע מיוחד, שנועד לבלוט בתנאי מזג האוויר המיוחדים.",
+        "en": "They are special‑color signs meant to stand out in special weather conditions.",
+        "ar": "هي شواخص بلون مميز لتبرز في أحوال جوية خاصة."
+      },
+      {
+        "he": "אלה תמרורים או סימונים המסומנים בקטעי דרך שבהם קיימת סכנה, שלא נקבע לגביה תמרור מיוחד.",
+        "en": "They are signs/markings placed where there is a hazard for which no specific sign was set.",
+        "ar": "هي شواخص أو علامات موضوعة في مقاطع طريق بها خطر لم يُحدد له شاخصة خاصة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 83,
+    "text": {
+      "he": "תמרור שצורתו עיגול בדרך כלל הוא:",
+      "en": "A sign that is generally circular is:",
+      "ar": "شاخصة تكون عادة على شكل دائرة هي:"
+    },
+    "options": [
+      {
+        "he": "תמרור הכוונה.",
+        "en": "A direction sign.",
+        "ar": "شاخصة توجيه."
+      },
+      {
+        "he": "תמרור מודיעין.",
+        "en": "An information sign.",
+        "ar": "شاخصة معلومات."
+      },
+      {
+        "he": "תמרור הוריה או איסור.",
+        "en": "A regulatory (order/prohibition) sign.",
+        "ar": "شاخصة أوامر أو منع."
+      },
+      {
+        "he": "תמרור אזהרה.",
+        "en": "A warning sign.",
+        "ar": "شاخصة تحذير."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1
+  },
+  {
+    "id": 93,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this traffic sign mean?",
+      "ar": "ما معنى هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "כביש חד‑סטרי לפניך.",
+        "en": "One‑way road ahead.",
+        "ar": "طريق باتجاه واحد أمامك."
+      },
+      {
+        "he": "מותר לנסוע בנתיב זה.",
+        "en": "Driving in this lane is allowed.",
+        "ar": "يُسمح بالقيادة في هذا المسار."
+      },
+      {
+        "he": "לך יש זכות קדימה בדרך שלפניך.",
+        "en": "You have right‑of‑way on the road ahead.",
+        "ar": "لك أحقية المرور في الطريق أمامك."
+      },
+      {
+        "he": "הנסיעה בנתיב זה אסורה.",
+        "en": "Driving in this lane is prohibited.",
+        "ar": "ممنوع القيادة في هذا المسار."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 33
+  },
+  {
+    "id": 97,
+    "text": {
+      "he": "כיצד ינהג נוהג ברכב המתקרב לתמרור?",
+      "en": "How should a driver approaching this sign behave?",
+      "ar": "كيف يجب أن يتصرف السائق عند اقترابه من هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "יאט לפני הצומת וימשיך רק בכיוונים המסומנים בחצים.",
+        "en": "Slow down before the intersection and proceed only in the directions shown by the arrows.",
+        "ar": "يُبطئ قبل التقاطع ويتابع فقط بالاتجاهات المبيَّنة بالأسهم."
+      },
+      {
+        "he": "יאט במקום שבו מבוצעת עבודה בדרך וימשיך בנסיעה.",
+        "en": "Slow where road works are carried out and continue driving.",
+        "ar": "يُبطئ حيث توجد أعمال طريق ثم يواصل السير."
+      },
+      {
+        "he": "יעקוף את התמרור מימינו או משמאלו וימשיך קדימה.",
+        "en": "Pass the sign on the right or left and continue straight.",
+        "ar": "يتجاوز الشاخصة من اليمين أو اليسار ويواصل إلى الأمام."
+      },
+      {
+        "he": "יעצור לפני התמרור ויפנה ימינה או שמאלה.",
+        "en": "Stop before the sign and turn right or left.",
+        "ar": "يتوقف قبل الشاخصة ثم ينعطف يميناً أو يساراً."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 34
+  },
+  {
+    "id": 98,
+    "text": {
+      "he": "מה פירוש התמרור? לוח נייד מהבהב:",
+      "en": "What does the flashing mobile panel mean?",
+      "ar": "ما معنى اللوحة المتنقلة الوامضة؟"
+    },
+    "options": [
+      {
+        "he": "איתות אזהרה והכוונה באתר עבודה בדרך.",
+        "en": "Warning and guidance signal at a road‑work site.",
+        "ar": "إشارة تحذير وتوجيه في موقع أعمال طريق."
+      },
+      {
+        "he": "לפני מעבר מדרך שאינה עירונית לדרך מהירה.",
+        "en": "Before transition from a non‑urban road to a freeway.",
+        "ar": "قبل الانتقال من طريق غير حضري إلى طريق سريع."
+      },
+      {
+        "he": "לצורך פרסום לנוהגים בכלי הרכב.",
+        "en": "For advertising to road users.",
+        "ar": "لغرض الإعلان لقائدي المركبات."
+      },
+      {
+        "he": "איתות אזהרה והכוונה לפני כניסה לאזור שדה תעופה.",
+        "en": "Warning and guidance signal before entering an airport zone.",
+        "ar": "إشارة تحذير وتوجيه قبل دخول منطقة مطار."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 35
+  },
+  {
+    "id": 101,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "נתיב לרכבת קלה, לאוטובוס, למונית ולרכב עם מספר נוסעים מינימלי.",
+        "en": "Lane for light rail, bus, taxi and vehicles with at least the indicated number of occupants.",
+        "ar": "مسار للقطار الخفيف والحافلة وسيارة الأجرة والمركبات ذات عدد الركاب المحدد أو أكثر."
+      },
+      {
+        "he": "נתיב שבו אסורה הנסיעה לתחבורה ציבורית.",
+        "en": "Lane where public transport is prohibited.",
+        "ar": "مسار يمنع حركة وسائل النقل العام."
+      },
+      {
+        "he": "הנסיעה מותרת לכל רכב הנע על ארבעה גלגלים.",
+        "en": "All four‑wheeled vehicles may use the lane.",
+        "ar": "يُسمح لجميع المركبات ذات الأربع عجلات باستخدام المسار."
+      },
+      {
+        "he": "הנסיעה מותרת לכל רכב, למעט רכבת קלה ואוטובוס חשמלי.",
+        "en": "All vehicles except light rail and trolleybus may use the lane.",
+        "ar": "يُسمح لجميع المركبات باستثناء القطار الخفيف والحافلة الكهربائية."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 36
+  },
+  {
+    "id": 104,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign indicate?",
+      "ar": "ماذا تشير هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "מספרה של דרך אזורית.",
+        "en": "Number of a regional road.",
+        "ar": "رقم طريق إقليمي."
+      },
+      {
+        "he": "מספרה של דרך מהירה.",
+        "en": "Number of a freeway.",
+        "ar": "رقم طريق سريع."
+      },
+      {
+        "he": "המרחק עד לצומת הקרוב (בק\"מ).",
+        "en": "Distance to the next junction (km).",
+        "ar": "المسافة إلى التقاطع القريب (كم)."
+      },
+      {
+        "he": "המרחק עד הכביש הקרוב (בק\"מ).",
+        "en": "Distance to the nearest road (km).",
+        "ar": "المسافة إلى أقرب طريق (كم)."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 37
+  },
+  {
+    "id": 107,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الشاخصة؟"
+    },
+    "options": [
+      {
+        "he": "יציאה מדרך מהירה.",
+        "en": "Exit from a freeway.",
+        "ar": "خروج من طريق سريع."
+      },
+      {
+        "he": "גשר עילי מעל דרך מהירה.",
+        "en": "Overpass above a freeway.",
+        "ar": "جسر علوي فوق طريق سريع."
+      },
+      {
+        "he": "כניסה לדרך מהירה.",
+        "en": "Entrance to a freeway.",
+        "ar": "دخول إلى طريق سريع."
+      },
+      {
+        "he": "מחלף בדרך מהירה לפניך.",
+        "en": "Freeway interchange ahead.",
+        "ar": "تقاطع طريق سريع أمامك."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 38
+  },
+  {
+    "id": 111,
+    "text": {
+      "he": "האם בתמרור שלפניך יש התייחסות למתן זכות קדימה?",
+      "en": "Does the following sign relate to right‑of‑way?",
+      "ar": "هل تشير الشاخصة التالية إلى إعطاء حق الأولوية؟"
+    },
+    "options": [
+      {
+        "he": "כן. יש לתת זכות קדימה לרכב בדרך החוצה.",
+        "en": "Yes; you must yield to traffic on the intersecting road.",
+        "ar": "نعم؛ يجب إعطاء الأولوية للمركبات في الطريق المتقاطع."
+      },
+      {
+        "he": "לא. השלט שייך לתמרורי הוריה ואינו מחייב זכות קדימה.",
+        "en": "No; it is a regulatory sign that does not impose yielding.",
+        "ar": "لا؛ الشاخصة تنظيمية ولا تلزم بإعطاء حق الأولوية."
+      },
+      {
+        "he": "לא. רק תמרורי הוריה דורשים מתן זכות קדימה.",
+        "en": "No; only regulatory signs require yielding.",
+        "ar": "لا؛ فقط شواخص الأوامر تتطلب إعطاء الأولوية."
+      },
+      {
+        "he": "לא. זהו תמרור אזהרה שאינו מחליף תמרורי זכות קדימה.",
+        "en": "No; it is a warning sign and does not replace yield signs.",
+        "ar": "لا؛ إنها شاخصة تحذير ولا تغني عن شواخص الأولوية."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 39
+  },
+  {
+    "id": 127,
+    "text": {
+      "he": "מה משמעותו של התמרור המוצב בדרך שלפניך ?",
+      "en": "What does the road sign ahead of you mean?",
+      "ar": "ما معنى إشارة المرور الموضوعة أمامك؟"
+    },
+    "options": [
+      {
+        "he": "מקום להורדה ולהעלאה של נוסעי מונית, אבל ללא המתנה.",
+        "en": "Place for dropping off and picking up taxi passengers, but with no waiting.",
+        "ar": "مكان لإنزال وصعود ركاب التاكسي، دون انتظار."
+      },
+      {
+        "he": "מקום להורדה ולהעלאה של נוסעים ברכב ציבורי ללא המתנה.",
+        "en": "Place for dropping off and picking up passengers of a public vehicle with no waiting.",
+        "ar": "مكان لإنزال وصعود ركاب مركبة عمومية دون انتظار."
+      },
+      {
+        "he": "מקום להורדה ולהעלאה של נוסעי מונית, כולל המתנה להם.",
+        "en": "Place for dropping off and picking up taxi passengers, including waiting for them.",
+        "ar": "مكان لإنزال وصعود ركاب التاكسي، مع إمكانية الانتظار."
+      },
+      {
+        "he": "מקום שאסורה בו הורדה והעלאה של נוסעי מונית.",
+        "en": "Place where dropping off and picking up taxi passengers is prohibited.",
+        "ar": "مكان يُحظر فيه إنزال وصعود ركاب التاكسي."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 44
+  },
+  {
+    "id": 146,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the road sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "אסורה כניסת רכב פרטי  .",
+        "en": "Entry of private cars is prohibited.",
+        "ar": "ممنوع دخول السيارات الخاصة."
+      },
+      {
+        "he": "אסורה כניסת כל רכב מנועי ,  פרט לאופנוע בלי רכב צידי .",
+        "en": "Entry of all motor vehicles is prohibited, except a motorcycle without a sidecar.",
+        "ar": "ممنوع دخول أي مركبة آلية، باستثناء دراجة نارية بدون عربة جانبية."
+      },
+      {
+        "he": "אסורה כניסת כל רכב ,  למעט רכב נוסעים פרטי .",
+        "en": "Entry of all vehicles is prohibited, except a private passenger car.",
+        "ar": "ممنوع دخول جميع المركبات، باستثناء سيارة الركاب الخاصة."
+      },
+      {
+        "he": "אסורה חניית כל רכב  .",
+        "en": "Parking of any vehicle is prohibited.",
+        "ar": "ممنوع وقوف أي مركبة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 50
+  },
+  {
+    "id": 148,
+    "text": {
+      "he": "איזה תמרור פירושו שביל או נתיב מיועד לאופניים בלבד ,  סע בכוון החץ :",
+      "en": "Which sign indicates a lane or path for bicycles only, ride in the direction of the arrow:",
+      "ar": "أي إشارة تعني مسارًا مخصصًا للدراجات فقط، سر في اتجاه السهم:"
+    },
+    "options": [
+      {
+        "he": "804",
+        "en": "804",
+        "ar": "804"
+      },
+      {
+        "he": "821",
+        "en": "821",
+        "ar": "821"
+      },
+      {
+        "he": "720",
+        "en": "720",
+        "ar": "720"
+      },
+      {
+        "he": "802",
+        "en": "802",
+        "ar": "802"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 51
+  },
+  {
+    "id": 153,
+    "text": {
+      "he": "נאסרו חנייה ועצירה בצד הדרך. איזה תמרור יוצב במקום ?",
+      "en": "Parking and stopping on the roadside are prohibited. Which sign will be placed there?",
+      "ar": "يحظر الوقوف والتوقف على جانب الطريق. أي إشارة توضع في المكان؟"
+    },
+    "options": [
+      {
+        "he": "434",
+        "en": "434",
+        "ar": "434"
+      },
+      {
+        "he": "433",
+        "en": "433",
+        "ar": "433"
+      },
+      {
+        "he": "817",
+        "en": "817",
+        "ar": "817"
+      },
+      {
+        "he": "432",
+        "en": "432",
+        "ar": "432"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 52
+  },
+  {
+    "id": 146,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the road sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "אסורה כניסת רכב פרטי  .",
+        "en": "Entry of private cars is prohibited.",
+        "ar": "ممنوع دخول السيارات الخاصة."
+      },
+      {
+        "he": "אסורה כניסת כל רכב מנועי ,  פרט לאופנוע בלי רכב צידי .",
+        "en": "Entry of all motor vehicles is prohibited, except a motorcycle without a sidecar.",
+        "ar": "ممنوع دخول أي مركبة آلية، باستثناء دراجة نارية بدون عربة جانبية."
+      },
+      {
+        "he": "אסורה כניסת כל רכב ,  למעט רכב נוסעים פרטי .",
+        "en": "Entry of all vehicles is prohibited, except a private passenger car.",
+        "ar": "ممنوع دخول جميع المركبات، باستثناء سيارة الركاب الخاصة."
+      },
+      {
+        "he": "אסורה חניית כל רכב  .",
+        "en": "Parking of any vehicle is prohibited.",
+        "ar": "ممنوع وقوف أي مركبة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 50
+  },
+  {
+    "id": 148,
+    "text": {
+      "he": "איזה תמרור פירושו שביל או נתיב מיועד לאופניים בלבד ,  סע בכוון החץ :",
+      "en": "Which sign indicates a lane or path for bicycles only, ride in the direction of the arrow:",
+      "ar": "أي إشارة تعني مسارًا مخصصًا للدراجات فقط، سر في اتجاه السهم:"
+    },
+    "options": [
+      {
+        "he": "804",
+        "en": "804",
+        "ar": "804"
+      },
+      {
+        "he": "821",
+        "en": "821",
+        "ar": "821"
+      },
+      {
+        "he": "720",
+        "en": "720",
+        "ar": "720"
+      },
+      {
+        "he": "802",
+        "en": "802",
+        "ar": "802"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 51
+  },
+  {
+    "id": 153,
+    "text": {
+      "he": "נאסרו חנייה ועצירה בצד הדרך. איזה תמרור יוצב במקום ?",
+      "en": "Parking and stopping on the roadside are prohibited. Which sign will be placed there?",
+      "ar": "يحظر الوقوف والتوقف على جانب الطريق. أي إشارة توضع في المكان؟"
+    },
+    "options": [
+      {
+        "he": "434",
+        "en": "434",
+        "ar": "434"
+      },
+      {
+        "he": "433",
+        "en": "433",
+        "ar": "433"
+      },
+      {
+        "he": "817",
+        "en": "817",
+        "ar": "817"
+      },
+      {
+        "he": "432",
+        "en": "432",
+        "ar": "432"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 52
+  },
+  {
+    "id": 155,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the road‑sign mean?",
+      "ar": "ما معنى إشارة المرور؟"
+    },
+    "options": [
+      {
+        "he": "התנועה בכיוון המסומן בחץ הצהוב מותרת לתחבורה ציבורית בלבד.",
+        "en": "Traffic in the yellow‑arrow direction is allowed only for public transport.",
+        "ar": "يُسمح بحركة السير في اتجاه السهم الأصفر للمواصلات العامة فقط."
+      },
+      {
+        "he": "לך יש זכות קדימה בדרך הצרה.",
+        "en": "You have right‑of‑way on the narrow road.",
+        "ar": "لك أولوية المرور في الطريق الضيق."
+      },
+      {
+        "he": "תן זכות קדימה בדרך צרה ותלולה לכל רכב מנועי הבא ממול.",
+        "en": "Yield on the narrow, steep road to any oncoming motor vehicle.",
+        "ar": "أعطِ حق الأولوية في طريق ضيق ومنحدر لكل مركبة قادمة مقابلك."
+      },
+      {
+        "he": "סע קדימה בלבד. כל פנייה אסורה.",
+        "en": "Drive straight ahead only; all turning is prohibited.",
+        "ar": "تقدّم للأمام فقط؛ جميع الانعطافات ممنوعة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 54
+  },
+  {
+    "id": 159,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the road‑sign mean?",
+      "ar": "ما معنى إشارة المرور؟"
+    },
+    "options": [
+      {
+        "he": "זהירות, מקום מאושר למטווח ירי.",
+        "en": "Caution, authorised shooting range ahead.",
+        "ar": "احذر، ميدان رماية مرخَّص أمامك."
+      },
+      {
+        "he": "מרכז העיר או מרכז היישוב או מרכז האזור.",
+        "en": "City centre / town centre / district centre.",
+        "ar": "مركز المدينة أو البلدة أو المنطقة."
+      },
+      {
+        "he": "מקום חנייה מאושר לרכב ציבורי.",
+        "en": "Authorised parking area for public vehicles.",
+        "ar": "مكان مخصص لوقوف المركبات العامة."
+      },
+      {
+        "he": "אתה מתקרב לתחנה של רכבת מקומית.",
+        "en": "You are approaching a local railway station.",
+        "ar": "أنت تقترب من محطة قطار محلية."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 55
+  },
+  {
+    "id": 160,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the road‑sign mean?",
+      "ar": "ما معنى إشارة المرور؟"
+    },
+    "options": [
+      {
+        "he": "הכביש פתוח לאופניים ולהולכי רגל",
+        "en": "Road open to cyclists and pedestrians.",
+        "ar": "الطريق مفتوح للدراجات الهوائية والمشاة."
+      },
+      {
+        "he": "מקום מעבר חצייה לרוכבי אופניים ולהולכי רגל.",
+        "en": "Crossing point for cyclists and pedestrians.",
+        "ar": "مكان عبور للدراجات الهوائية والمشاة."
+      },
+      {
+        "he": "שביל לרוכבי אופניים בלבד.",
+        "en": "Cycle path only.",
+        "ar": "مسار مخصّص للدراجات فقط."
+      },
+      {
+        "he": "אין מעבר להולכי רגל. שבילים נפרדים לאופניים ולהולכי רגל.",
+        "en": "No pedestrian access – separate paths for cyclists and pedestrians.",
+        "ar": "لا مرور للمشاة – مسارات منفصلة للدراجات والمشاة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 56
+  },
+  {
+    "id": 161,
+    "text": {
+      "he": "על פי התמרור, האם אופנוע רשאי לעקוף רכב נוסעים פרטי?",
+      "en": "According to the sign, may a motorcycle overtake a private passenger car?",
+      "ar": "وفقًا للإشارة، هل يجوز لدراجة نارية تجاوز سيارة خصوصية؟"
+    },
+    "options": [
+      {
+        "he": "לא.",
+        "en": "No.",
+        "ar": "لا."
+      },
+      {
+        "he": "כן.",
+        "en": "Yes.",
+        "ar": "نعم."
+      },
+      {
+        "he": "רשאי, ביום בלבד.",
+        "en": "Allowed, but in daylight only.",
+        "ar": "مسموح نهارًا فقط."
+      },
+      {
+        "he": "רשאי – רק כשהכביש חד‑סטרי.",
+        "en": "Allowed only on a one‑way road.",
+        "ar": "مسموح فقط عندما يكون الطريق أحادي الاتجاه."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 57
+  },
+  {
+    "id": 163,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of the road‑sign?",
+      "ar": "ما معنى إشارة المرور؟"
+    },
+    "options": [
+      {
+        "he": "הכוונה ליעדים מעל הנתיבים לפני מחלף (בדרך שאינה עירונית או בדרך מהירה).",
+        "en": "Destination guidance above lanes before an interchange (on a rural road or motorway).",
+        "ar": "توجيه للوجهات فوق المسارات قبل مفرق (في طريق غير حضري أو سريع)."
+      },
+      {
+        "he": "הכוונה למרכז האזור, העיר, המקום.",
+        "en": "Direction to the centre of the area, town or site.",
+        "ar": "إرشاد إلى مركز المنطقة أو المدينة أو المكان."
+      },
+      {
+        "he": "הכוונה מוקדמת לנתיבים לפני צומת ומוצב תמיד מצד שמאל של הכביש.",
+        "en": "Advance lane guide before a junction, always placed on the left side.",
+        "ar": "دليل مبكر للمسارات قبل تقاطع، يُوضع دائمًا في يسار الطريق."
+      },
+      {
+        "he": "הכוונה מוקדמת ליעדים לפני צומת בלבד ומוצב תמיד בצד הימני של הכביש.",
+        "en": "Advance destination guide before a junction, always on the right side.",
+        "ar": "توجيه مبكر للوجهات قبل تقاطع فقط، يُوضع دائمًا في يمين الطريق."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 58
+  },
+  {
+    "id": 166,
+    "text": {
+      "he": "כיצד פונים שמאלה מכביש שמוצב בו התמרור?",
+      "en": "How should you turn left on a road where this sign is displayed?",
+      "ar": "كيف تنعطف يسارًا في طريق وُضعت فيه هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "הפנייה תעשה מן הנתיב הימני ביותר.",
+        "en": "Turn from the right‑most lane.",
+        "ar": "يتم الانعطاف من المسار الأيمن."
+      },
+      {
+        "he": "הפנייה תתחיל מן הנתיב המרכזי.",
+        "en": "Begin the turn from the centre lane.",
+        "ar": "ابدأ الانعطاف من المسار الأوسط."
+      },
+      {
+        "he": "הפנייה שמאלה אסורה מכול וכול ומותר לנסוע רק קדימה.",
+        "en": "Left turn is completely forbidden; you may proceed only straight ahead.",
+        "ar": "الانعطاف يسارًا ممنوع تمامًا؛ يمكنك المتابعة إلى الأمام فقط."
+      },
+      {
+        "he": "מצד שמאל של הכביש אלא אם כן סומן אחרת.",
+        "en": "From the left side of the road unless otherwise marked.",
+        "ar": "من الجانب الأيسر للطريق ما لم يحدد غير ذلك."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 59
+  },
+  {
+    "id": 169,
+    "text": {
+      "he": "כיצד יש לפנות שמאלה על פי הסימון?",
+      "en": "How must you turn left according to the road marking?",
+      "ar": "كيف يجب الانعطاف يسارًا حسب الإشارة على الطريق؟"
+    },
+    "options": [
+      {
+        "he": "מהנתיב השמאלי שבכיוון נסיעתך מכל אחד משני הנתיבים המסומנים.",
+        "en": "From the left‑hand lane in your direction from either of the two marked lanes.",
+        "ar": "من المسار الأيسر في اتجاهك من أي من المسارين المشار إليهما."
+      },
+      {
+        "he": "אסור לפנות שמאלה כלל.",
+        "en": "Turning left is prohibited.",
+        "ar": "الانعطاف يسارًا ممنوع تمامًا."
+      },
+      {
+        "he": "רק מהנתיב הימני.",
+        "en": "Only from the right‑hand lane.",
+        "ar": "فقط من المسار الأيمن."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 60
+  },
+  {
+    "id": 191,
+    "text": {
+      "he": "האם מותר להעמיד כלי רכב במקום שבו מוצב התמרור?",
+      "en": "Is parking a vehicle allowed where this sign is displayed?",
+      "ar": "هل يُسمح بركن مركبة في المكان الذي توضع فيه هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "מותר, רק בשעות היום",
+        "en": "Allowed, only during daytime",
+        "ar": "مسموح فقط خلال ساعات النهار"
+      },
+      {
+        "he": "מותר, כאשר יש מקומות חנייה פנויים רבים",
+        "en": "Allowed when many parking spaces are available",
+        "ar": "مسموح عندما تتوافر أماكن انتظار كثيرة"
+      },
+      {
+        "he": "אסור, פרט לרכב בעל תו נכה משותק רגליים",
+        "en": "Prohibited, except for vehicles with a disabled parking permit for leg impairment",
+        "ar": "ممنوع، باستثناء مركبات تحمل تصريح معاق لإعاقة الساق"
+      },
+      {
+        "he": "מותר לכל רכב בעל תו חנייה רגיל לחנות כאשר המקום פנוי",
+        "en": "Allowed for any vehicle with a regular permit to park if the spot is free",
+        "ar": "مسموح لأي مركبة تحمل تصريح انتظار عادي بالوقوف إذا كان المكان خاليًا"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 67
+  },
+  {
+    "id": 198,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this road sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "כוונה מוקדמת ליעדים לפני צומת בדרך מהירה",
+        "en": "Advance guide to destinations before an interchange on a freeway",
+        "ar": "دليل مسبق للوجهات قبل مخرج في طريق سريع"
+      },
+      {
+        "he": "כוונה מוקדמת ליעדים לפני מחלף בדרך עירונית",
+        "en": "Advance guide to destinations before an urban interchange",
+        "ar": "دليل مسبق للوجهات قبل مخرج في طريق حضري"
+      },
+      {
+        "he": "כוונה מוקדמת ליציאה מיעדים בדרך עירונית",
+        "en": "Advance guide to exits from destinations in an urban area",
+        "ar": "دليل مسبق للمخارج من الأهداف في منطقة حضرية"
+      },
+      {
+        "he": "כוונה מוקדמת ליעדים לפני צומת בדרך שאינה עירונית",
+        "en": "Advance guide to destinations before a junction on a non-urban road",
+        "ar": "دليل مسبق للوجهات قبل تقاطع على طريق غير حضري"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 68
+  },
+  {
+    "id": 200,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this road sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "לפניך ירידה מסוכנת",
+        "en": "Dangerous descent ahead",
+        "ar": "انحدار خطير أمامك"
+      },
+      {
+        "he": "לפניך עקומה ימינה ואחר כך שמאלה",
+        "en": "Curve to the right and then to the left ahead",
+        "ar": "منعطف يمين ثم يسار أمامك"
+      },
+      {
+        "he": "דרך מפותלת",
+        "en": "Winding road",
+        "ar": "طريق متعرج"
+      },
+      {
+        "he": "תמרור הוריה: עקומת עקלתון",
+        "en": "Regulatory sign: S-bend",
+        "ar": "إشارة تنظيمية: منعطف S-شكل"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 70
+  },
+  {
+    "id": 204,
+    "text": {
+      "he": "איזה תמרור מזהיר מפני הימצאות בעלי חיים בדרך?",
+      "en": "Which sign warns of animals on the road?",
+      "ar": "أي إشارة تحذر من وجود حيوانات على الطريق؟"
+    },
+    "options": [
+      {
+        "he": "146",
+        "en": "146",
+        "ar": "146"
+      },
+      {
+        "he": "411",
+        "en": "411",
+        "ar": "411"
+      },
+      {
+        "he": "414",
+        "en": "414",
+        "ar": "414"
+      },
+      {
+        "he": "635",
+        "en": "635",
+        "ar": "635"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 72
+  },
+  {
+    "id": 211,
+    "text": {
+      "he": "מי משלושת כלי הרכב אינו נמצא בנתיב הנכון על פי התמרור?",
+      "en": "Which of the three vehicles is not in the correct lane according to the sign?",
+      "ar": "أي من المركبات الثلاث ليس في المسار الصحيح وفقًا للإشارة؟"
+    },
+    "options": [
+      {
+        "he": "הטנדר הסגול (3)",
+        "en": "The purple pickup (3)",
+        "ar": "الشاحنة الصغيرة البنفسجية (3)"
+      },
+      {
+        "he": "רכב כיבוי האש (2)",
+        "en": "The fire truck (2)",
+        "ar": "شاحنة الإطفاء (2)"
+      },
+      {
+        "he": "הרכב הבהיר (הפרטי) (1)",
+        "en": "The light (private) vehicle (1)",
+        "ar": "المركبة الفاتحة (الخاصة) (1)"
+      },
+      {
+        "he": "שלושתם נוסעים לפי החוק",
+        "en": "All three are driving legally",
+        "ar": "جميعهم يقودون قانونيًا"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 75
+  },
+  {
+    "id": 217,
+    "text": {
+      "he": "כיצד עליך לנהוג כאשר התמרור שבתמונה מוצב בדרך לפניך?",
+      "en": "How should you drive when the sign shown in the picture is placed on the road ahead of you?",
+      "ar": "كيف يجب أن تقود عندما تكون الإشارة الموضحة في الصورة موضوعة على الطريق أمامك؟"
+    },
+    "options": [
+      {
+        "he": "סע בהילוך נמוך; אתה נוהג בדרך הררית",
+        "en": "Drive in low gear; you are on a mountain road",
+        "ar": "قد بالترس المنخفض؛ أنت تسير على طريق جبلي"
+      },
+      {
+        "he": "התאם את המהירות לתנאי הדרך",
+        "en": "Adjust your speed to the road conditions",
+        "ar": "ضبط سرعتك وفقًا لظروف الطريق"
+      },
+      {
+        "he": "אל תתעלם מכביש משובש",
+        "en": "Do not ignore a rough road surface",
+        "ar": "لا تتجاهل سطح طريق وعر"
+      },
+      {
+        "he": "הגבר מהירות נסיעתך ובכך תמנע את טלטולי הרכב",
+        "en": "Increase your speed to avoid the vehicle’s jolts",
+        "ar": "زد سرعتك لتجنب اهتزاز المركبة"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 77
+  },
+  {
+    "id": 221,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this road sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "קצה אזור דרכים שאינן עירוניות",
+        "en": "End of non-urban road zone",
+        "ar": "نهاية منطقة الطرق غير الحضرية"
+      },
+      {
+        "he": "קצה אזור דרכים עירוניות",
+        "en": "End of urban road zone",
+        "ar": "نهاية منطقة الطرق الحضرية"
+      },
+      {
+        "he": "קצה האזור האסור לחניית רכב מסחרי",
+        "en": "End of no-parking zone for commercial vehicles",
+        "ar": "نهاية منطقة منع وقوف المركبات التجارية"
+      },
+      {
+        "he": "קצה המקום או הקטע המותר לחניה על הכביש או על המדרכה",
+        "en": "End of the area where parking on the road or sidewalk is permitted",
+        "ar": "نهاية المنطقة المسموح فيها بالوقوف على الطريق أو الرصيف"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 78
+  },
+  {
+    "id": 222,
+    "text": {
+      "he": "מה הסיבה שהתמרורים שלפניך שונים בצורתם המיוחדת מיתר התמרורים?",
+      "en": "Why are the signs before you uniquely shaped compared to other signs?",
+      "ar": "لماذا تأخذ الإشارات الموجودة أمامك شكلاً مختلفًا مميزًا مقارنة بالإشارات الأخرى؟"
+    },
+    "options": [
+      {
+        "he": "משום ששני התמרורים חשובים יותר משאר התמרורים",
+        "en": "Because these two signs are more important than other signs",
+        "ar": "لأن هاتين الإشارتين أكثر أهمية من الإشارات الأخرى"
+      },
+      {
+        "he": "כדי להבליטם וכדי להבחין בהם ולפרש אותם נכון גם בראות גרועה",
+        "en": "To make them stand out and be interpreted correctly even in poor visibility",
+        "ar": "لتمييزها وتفسيرها بشكل صحيح حتى في الرؤية السيئة"
+      },
+      {
+        "he": "כדי לאפשר להולכי רגל להבחין בתמרורים המוצבים שלא בכיוון הליכתם",
+        "en": "To help pedestrians notice signs not facing their walking direction",
+        "ar": "لمساعدة المشاة على ملاحظة الإشارات الموضوعة بعيدًا عن اتجاه مشيتهم"
+      },
+      {
+        "he": "משום ששני התמרורים חשובים פחות משאר התמרורים",
+        "en": "Because these two signs are less important than other signs",
+        "ar": "لأن هاتين الإشارتين أقل أهمية من الإشارات الأخرى"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 79
+  },
+  {
+    "id": 228,
+    "text": {
+      "he": "מה מציין התמרור?",
+      "en": "What does this sign indicate?",
+      "ar": "ماذا تشير هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "קצה רחוב משולב",
+        "en": "End of a shared street",
+        "ar": "نهاية شارع مشترك"
+      },
+      {
+        "he": "אזור שאסור לילדים לשחק בו",
+        "en": "Area where children are forbidden to play",
+        "ar": "منطقة يحظر على الأطفال اللعب فيها"
+      },
+      {
+        "he": "רחוב משולב",
+        "en": "Shared street",
+        "ar": "شارع مشترك"
+      },
+      {
+        "he": "אזור שהחנייה אסורה בו",
+        "en": "Area where parking is prohibited",
+        "ar": "منطقة يُحظر الوقوف فيها"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 80
+  },
+  {
+    "id": 229,
+    "text": {
+      "he": "מה פירוש התמרורים?",
+      "en": "What do the signs mean?",
+      "ar": "ماذا تعني الإشارات؟"
+    },
+    "options": [
+      {
+        "he": "הפנייה שמאלה או הפנייה ימינה – בהתאמה – אסורות",
+        "en": "Left turn or right turn – respectively – are forbidden",
+        "ar": "لا يُسمح بالانعطاف يسارًا أو يمينًا – على التوالي"
+      },
+      {
+        "he": "הפנייה שמאלה אסורה לרכב ציבורי בלבד",
+        "en": "Left turn is forbidden only for public vehicles",
+        "ar": "يُحظر الانعطاف يسارًا للمركبات العامة فقط"
+      },
+      {
+        "he": "אסורה פניית פרסה לשמאל בלבד",
+        "en": "U-turn to the left is forbidden only",
+        "ar": "يُحظر الالتفاف للجهة اليسرى فقط"
+      },
+      {
+        "he": "אסורה פנייה שמאלה ופניית פרסה שמאלה",
+        "en": "Left turn and left U-turn are forbidden",
+        "ar": "يُحظر الانعطاف يسارًا والالتفاف للجهة اليسرى"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 81
+  },
+  {
+    "id": 230,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "מספר הנתיבים בכביש הולך וגדל",
+        "en": "The number of lanes is increasing",
+        "ar": "عدد المسارات في الطريق يتزايد"
+      },
+      {
+        "he": "מותר לך לנסוע בכל נתיב בכביש",
+        "en": "You may drive in any lane on the road",
+        "ar": "يسمح لك بالقيادة في أي مسار على الطريق"
+      },
+      {
+        "he": "תנועה דו-סטרית לפניך",
+        "en": "Two-way traffic ahead",
+        "ar": "حركة مرور في اتجاهين أمامك"
+      },
+      {
+        "he": "לך יש זכות קדימה על פני כלי הרכב המתקרבים ממול",
+        "en": "You have right of way over oncoming vehicles",
+        "ar": "أنت لديك حق الأسبقية على المركبات القادمة في الاتجاه المعاكس"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 82
+  },
+  {
+    "id": 235,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "אתה נמצא בכביש שאין בו זכות קדימה",
+        "en": "You are on a road without right of way",
+        "ar": "أنت على طريق ليس له حق الأسبقية"
+      },
+      {
+        "he": "מכמונת מהירות משטרתית לפניך",
+        "en": "A police speed radar ahead",
+        "ar": "رادار سرعة شرطي أمامك"
+      },
+      {
+        "he": "כביש לתחבורה ציבורית",
+        "en": "Road for public transport",
+        "ar": "طريق للنقل العام"
+      },
+      {
+        "he": "אתה נמצא בכביש שיש בו זכות קדימה",
+        "en": "You are on a road with right of way",
+        "ar": "أنت على طريق له حق الأسبقية"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 85
+  },
+  {
+    "id": 236,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "המרחק עד לצומת הקרוב (בק\"מ)",
+        "en": "Distance to the next junction (km)",
+        "ar": "المسافة حتى التقاطع التالي (كم)"
+      },
+      {
+        "he": "מספרה של דרך מהירה",
+        "en": "Number of a freeway",
+        "ar": "رقم طريق سريع"
+      },
+      {
+        "he": "מספרה של דרך ראשית",
+        "en": "Number of a main road",
+        "ar": "رقم طريق رئيسي"
+      },
+      {
+        "he": "המרחק עד הכביש הקרוב (בק\"מ)",
+        "en": "Distance to the nearest road (km)",
+        "ar": "المسافة حتى أقرب طريق (كم)"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 86
+  },
+  {
+    "id": 239,
+    "text": {
+      "he": "מה ההבדל בין התמרורים?",
+      "en": "What is the difference between the signs?",
+      "ar": "ما الفرق بين هذه الإشارتين؟"
+    },
+    "options": [
+      {
+        "he": "תמרור 505 מציין תחנת אוטובוסים פרטיים",
+        "en": "Sign 505 indicates a private bus stop",
+        "ar": "الإشارة 505 تشير إلى موقف حافلات خاصة"
+      },
+      {
+        "he": "תמרור 506 מציין תחנת רכבת מקומית",
+        "en": "Sign 506 indicates a local train station",
+        "ar": "الإشارة 506 تشير إلى محطة قطار محلي"
+      },
+      {
+        "he": "תמרור 505 מציין תחנת אוטובוסים ציבוריים",
+        "en": "Sign 505 indicates a public bus stop",
+        "ar": "الإشارة 505 تشير إلى موقف حافلات عامة"
+      },
+      {
+        "he": "תמרור 506 מציין תחנת רכבת מקומית",
+        "en": "Sign 506 indicates a local train station",
+        "ar": "الإشارة 506 تشير إلى محطة قطار محلي"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 87
+  },
+  {
+    "id": 242,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this road sign mean?",
+      "ar": "ماذا تعني هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "עקומה ימינה ואחר כך שמאלה",
+        "en": "Curve right then left",
+        "ar": "انحناء يميني ثم يساري"
+      },
+      {
+        "he": "דרך מפותלת לפניך",
+        "en": "Winding road ahead",
+        "ar": "طريق متعرج أمامك"
+      },
+      {
+        "he": "עקומת עקלתון לפניך",
+        "en": "S-bend ahead",
+        "ar": "منحنى S-شكل أمامك"
+      },
+      {
+        "he": "דרך צרה ומפותלת לפניך",
+        "en": "Narrow and winding road ahead",
+        "ar": "طريق ضيق ومتعرج أمامك"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 88
+  },
+  {
+    "id": 243,
+    "text": {
+      "he": "איזה תמרור פירושו מספר הקילומטרים בדרך?",
+      "en": "Which sign indicates the kilometer number on the road?",
+      "ar": "أي إشارة تعني رقم الكيلومتر على الطريق؟"
+    },
+    "options": [
+      {
+        "he": "612",
+        "en": "612",
+        "ar": "612"
+      },
+      {
+        "he": "611",
+        "en": "611",
+        "ar": "611"
+      },
+      {
+        "he": "630",
+        "en": "630",
+        "ar": "630"
+      },
+      {
+        "he": "629",
+        "en": "629",
+        "ar": "629"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 89
+  },
+  {
+    "id": 244,
+    "text": {
+      "he": "בתחילת הקטע הוצב תמרור 308. איזה תמרור יוצב לבאים ממול?",
+      "en": "Sign 308 is placed at the start of the section. Which sign will be placed for oncoming traffic?",
+      "ar": "تم وضع الإشارة 308 في بداية القسم. أي إشارة ستوضع للمركبات القادمة من الجهة المعاكسة؟"
+    },
+    "options": [
+      {
+        "he": "622",
+        "en": "622",
+        "ar": "622"
+      },
+      {
+        "he": "504",
+        "en": "504",
+        "ar": "504"
+      },
+      {
+        "he": "145",
+        "en": "145",
+        "ar": "145"
+      },
+      {
+        "he": "307",
+        "en": "307",
+        "ar": "307"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 90
+  },
+  {
+    "id": 248,
+    "text": {
+      "he": "בצומת הוצב תמרור 118. איזה תמרור יוצב במרחק סביר לפני הצומת?",
+      "en": "At an intersection marked with sign 118, which sign should be placed at an appropriate distance before the junction?",
+      "ar": "في تقاطع توجد فيه الإشارة 118، أي إشارة يجب وضعها على مسافة معقولة قبل التقاطع؟"
+    },
+    "options": {
+      "he": [
+        "208",
+        "207",
+        "117",
+        "205"
+      ],
+      "en": [
+        "208",
+        "207",
+        "117",
+        "205"
+      ],
+      "ar": [
+        "208",
+        "207",
+        "117",
+        "205"
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 92
+  },
+  {
+    "id": 250,
+    "text": {
+      "he": "איזה תמרור הוא האזהרה האחרונה שלפני מפגש מסילת ברזל?",
+      "en": "Which sign is the final warning before a railway level crossing?",
+      "ar": "أي إشارة تشكّل التحذير الأخير قبل تقاطع سكة حديد؟"
+    },
+    "options": {
+      "he": [
+        "132",
+        "131",
+        "133",
+        "128"
+      ],
+      "en": [
+        "132",
+        "131",
+        "133",
+        "128"
+      ],
+      "ar": [
+        "132",
+        "131",
+        "133",
+        "128"
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 93
+  },
+  {
+    "id": 251,
+    "text": {
+      "he": "בכניסה לדרך הוצב תמרור 618. איזה תמרור יופיע בכניסה מן הצד האחר של אותו קטע דרך?",
+      "en": "Sign 618 is posted at the entrance to a road. Which sign appears at the opposite entrance of the same section?",
+      "ar": "توجد الإشارة 618 عند مدخل طريق. أي إشارة تظهر في المدخل المقابل لنفس المقطع؟"
+    },
+    "options": {
+      "he": [
+        "308",
+        "402",
+        "307",
+        "401"
+      ],
+      "en": [
+        "308",
+        "402",
+        "307",
+        "401"
+      ],
+      "ar": [
+        "308",
+        "402",
+        "307",
+        "401"
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 94
+  },
+  {
+    "id": 253,
+    "text": {
+      "he": "בכניסה לדרך הוצב התמרור 401. איזה תמרור יוצב בכניסה מן הצד האחר של הדרך?",
+      "en": "Sign 401 is placed at one entrance to a road. Which sign will be placed at the opposite entrance?",
+      "ar": "توجد الإشارة 401 عند أحد مداخل الطريق. أي إشارة ستوضع عند المدخل المقابل؟"
+    },
+    "options": {
+      "he": [
+        "402",
+        "618",
+        "307",
+        "401"
+      ],
+      "en": [
+        "402",
+        "618",
+        "307",
+        "401"
+      ],
+      "ar": [
+        "402",
+        "618",
+        "307",
+        "401"
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 95
+  },
+  {
+    "id": 254,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "עבודות בכביש.",
+        "כביש משובש.",
+        "דרך הררית.",
+        "פסי האטה לפניך."
+      ],
+      "en": [
+        "Road works.",
+        "Uneven road.",
+        "Mountain road.",
+        "Speed bumps ahead."
+      ],
+      "ar": [
+        "أعمال طريق.",
+        "طريق غير مستوٍ.",
+        "طريق جبلي.",
+        "مطبات تهدئة أمامك."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 96
+  },
+  {
+    "id": 255,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you drive according to the sign?",
+      "ar": "كيف يجب أن تقود وفقًا للإشارة؟"
+    },
+    "options": {
+      "he": [
+        "בהתקרבך למסילה צפור, פתח חלון והאזן לרעש הרכבת.",
+        "עצור תמיד לפני המסילה, הבט ימינה ושמאלה והמשך בנסיעה.",
+        "האט עד כדי אפשרות עצירה לפני המסילה.",
+        "עבור את המסילה במהירות."
+      ],
+      "en": [
+        "As you approach the tracks, honk, open a window and listen for a train.",
+        "Always stop before the tracks, look right and left, then continue.",
+        "Slow down so that you can stop before the tracks.",
+        "Cross the tracks quickly."
+      ],
+      "ar": [
+        "عند الاقتراب من السكة، أطلق البوق، افتح النافذة واستمع للقِطار.",
+        "توقف دائمًا قبل السكة، انظر يمينًا ويسارًا ثم تابع السير.",
+        "خفّف السرعة بحيث يمكنك التوقف قبل السكة.",
+        "اعبر السكة بسرعة."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 97
+  },
+  {
+    "id": 257,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "אסור לכל רכב שמשקלו הכולל המותר יותר משמונה טונות לעקוף רכב מנועי.",
+        "אסור לרכב מסחרי שמשקלו הכולל המותר יותר מ-12 טונות לעקוף.",
+        "רכב מסחרי שמשקלו הכולל המותר לפחות 14 טונות רשאי לעקוף רכב מנועי הנע על יותר משני גלגלים.",
+        "אסור לרכב מסחרי שמשקלו הכולל המותר יותר מ-4,000 ק\"ג לעקוף (מותר לעקוף אופנוע)."
+      ],
+      "en": [
+        "Any vehicle with a gross weight above 8 t may not overtake a motor vehicle.",
+        "A commercial vehicle with a gross weight above 12 t may not overtake.",
+        "A commercial vehicle with a gross weight of at least 14 t may overtake a motor vehicle moving on more than two wheels.",
+        "A commercial vehicle whose gross weight exceeds 4,000 kg may not overtake (it may overtake a motorcycle)."
+      ],
+      "ar": [
+        "ممنوع لأي مركبة يزيد وزنها الإجمالي المسموح عن 8 أطنان تجاوز مركبة آلية.",
+        "ممنوع للمركبة التجارية التي يزيد وزنها الإجمالي المسموح عن 12 طنًا تجاوز مركبات أخرى.",
+        "يجوز لمركبة تجارية وزنها الإجمالي المسموح 14 طنًا فأكثر تجاوز مركبة تسير بأكثر من عجلتين.",
+        "ممنوع لمركبة تجارية وزنها الإجمالي المسموح أكثر من 4,000 كغم التجاوز (يجوز تجاوز دراجة نارية)."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 98
+  },
+  {
+    "id": 258,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "הכניסה אסורה לכל רכב שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה אסורה לרכב מסחרי שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה מותרת לרכב מסחרי שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה מותרת לכל רכב מנועי."
+      ],
+      "en": [
+        "Entry is forbidden to any vehicle whose gross weight is above the stated limit.",
+        "Entry is forbidden to a commercial vehicle whose gross weight is above the stated limit.",
+        "Entry is allowed to a commercial vehicle heavier than the stated limit.",
+        "Entry is allowed to any motor vehicle."
+      ],
+      "ar": [
+        "ممنوع دخول أي مركبة يزيد وزنها الإجمالي عن الوزن المدوّن.",
+        "ممنوع دخول مركبة تجارية يزيد وزنها الإجمالي عن الوزن المدوّن.",
+        "مسموح دخول مركبة تجارية يزيد وزنها الإجمالي عن الوزن المدوّن.",
+        "مسموح دخول أي مركبة آلية."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 99
+  },
+  {
+    "id": 259,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "הכניסה מותרת לכל רכב מסחרי שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה אסורה רק לרכב מסחרי שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה אסורה רק לרכב ציבורי שמשקלו הכולל גבוה מן המשקל הרשום.",
+        "הכניסה אסורה לכל רכב שמשקלו הכולל גבוה מן המשקל הרשום."
+      ],
+      "en": [
+        "Entry is allowed to any commercial vehicle heavier than the stated limit.",
+        "Entry is forbidden only to a commercial vehicle heavier than the stated limit.",
+        "Entry is forbidden only to a public-service vehicle heavier than the stated limit.",
+        "Entry is forbidden to any vehicle heavier than the stated limit."
+      ],
+      "ar": [
+        "مسموح دخول أي مركبة تجارية يزيد وزنها الإجمالي عن الوزن المدوّن.",
+        "ممنوع دخول مركبة تجارية فقط إذا كان وزنها الإجمالي أعلى من الوزن المدوّن.",
+        "ممنوع دخول مركبة عمومية فقط إذا كان وزنها الإجمالي أعلى من الوزن المدوّن.",
+        "ممنوع دخول أي مركبة يزيد وزنها الإجمالي عن الوزن المدوّن."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 100
+  },
+  {
+    "id": 261,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "הכניסה אסורה לרכב המוביל מטען.",
+        "הכניסה אסורה לרכב המוביל חומר מסוכן.",
+        "הכניסה מותרת רק לרכב המוביל חומר מסוכן.",
+        "הכניסה אסורה לרכב המוביל מכולה ימית."
+      ],
+      "en": [
+        "Entry forbidden to a cargo-carrying vehicle.",
+        "Entry forbidden to a vehicle carrying dangerous goods.",
+        "Entry allowed only to a vehicle carrying dangerous goods.",
+        "Entry forbidden to a vehicle carrying a sea container."
+      ],
+      "ar": [
+        "ممنوع دخول مركبة تنقل حمولة.",
+        "ممنوع دخول مركبة تنقل مواد خطرة.",
+        "مسموح دخول مركبة تنقل مواد خطرة فقط.",
+        "ممنوع دخول مركبة تنقل حاوية بحرية."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 101
+  },
+  {
+    "id": 262,
+    "text": {
+      "he": "כשאתה נוסע בתוך מנהרה המסומנת בתמרור 633:",
+      "en": "When driving in a tunnel marked with sign 633:",
+      "ar": "عند القيادة داخل نفق مُشار إليه بالإشارة 633:"
+    },
+    "options": {
+      "he": [
+        "עליך להדליק את אורות החזית.",
+        "מותר לך להחליף נתיב.",
+        "מותר לך לעקוף רכב אחר.",
+        "עליך להדליק את אורות הערפל."
+      ],
+      "en": [
+        "You must turn on your dipped headlights.",
+        "You may change lanes.",
+        "You may overtake another vehicle.",
+        "You must turn on your fog lights."
+      ],
+      "ar": [
+        "يجب تشغيل أضواء التقاطع الأمامية.",
+        "يسمح لك بتغيير المسار.",
+        "يسمح لك بتجاوز مركبة أخرى.",
+        "يجب تشغيل أضواء الضباب."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 102
+  },
+  {
+    "id": 263,
+    "text": {
+      "he": "מה מציין הסימון לרוחב הכביש?",
+      "en": "What does the transverse road marking indicate?",
+      "ar": "ماذا يشير الوسم العرضي على الطريق؟"
+    },
+    "options": {
+      "he": [
+        "מעבר חצייה לרוכבי אופניים.",
+        "קו קטעים לבן – כביש חד-סטרי.",
+        "קו-עצירה לפני צומת.",
+        "נתיב לתחבורה ציבורית."
+      ],
+      "en": [
+        "A bicycle crossing.",
+        "White broken line: one-way street.",
+        "Stop line before an intersection.",
+        "Lane for public transport."
+      ],
+      "ar": [
+        "ممر دراجات هوائية.",
+        "خط أبيض متقطع: شارع باتجاه واحد.",
+        "خط توقف قبل تقاطع.",
+        "مسار للمواصلات العامة."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 103
+  },
+  {
+    "id": 268,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of this sign?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "חניית רכב מסחרי שמשקלו הכולל המותר יותר מ-10,000 ק\"ג אסורה באזור.",
+        "חניית רכב מסחרי שמשקלו הכולל המותר יותר מ-4,000 ק\"ג אסורה באזור.",
+        "חניית כל רכב מסחרי אסורה באזור.",
+        "חניית רכב מסחרי שמשקלו הכולל המותר יותר מ-8,000 ק\"ג אסורה."
+      ],
+      "en": [
+        "Parking of a commercial vehicle whose gross weight exceeds 10,000 kg is prohibited in the zone.",
+        "Parking of a commercial vehicle whose gross weight exceeds 4,000 kg is prohibited in the zone.",
+        "Parking of any commercial vehicle is prohibited in the zone.",
+        "Parking of a commercial vehicle whose gross weight exceeds 8,000 kg is prohibited."
+      ],
+      "ar": [
+        "ممنوع وقوف مركبة تجارية يزيد وزنها الإجمالي المسموح عن 10,000 كغم في المنطقة.",
+        "ممنوع وقوف مركبة تجارية يزيد وزنها الإجمالي المسموح عن 4,000 كغم في المنطقة.",
+        "ممنوع وقوف أي مركبة تجارية في المنطقة.",
+        "ممنوع وقوف مركبة تجارية يزيد وزنها الإجمالي المسموح عن 8,000 كغم."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 104
+  },
+  {
+    "id": 279,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "כביש ללא מוצא.",
+        "אסור לפנות בסוף הקטע.",
+        "תן זכות קדימה לרכב הבא ממול בדרך הצרה.",
+        "לך זכות קדימה בדרך הצרה."
+      ],
+      "en": [
+        "Dead-end road.",
+        "No turning at the end of the section.",
+        "Give way to oncoming traffic on the narrow road.",
+        "You have right-of-way on the narrow road."
+      ],
+      "ar": [
+        "طريق بدون مخرج.",
+        "ممنوع الالتفاف في نهاية المقطع.",
+        "أعطِ حق المرور للمركبة المقابلة في الطريق الضيق.",
+        "لك أولوية المرور في الطريق الضيق."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 106
+  },
+  {
+    "id": 283,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "הכניסה אסורה לעגלות רתומות ולבעלי-חיים.",
+        "הכניסה אסורה לכל כלי רכב, כולל עגלת יד.",
+        "הכניסה מותרת לפרשים בלבד.",
+        "הכניסה אסורה לרכב המוביל כלי רכב."
+      ],
+      "en": [
+        "No entry for animal-drawn vehicles and animals.",
+        "No entry for any vehicle, including handcarts.",
+        "Entry permitted to riders on horseback only.",
+        "No entry for vehicle transporters."
+      ],
+      "ar": [
+        "ممنوع دخول العربات المجرورة والحيوانات.",
+        "ممنوع دخول أي مركبة بما فيها العربات اليدوية.",
+        "مسموح الدخول للفرسان فقط.",
+        "ممنوع دخول ناقلات المركبات."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 107
+  },
+  {
+    "id": 285,
+    "text": {
+      "he": "איזה מן התמרורים האלה מזהיר את הנהג להתאים את הנהיגה למצב הכביש?",
+      "en": "Which of these signs warns the driver to adapt speed to the road condition?",
+      "ar": "أي من هذه الإشارات تحذّر السائق ليلائم سرعته لحالة الطريق؟"
+    },
+    "options": {
+      "he": [
+        "147",
+        "101",
+        "139",
+        "114"
+      ],
+      "en": [
+        "147",
+        "101",
+        "139",
+        "114"
+      ],
+      "ar": [
+        "147",
+        "101",
+        "139",
+        "114"
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 108
+  },
+  {
+    "id": 289,
+    "text": {
+      "he": "מה משמעות חץ צהוב ישר קדימה המסומן על הכביש?",
+      "en": "What does a straight yellow arrow marked on the roadway mean?",
+      "ar": "ما معنى السهم الأصفر المستقيم المرسوم على الطريق؟"
+    },
+    "options": {
+      "he": [
+        "רק רכב ציבורי רשאי להמשיך ישר בצומת הקרוב.",
+        "רכב עם 6 נוסעים לפחות רשאי להמשיך.",
+        "לרכב פרטי מותר לנסוע ישר בזהירות.",
+        "הנסיעה ישר מותרת לכולם אך יש לתת זכות קדימה לאוטובוסים."
+      ],
+      "en": [
+        "Only public service vehicles may proceed straight at the next junction.",
+        "Any vehicle carrying at least six passengers may proceed straight.",
+        "A private car may drive straight ahead with caution.",
+        "All vehicles may proceed straight but must yield to buses."
+      ],
+      "ar": [
+        "يسمح فقط للمركبات العمومية بالاستمرار مباشرة عند التقاطع القادم.",
+        "يسمح لأي مركبة تقل ستة ركاب على الأقل بالاستمرار مباشرة.",
+        "يسمح للسيارة الخاصة بالسير مباشرة بحذر.",
+        "يسمح لكل المركبات بالسير مباشرة ولكن يجب إعطاء أولوية للحافلات."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 109
+  },
+  {
+    "id": 291,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "חצה במהירות את הצומת.",
+        "בפנייה ימינה תן זכות קדימה להולכי רגל.",
+        "היכון לנסיעה עם הופעת האור הירוק.",
+        "מיד יידלק ברמזור אור אדום בלבד."
+      ],
+      "en": [
+        "Cross the intersection quickly.",
+        "When turning right, yield to pedestrians.",
+        "Prepare to drive when the green light appears.",
+        "A red light only will light up immediately."
+      ],
+      "ar": [
+        "اعبر التقاطع بسرعة.",
+        "عند الانعطاف يميناً أفسح المجال للمشاة.",
+        "استعد للسير عند ظهور الضوء الأخضر.",
+        "سيضيء ضوء أحمر فقط حالاً."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 111
+  },
+  {
+    "id": 292,
+    "text": {
+      "he": "בדרך מוצב תמרור 405; אופנוע עוקף רכב פרטי:",
+      "en": "Road sign 405 is posted; a motorcycle overtakes a private car:",
+      "ar": "توجد الإشارة 405 في الطريق؛ دراجة نارية تتجاوز سيارة خاصة:"
+    },
+    "options": {
+      "he": [
+        "אסור כלל לעקוף.",
+        "אסור לאופנוע לעקוף רכב פרטי.",
+        "אסור לרכב פרטי לעקוף אופנוע.",
+        "אסור לשניהם להיות בדרך."
+      ],
+      "en": [
+        "Overtaking is completely prohibited.",
+        "The motorcycle may not overtake the private car.",
+        "The private car may not overtake the motorcycle.",
+        "Neither vehicle is allowed on this road."
+      ],
+      "ar": [
+        "ممنوع التجاوز إطلاقاً.",
+        "ممنوع على الدراجة النارية تجاوز السيارة الخاصة.",
+        "ممنوع على السيارة الخاصة تجاوز الدراجة النارية.",
+        "ممنوع على كليهما السير في هذا الطريق."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 112
+  },
+  {
+    "id": 296,
+    "text": {
+      "he": "איזה תמרור אוסר כניסת הולכי רגל?",
+      "en": "Which sign prohibits pedestrian entry?",
+      "ar": "أي إشارة تمنع دخول المشاة؟"
+    },
+    "options": {
+      "he": [
+        "216",
+        "221",
+        "815",
+        "901"
+      ],
+      "en": [
+        "216",
+        "221",
+        "815",
+        "901"
+      ],
+      "ar": [
+        "216",
+        "221",
+        "815",
+        "901"
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 113
+  },
+  {
+    "id": 307,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "קצה קטע דרך שאינה עירונית.",
+        "קצה קטע דרך עירונית.",
+        "קצה קטע בו משאיות רשאיות לנסוע בשול.",
+        "קצה קטע בו חל איסור עקיפה."
+      ],
+      "en": [
+        "End of a non-urban road section.",
+        "End of an urban road section.",
+        "End of a section where lorries may use the shoulder.",
+        "End of the no-overtaking section."
+      ],
+      "ar": [
+        "نهاية مقطع طريق غير حضري.",
+        "نهاية مقطع طريق حضري.",
+        "نهاية مقطع يسمح للشاحنات بالسير على الكتف.",
+        "نهاية مقطع منع التجاوز."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 114
+  },
+  {
+    "id": 310,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "לפניך מפגש מסילת ברזל כ-300 מ׳ לפניך.",
+        "לפניך מפגש מסילת ברזל כ-30 מ׳ לפניך.",
+        "לפניך מפגש מסילת ברזל כ-150 מ׳ לפניך.",
+        "לפניך מפגש מסילת ברזל כ-100 מ׳ לפניך."
+      ],
+      "en": [
+        "You are 300 m before a level-crossing.",
+        "You are 30 m before a level-crossing.",
+        "You are 150 m before a level-crossing.",
+        "You are 100 m before a level-crossing."
+      ],
+      "ar": [
+        "أنت على بُعد 300 م من تقاطع سكة حديد.",
+        "أنت على بُعد 30 م من تقاطع سكة حديد.",
+        "أنت على بُعد 150 م من تقاطع سكة حديد.",
+        "أنت على بُعد 100 م من تقاطع سكة حديد."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 116
+  },
+  {
+    "id": 311,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of this sign?",
+      "ar": "ما دلالة هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "התקדם בזהירות (תמרור נייד).",
+        "סע ללא עצירה – עצירה אסורה.",
+        "עצור והמתן להוראות המכוון.",
+        "סע במהירות."
+      ],
+      "en": [
+        "Proceed cautiously (mobile sign).",
+        "Continuous travel – stopping prohibited.",
+        "Stop and wait for the marshal’s instructions.",
+        "Drive fast."
+      ],
+      "ar": [
+        "تقدّم بحذر (إشارة متنقلة).",
+        "سر دون توقّف – التوقف ممنوع.",
+        "توقّف وانتظر تعليمات المنظّم.",
+        "قد بسرعة."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 117
+  },
+  {
+    "id": 312,
+    "text": {
+      "he": "האם מותר לפנות פרסה שמאלה במקום שבו מוצב התמרור?",
+      "en": "Is a U-turn to the left permitted where this sign is posted?",
+      "ar": "هل يجوز الالتفاف يسارًا (يو-تيرن) حيث وُضعت هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "מותר בצומת מרומזר; אסור בצומת לא מרומזר.",
+        "אסור תמיד.",
+        "מותר תמיד, גם אם מוצב תמרור האוסר פרסה.",
+        "מותר באין תמרור אחר האוסר זאת."
+      ],
+      "en": [
+        "Permitted at a signalised junction; forbidden at an unsignalised one.",
+        "Always forbidden.",
+        "Always permitted, even if a U-turn-prohibition sign is present.",
+        "Permitted unless another sign forbids it."
+      ],
+      "ar": [
+        "مسموح في تقاطع بإشارة ضوئية؛ ممنوع في تقاطع بلا إشارة.",
+        "ممنوع دائمًا.",
+        "مسموح دائمًا حتى لو توجد إشارة تمنع الالتفاف.",
+        "مسموح ما لم توجد إشارة أخرى تمنعه."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 118
+  },
+  {
+    "id": 313,
+    "text": {
+      "he": "היכן מוצב התמרור?",
+      "en": "Where is this sign positioned?",
+      "ar": "أين تُوضع هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "אחרי הצומת.",
+        "אין חשיבות למקום.",
+        "בתוך הצומת.",
+        "במרחק סביר לפני הצומת."
+      ],
+      "en": [
+        "After the intersection.",
+        "Position is irrelevant.",
+        "Inside the intersection.",
+        "At a reasonable distance before the intersection."
+      ],
+      "ar": [
+        "بعد التقاطع.",
+        "لا أهمية للمكان.",
+        "داخل التقاطع.",
+        "على مسافة مناسبة قبل التقاطع."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 119
+  },
+  {
+    "id": 317,
+    "text": {
+      "he": "כשאתה רואה את התמרור הזה:",
+      "en": "When you see this sign:",
+      "ar": "عند رؤيتك لهذه الإشارة:"
+    },
+    "options": {
+      "he": [
+        "אתה נכנס לקטע חד-סטרי לתחבורה ציבורית בלבד.",
+        "מותר למשאיות לנסוע בכיוון ההפוך.",
+        "אתה נכנס לכביש עם שני נתיבים לכל כיוון.",
+        "הכביש חד-סטרי לרכב ≤3.5 טון."
+      ],
+      "en": [
+        "You are entering a section where opposite traffic is buses only.",
+        "Lorries may travel in the opposite direction.",
+        "You are entering a road with two lanes each way.",
+        "The road is one-way for vehicles up to 3.5 t."
+      ],
+      "ar": [
+        "أنت تدخل مقطعًا يكون فيه السير المقابل للمواصلات العامة فقط.",
+        "مسموح للشاحنات السير بالاتجاه المعاكس.",
+        "أنت تدخل طريقًا بحارتين لكل اتجاه.",
+        "الطريق أحادي الاتجاه للمركبات حتى 3.5 طن."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 121
+  },
+  {
+    "id": 318,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign indicate?",
+      "ar": "ما دلالة هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "זהירות! מפגש מסילת ברזל.",
+        "זהירות! אוטובוס חשמלי לפניך.",
+        "זהירות! רכבת מקומית חוצה בשני הכיוונים.",
+        "תחנת רכבת לנוסעים."
+      ],
+      "en": [
+        "Caution! Railway crossing.",
+        "Caution! Trolley-bus ahead.",
+        "Caution! Local train crosses in both directions.",
+        "Passenger railway station."
+      ],
+      "ar": [
+        "انتبه! تقاطع سكة حديد.",
+        "انتبه! حافلة كهربائية أمامك.",
+        "انتبه! قطار محلي يعبر بالاتجاهين.",
+        "محطة قطار للمسافرين."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 122
+  },
+  {
+    "id": 325,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "זהירות! מחסום רכבת.",
+        "מפגש מסילת ברזל – יותר ממסילה אחת.",
+        "מפגש מסילת ברזל.",
+        "תחנת רכבת מתקרבת."
+      ],
+      "en": [
+        "Caution! Railway barrier.",
+        "Railway level crossing – more than one track.",
+        "Railway level crossing.",
+        "You are approaching a railway station."
+      ],
+      "ar": [
+        "احذر! حاجز سكة حديد.",
+        "تقاطع سكة حديد – أكثر من خط واحد.",
+        "تقاطع سكة حديد.",
+        "أنت تقترب من محطة قطار."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 126
+  },
+  {
+    "id": 326,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign denote?",
+      "ar": "ما دلالة هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "אתר מחנאות / חניון לילה.",
+        "אתר חפירות ארכיאולוגי.",
+        "נקודת מנוחה לנהגים.",
+        "אתר הנצחה של קק\"ל."
+      ],
+      "en": [
+        "Camping site / overnight park.",
+        "Archaeological excavation site.",
+        "Drivers' rest area.",
+        "Keren Kayemet memorial site."
+      ],
+      "ar": [
+        "موقع تخييم / مبيت ليلي.",
+        "موقع حفريات أثرية.",
+        "نقطة استراحة للسائقين.",
+        "موقع تذكاري للصندوق القومي اليهودي."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 127
+  },
+  {
+    "id": 327,
+    "text": {
+      "he": "מה משמעות קו-קטעים צהוב כפול על פני הדרך?",
+      "en": "What does a double yellow broken line on the roadway mean?",
+      "ar": "ما معنى خط أصفر متقطع مزدوج على الطريق؟"
+    },
+    "options": {
+      "he": [
+        "נתיב נסיעה לאופנועים.",
+        "הפרדה בין שול לדרך.",
+        "נתיב לתחבורה ציבורית.",
+        "מקום שבו נעשות עבודות כביש."
+      ],
+      "en": [
+        "Lane reserved for motorcycles.",
+        "Separation between shoulder and carriageway.",
+        "Lane for public transport.",
+        "Road-works area."
+      ],
+      "ar": [
+        "مسار مخصّص للدراجات النارية.",
+        "فصل بين كتف الطريق والطريق.",
+        "مسار للمواصلات العامة.",
+        "مكان تُجرى فيه أعمال طرق."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 128
+  },
+  {
+    "id": 328,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What is the meaning of this sign?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "השתלב בנתיב הסמוך מימין או משמאל.",
+        "פניית עקלתון שמאלה או ימינה.",
+        "נתיב סגור – אסור לנסוע בו.",
+        "עבודות בכביש – סע בכיוון החץ."
+      ],
+      "en": [
+        "Merge into the adjacent lane right or left.",
+        "Sharp bend left or right.",
+        "Lane closed – driving on it prohibited.",
+        "Road works – drive in the arrow’s direction."
+      ],
+      "ar": [
+        "اندمج في المسار المجاور يمينًا أو يسارًا.",
+        "منعطف حاد يسارًا أو يمينًا.",
+        "حارة مغلقة – يُمنع السير عليها.",
+        "أعمال طريق – سر باتجاه السهم."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 129
+  },
+  {
+    "id": 333,
+    "text": {
+      "he": "בכביש שלפניך מתקיימות מגבלות – מה הן?",
+      "en": "Restrictions apply on the road ahead – what are they?",
+      "ar": "هناك قيود على الطريق أمامك – ما هي؟"
+    },
+    "options": {
+      "he": [
+        "עבודות בכביש: הגבלת מהירות ואיסור עקיפת משאיות.",
+        "עומס תנועה בדרך.",
+        "דרך עירונית.",
+        "הגבלה בשדה ראייה."
+      ],
+      "en": [
+        "Road works ahead: speed limit and no overtaking for lorries.",
+        "Traffic congestion ahead.",
+        "It is an urban road.",
+        "Restricted field of vision."
+      ],
+      "ar": [
+        "أعمال طرق: تحديد سرعة ومنع تجاوز للشاحنات.",
+        "ازدحام مروري بالطريق.",
+        "طريق حضرية.",
+        "تقييد في مجال الرؤية."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 133
+  },
+  {
+    "id": 335,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you drive according to the sign?",
+      "ar": "كيف تقود وفق هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "סע ימינה – פנה לפני התמרור.",
+        "סע שמאלה – פנה אחרי התמרור.",
+        "סע שמאלה – פנה אחרי התמרור (צהוב לרכב נוסעים).",
+        "סע שמאלה – פנה אחרי התמרור (צהוב לרכב איטי)."
+      ],
+      "en": [
+        "Drive right – turn before the sign.",
+        "Drive left – turn after the sign.",
+        "Drive left – turn after the sign; yellow arrow for passenger cars.",
+        "Drive left – turn after the sign; yellow arrow for slow vehicles."
+      ],
+      "ar": [
+        "قد يمينًا – انعطف قبل الإشارة.",
+        "قد يسارًا – انعطف بعد الإشارة.",
+        "قد يسارًا – انعطف بعد الإشارة؛ السهم الأصفر لسيارات الركاب.",
+        "قد يسارًا – انعطف بعد الإشارة؛ السهم الأصفر للمركبات البطيئة."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 134
+  },
+  {
+    "id": 336,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "דרך לרכב מנועי בלבד.",
+        "רחוב מימין ללא מוצא.",
+        "לך זכות קדימה בדרך החוצה.",
+        "כניסה מיוחדת לבתי-ספר."
+      ],
+      "en": [
+        "Road for motor vehicles only.",
+        "Dead-end street on the right.",
+        "You have right-of-way on the crossing road.",
+        "Entrance for schools / kindergartens."
+      ],
+      "ar": [
+        "طريق للمركبات الآلية فقط.",
+        "شارع مغلق من اليمين.",
+        "لك أولوية السير في الطريق المتقاطع.",
+        "مدخل خاص للمدارس أو رياض الأطفال."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 135
+  },
+  {
+    "id": 337,
+    "text": {
+      "he": "כיצד יש לנהוג אחרי שעברת את התמרור שמשמאל?",
+      "en": "How must you drive after passing the sign on the left?",
+      "ar": "كيف يجب القيادة بعد تجاوز الإشارة على اليسار؟"
+    },
+    "options": {
+      "he": [
+        "סע כרגיל – אתה בכביש בעל זכות קדימה.",
+        "קצה הכביש בעל זכות קדימה.",
+        "עצור לפני מפגש מסילת ברזל.",
+        "תן זכות קדימה לתנועה חוצה."
+      ],
+      "en": [
+        "Drive normally – you are on a priority road.",
+        "End of priority road.",
+        "Stop before a level-crossing.",
+        "Yield to crossing traffic."
+      ],
+      "ar": [
+        "قد كالمعتاد – أنت في طريق ذات أولوية.",
+        "نهاية طريق ذات أولوية.",
+        "توقف قبل تقاطع سكة حديد.",
+        "أعطِ حق الأولوية لحركة المرور المتقاطعة."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 136
+  },
+  {
+    "id": 346,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "כביש צר ונמוך.",
+        "הגבלת גובה לרכב.",
+        "אסורה כניסת רכב שגובהו עם המטען מעל הרשום.",
+        "מחסום לפניך."
+      ],
+      "en": [
+        "Narrow, low road ahead.",
+        "Vehicle height restriction.",
+        "Entry prohibited to vehicles exceeding the stated height with load.",
+        "Barrier ahead."
+      ],
+      "ar": [
+        "طريق ضيق ومنخفض.",
+        "تقييد ارتفاع للمركبات.",
+        "ممنوع دخول مركبة يزيد ارتفاعها مع الحمولة عن المسجّل.",
+        "حاجز أمامك."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 139
+  },
+  {
+    "id": 347,
+    "text": {
+      "he": "איזה תמרור מזהיר על צומת מרומזר לפניך?",
+      "en": "Which sign warns of a signal-controlled junction ahead?",
+      "ar": "أي إشارة تحذّر من تقاطع بإشارة ضوئية أمامك؟"
+    },
+    "options": {
+      "he": [
+        "705",
+        "114",
+        "702",
+        "122"
+      ],
+      "en": [
+        "705",
+        "114",
+        "702",
+        "122"
+      ],
+      "ar": [
+        "705",
+        "114",
+        "702",
+        "122"
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 140
+  },
+  {
+    "id": 348,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you drive according to the sign?",
+      "ar": "كيف يجب القيادة وفق هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "עצור לפני הכניסה למעגל ועבור במהירות.",
+        "האט לפני מעגל התנועה והיכון לעצירה.",
+        "שים לב לרכב מימין במעגל.",
+        "היכנס בזהירות – זכות הקדימה שלך."
+      ],
+      "en": [
+        "Stop before the roundabout and pass quickly.",
+        "Slow before the roundabout and be ready to stop.",
+        "Watch for traffic coming from the right inside the circle.",
+        "Enter carefully – you have right-of-way."
+      ],
+      "ar": [
+        "توقّف قبل دوّار المرور واعبر بسرعة.",
+        "خفّف قبل الدوّار واستعد للتوقف.",
+        "انتبه للمركبات القادمة من اليمين داخل الدوّار.",
+        "ادخل بحذر – لك حق الأولوية."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 141
+  },
+  {
+    "id": 349,
+    "text": {
+      "he": "מה מחייב התמרור?",
+      "en": "What does the sign require?",
+      "ar": "ماذا تُلزم هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "הנהגים בדרך החוצה חייבים לתת לך זכות קדימה.",
+        "עליך לעצור ולקבל זכות-קדימה מהתנועה בדרך החוצה.",
+        "לתת זכות קדימה לתנועה בדרך החוצה שלפניך.",
+        "לתת זכות קדימה לרכב הבא מימין בלבד."
+      ],
+      "en": [
+        "Drivers on the crossing road must give you right-of-way.",
+        "You must stop and receive right-of-way from crossing traffic.",
+        "You must yield to the traffic on the road ahead.",
+        "You must yield only to the vehicle coming from the right."
+      ],
+      "ar": [
+        "على السائقين في الطريق المتقاطع إعطاؤك حق الأولوية.",
+        "يجب عليك التوقف والحصول على حق الأولوية من حركة المرور المتقاطعة.",
+        "يجب عليك إعطاء حق الأولوية للحركة في الطريق أمامك.",
+        "يجب عليك إعطاء حق الأولوية للمركبة القادمة من اليمين فقط."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 142
+  },
+  {
+    "id": 353,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you drive according to the sign?",
+      "ar": "كيف يجب القيادة وفق هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "נהג בנתיב הימני ועקוף במהירות.",
+        "שלב להילוך גבוה.",
+        "נהג מהר בנתיב הימני.",
+        "האט בעדינות והימנע מבלימת-פתע ומפנייה חדה."
+      ],
+      "en": [
+        "Drive in the right-hand lane and overtake quickly.",
+        "Shift into a high gear.",
+        "Drive fast in the right lane.",
+        "Slow gently and avoid sudden braking or sharp steering."
+      ],
+      "ar": [
+        "قد بالمسار الأيمن وتجاوز بسرعة.",
+        "انتقل إلى ترس عالٍ.",
+        "قد بسرعة في المسار الأيمن.",
+        "خفف السرعة بلطف وتجنب الكبح المفاجئ أو الانعطاف الحاد."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 143
+  },
+  {
+    "id": 354,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you act according to the sign?",
+      "ar": "كيف تتصرف وفق هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "האט והיזהר מהולכי-רגל החוצים במעבר שלפניך.",
+        "המשך לנסוע גם אם הולכי-רגל חוצים.",
+        "עצור ואפשר לילדים להשלים את החצייה.",
+        "עצור תמיד ואפשר לילדים וקשישים להגיע למעבר."
+      ],
+      "en": [
+        "Slow and watch for pedestrians crossing at the crossing ahead.",
+        "Continue even if pedestrians are crossing.",
+        "Stop and allow children to finish crossing.",
+        "Always stop and let children and elderly reach the crossing."
+      ],
+      "ar": [
+        "خفّف واحذر المشاة الذين يعبرون في الممر أمامك.",
+        "تابع السير حتى لو يعبر مشاة.",
+        "توقّف ودَع الأطفال يُنهون العبور.",
+        "توقّف دائمًا ودَع الأطفال وكبار السن يصلون إلى الممر ويعبرون."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 144
+  },
+  {
+    "id": 357,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does the sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "קצה איסור עקיפה.",
+        "מכאן אסור לחנות.",
+        "קצה אזור דרכים עירוניות.",
+        "מכאן החנייה מותרת."
+      ],
+      "en": [
+        "End of no-overtaking.",
+        "No parking beyond this point.",
+        "End of urban-roads area.",
+        "Parking allowed beyond this point."
+      ],
+      "ar": [
+        "نهاية منع التجاوز.",
+        "ممنوع الوقوف من هنا فصاعدًا.",
+        "نهاية منطقة الطرق الحضرية.",
+        "الوقوف مسموح من هنا فصاعدًا."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 147
+  },
+  {
+    "id": 360,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור?",
+      "en": "How should you act according to the sign?",
+      "ar": "كيف تتصرف وفق هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "האט וודא שהרכב ממול נותן זכות קדימה.",
+        "עצור ואפשר לרכב ממול להמשיך.",
+        "המשך – זכות הקדימה שלך.",
+        "צפור וסמן לרכב ממול על כוונתך."
+      ],
+      "en": [
+        "Slow and make sure the oncoming vehicle yields.",
+        "Stop and allow the oncoming vehicle to proceed.",
+        "Continue—right-of-way is yours.",
+        "Honk and signal your intention to yield."
+      ],
+      "ar": [
+        "خفّف وتأكد أن المركبة المقابلة تعطي حق الأولوية.",
+        "توقّف ودَع المركبة المقابلة تتابع.",
+        "تابع – لك حق الأولوية.",
+        "أطلق بوقًا وأشر بنيتك إعطاء الأولوية."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 149
+  },
+  {
+    "id": 366,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "התקרבות למפגש מסילת ברזל – כ-70 מ׳ לפני.",
+        "התקרבות למפגש מסילת ברזל – כ-200 מ׳ לפני.",
+        "התקרבות למפגש מסילת ברזל – המרחק רשום על התמרור.",
+        "אסור לעצור בטווח 120 מ׳ לפני המסילה."
+      ],
+      "en": [
+        "Approaching a railway crossing – about 70 m before.",
+        "Approaching a railway crossing – about 200 m before.",
+        "Approaching a railway crossing – distance shown on the sign.",
+        "Stopping prohibited within 120 m before the tracks."
+      ],
+      "ar": [
+        "الاقتراب من تقاطع سكة حديد – على بُعد نحو 70 م.",
+        "الاقتراب من تقاطع سكة حديد – على بُعد نحو 200 م.",
+        "الاقتراب من تقاطع سكة حديد – المسافة مكتوبة على الإشارة.",
+        "ممنوع التوقف ضمن 120 م قبل السكة."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 151
+  },
+  {
+    "id": 372,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this road-sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "שלט המשמש לכל מיני מסרים לא-מחייבים.",
+        "תמרור מודיעין בצורת מרובע.",
+        "תמרור חובה/אזהרה/איסור לרכב ציבורי בלבד.",
+        "תמרור הוראה מחייבת שאין לו תמרור אחר בלוח."
+      ],
+      "en": [
+        "A board for non-mandatory messages.",
+        "An informational (square) sign.",
+        "Mandatory / warning / prohibitory sign intended only for public transport.",
+        "A mandatory instruction for which there is no other sign in the code."
+      ],
+      "ar": [
+        "لوحة لرسائل غير إلزامية متنوعة.",
+        "إشارة معلومات على شكل مربع.",
+        "إشارة إلزام / تحذير / منع مخصّصة للمركبات العامة فقط.",
+        "إشارة أمر مُلزمة لا يوجد لها بديل في لوح الإشارات."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 154
+  },
+  {
+    "id": 373,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of this sign?",
+      "ar": "ما دلالة هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "האט לביקורת דרכונים.",
+        "אין צורך לעצור לביקורת מכס (Duty-Free).",
+        "חובה לעצור לביקורת מכס.",
+        "חובה לעצור רק אם יש הצהרת מכס."
+      ],
+      "en": [
+        "Slow for passport control.",
+        "No need to stop for customs (duty-free).",
+        "You must stop for customs inspection.",
+        "Stop only if you have goods to declare."
+      ],
+      "ar": [
+        "خَفّف لرقابة جوازات.",
+        "لا حاجة للتوقّف للجمارك (سوق حرّة).",
+        "يجب التوقّف لفحص جمركي.",
+        "التوقّف فقط عند وجود تصريح جمركي."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 155
+  },
+  {
+    "id": 376,
+    "text": {
+      "he": "בתחילת הקטע הוצב תמרור ‎308‎. איזה תמרור יוצב לבאים ממול?",
+      "en": "A ‘308’ sign stands at this end of the section. Which sign faces on-coming traffic?",
+      "ar": "عند بداية المقطع نُصبت إشارة ‎308‎. أي إشارة ستوضع للقادمين مقابِلًا؟"
+    },
+    "options": {
+      "he": [
+        "622",
+        "504",
+        "145",
+        "307"
+      ],
+      "en": [
+        "622",
+        "504",
+        "145",
+        "307"
+      ],
+      "ar": [
+        "622",
+        "504",
+        "145",
+        "307"
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 157
+  },
+  {
+    "id": 377,
+    "text": {
+      "he": "מהי המהירות המרבית המותרת בתחום שאחרי התמרור?",
+      "en": "What is the maximum permitted speed beyond this sign?",
+      "ar": "ما السرعة القصوى المسموح بها بعد هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "20 קמ\"ש",
+        "50 קמ\"ש",
+        "60 קמ\"ש",
+        "30 קמ\"ש"
+      ],
+      "en": [
+        "20 km/h",
+        "50 km/h",
+        "60 km/h",
+        "30 km/h"
+      ],
+      "ar": [
+        "20 كم/س",
+        "50 كم/س",
+        "60 كم/س",
+        "30 كم/س"
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 158
+  },
+  {
+    "id": 378,
+    "text": {
+      "he": "מה פירוש התמרור כאשר הוא מעל נתיב נסיעתך?",
+      "en": "What does the sign mean when posted above your lane?",
+      "ar": "ما معنى الإشارة عندما تُوضع فوق حارتك؟"
+    },
+    "options": {
+      "he": [
+        "בנתיב זה משתמשת תחבורה ציבורית בלבד.",
+        "התנועה אסורה לרכב הבא ממול.",
+        "צומת הצטלבות לפניך.",
+        "הנסיעה בנתיב זה אסורה."
+      ],
+      "en": [
+        "Lane reserved for public transport only.",
+        "No entry for on-coming vehicles.",
+        "Intersection ahead.",
+        "Driving in this lane is prohibited."
+      ],
+      "ar": [
+        "المسار مخصّص للمواصلات العامة فقط.",
+        "ممنوع السير للمركبات المقابلة.",
+        "تقاطع أمامك.",
+        "السير في هذه الحارة ممنوع."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 159
+  },
+  {
+    "id": 379,
+    "text": {
+      "he": "מה משמעות התמרור (פנס כתום)?",
+      "en": "What does the flashing orange light indicate?",
+      "ar": "ما دلالة الضوء البرتقالي الومّاض؟"
+    },
+    "options": {
+      "he": [
+        "פנס כתום מהבהב באתר עבודות.",
+        "פנס כתום יציב – רמזור מקולקל.",
+        "פנס כתום מהבהב – התקרבות למפגש מסילת ברזל.",
+        "פנס כתום יציב – התקרבות להתמזגות דרכים."
+      ],
+      "en": [
+        "Flashing amber at road-works.",
+        "Steady amber – traffic light out of order.",
+        "Flashing amber – approaching a railway crossing.",
+        "Steady amber – approaching a merge."
+      ],
+      "ar": [
+        "ضوء برتقالي وامض في موقع أشغال طريق.",
+        "ضوء برتقالي ثابت – إشارة ضوئية معطّلة.",
+        "ضوء برتقالي وامض – اقتراب من تقاطع سكة حديد.",
+        "ضوء برتقالي ثابت – اقتراب من اندماج طرق."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 160
+  },
+  {
+    "id": 384,
+    "text": {
+      "he": "כיצד תנהג על-פי התמרור (רכבת קלה)?",
+      "en": "How should you act at the light-rail crossing sign?",
+      "ar": "كيف تتصرف وفق إشارة سكة القطار الخفيف؟"
+    },
+    "options": {
+      "he": [
+        "עצור ותן זכות קדימה לרכבת.",
+        "נהג בזהירות.",
+        "אין לחצות מסלול רכבת קלה.",
+        "האט ושמור על כללי זכות-קדימה."
+      ],
+      "en": [
+        "Stop and give way to the tram.",
+        "Drive carefully.",
+        "Do not cross the tramway.",
+        "Slow down and obey right-of-way rules."
+      ],
+      "ar": [
+        "توقّف وأعطِ حق الأولوية للقطار.",
+        "قد بحذر.",
+        "لا تعبر مسار القطار الخفيف.",
+        "خفّف السرعة والتزم بحق الأولوية."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 162
+  },
+  {
+    "id": 385,
+    "text": {
+      "he": "איזה תמרור יופיע אחרי תמרור זה?",
+      "en": "Which sign follows this one?",
+      "ar": "أي إشارة ستظهر بعد هذه؟"
+    },
+    "options": {
+      "he": [
+        "705",
+        "701",
+        "122",
+        "703",
+        "702"
+      ],
+      "en": [
+        "705",
+        "701",
+        "122",
+        "703",
+        "702"
+      ],
+      "ar": [
+        "705",
+        "701",
+        "122",
+        "703",
+        "702"
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 163
+  },
+  {
+    "id": 387,
+    "text": {
+      "he": "איזה מן התמרורים אינו מתיר פניית פרסה שמאלה?",
+      "en": "Which of these signs does NOT allow a left U-turn?",
+      "ar": "أي من هذه الإشارات لا يتيح التفاف U يسارًا؟"
+    },
+    "options": {
+      "he": [
+        "202",
+        "203",
+        "205",
+        "כל התמרורים אוסרים"
+      ],
+      "en": [
+        "202",
+        "203",
+        "205",
+        "All prohibit a U-turn"
+      ],
+      "ar": [
+        "202",
+        "203",
+        "205",
+        "جميعها تمنع الالتفاف"
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 164
+  },
+  {
+    "id": 388,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign mean?",
+      "ar": "ما معنى هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "תחילת ירידה תלולה (2,500 מ׳).",
+        "בעוד 2,500 מ׳ תתחיל עלייה תלולה.",
+        "ירידה תלולה מתחילה 2,500 מ׳ לפניך.",
+        "קצה ירידה של 2,500 מ׳."
+      ],
+      "en": [
+        "Steep descent of 2,500 m begins now.",
+        "In 2,500 m a steep ascent starts.",
+        "Steep descent begins 2,500 m ahead.",
+        "End of a 2,500 m descent."
+      ],
+      "ar": [
+        "بداية منحدر حاد طوله 2,500 م.",
+        "بعد 2,500 م يبدأ صعود حاد.",
+        "منحدر حاد يبدأ بعد 2,500 م.",
+        "نهاية منحدر طوله 2,500 م."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 165
+  },
+  {
+    "id": 389,
+    "text": {
+      "he": "תוקפו של התמרור עד:",
+      "en": "The sign is valid until:",
+      "ar": "سريان الإشارة حتى:"
+    },
+    "options": {
+      "he": [
+        "תחנת האוטובוס הקרובה.",
+        "הצומת הקרוב או קצה המסילה.",
+        "הצומת המרומזר הקרוב או קצה המסילה.",
+        "תחילת דרך מהירה מסומנת."
+      ],
+      "en": [
+        "The next bus stop.",
+        "The next junction or the end of the tracks.",
+        "The next signalised junction or end of the tracks.",
+        "The start of a motorway."
+      ],
+      "ar": [
+        "موقف الحافلات القريب.",
+        "التقاطع القادم أو نهاية السكة.",
+        "التقاطع المُنظَّم القادم أو نهاية السكة.",
+        "بداية طريق سريع."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 166
+  },
+  {
+    "id": 391,
+    "text": {
+      "he": "מה פירוש התמרור?",
+      "en": "What does this sign indicate?",
+      "ar": "ما دلالة هذه الإشارة؟"
+    },
+    "options": {
+      "he": [
+        "אכסניית נוער.",
+        "שמורת טבע.",
+        "חניון לילה מוסדר.",
+        "בית-מלון כפרי (צימר)."
+      ],
+      "en": [
+        "Youth hostel.",
+        "Nature reserve.",
+        "Permitted overnight campsite.",
+        "Rural hotel / guesthouse."
+      ],
+      "ar": [
+        "بيت شباب.",
+        "محميّة طبيعية.",
+        "مخيّم ليلي مصرح.",
+        "فندق ريفي (بيت ضيافة)."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 1,
+    "relatedSignId": 167
+  }
+]

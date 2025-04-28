@@ -1,0 +1,1965 @@
+[
+  {
+    "id": 36,
+    "text": {
+      "he": "כיצד יש לנהוג ברחוב משולב?",
+      "en": "How should one drive on a shared street?",
+      "ar": "كيف يجب أن تقود في شارع مختلط؟"
+    },
+    "options": [
+      {
+        "he": "על הנהג לנסוע תמיד בהילוך נמוך ולעולם לא לנסוע לאחור.",
+        "en": "The driver must always drive in a low gear and never go in reverse.",
+        "ar": "يجب على السائق دائمًا القيادة في ترس منخفض وألا يسير إلى الخلف مطلقًا."
+      },
+      {
+        "he": "על הנהג לאפשר להולכי הרגל ולילדים להמשיך בפעילותם בלי לסכן אותם.",
+        "en": "The driver must allow pedestrians and children to continue their activities without endangering them.",
+        "ar": "يجب على السائق السماح للمشاة والأطفال بمواصلة أنشطتهم دون تعريضهم للخطر."
+      },
+      {
+        "he": "על הנהג להימנע מלהיכנס לרחוב משולב בעת משחקי ילדים.",
+        "en": "The driver must avoid entering the shared street when children are playing.",
+        "ar": "يجب على السائق تجنب الدخول إلى الشارع المختلط أثناء لعب الأطفال."
+      },
+      {
+        "he": "על הנהג לצפור ולהזהיר את הולכי הרגל מפני כניסת רכב אל הרחוב.",
+        "en": "The driver should honk and warn pedestrians of the vehicle’s entry into the street.",
+        "ar": "يجب على السائق إطلاق البوق وتحذير المشاة من دخول المركبة إلى الشارع."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "על הנהג לאפשר להולכי הרגל ולילדים להמשיך בפעילותם בלי לסכן אותם.",
+      "en": "The driver must allow pedestrians and children to continue their activities without endangering them.",
+      "ar": "يجب على السائق السماح للمشاة والأطفال بمواصلة أنشطتهم دون تعريضهم للخطر."
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 46,
+    "text": {
+      "he": "כיצד תעמיד רכב במורד הדרך?",
+      "en": "How should you park a vehicle on a downhill road?",
+      "ar": "كيف يجب أن تركن مركبة في طريق منحدر للأسفل؟"
+    },
+    "options": [
+      {
+        "he": "תפעיל את אורות החנייה, תפנה את הגלגלים הקדמיים לשפת הכביש ותשלב להילוך אחורי.",
+        "en": "Turn on parking lights, turn the front wheels toward the curb, and engage reverse gear.",
+        "ar": "قم بتشغيل أضواء الانتظار، وأدر العجلات الأمامية نحو الرصيف، واختر وضعية القيادة العكسية."
+      },
+      {
+        "he": "תפעיל את בלם העזר (חנייה), תפנה את הגלגלים הקדמיים לשפת הכביש ותשלב להילוך אחורי (פרט לרכב אוטומטי).",
+        "en": "Apply the parking brake, turn the front wheels toward the curb, and engage reverse gear (except in an automatic).",
+        "ar": "قم بتفعيل فرامل الانتظار، وأدر العجلات الأمامية نحو الرصيف، واختر وضعية القيادة العكسية (باستثناء الأوتوماتيك)."
+      },
+      {
+        "he": "תפנה את הגלגלים הקדמיים לשפת הכביש ותשלב להילוך קדמי (באוטומט).",
+        "en": "Turn the front wheels toward the curb and engage drive gear (in an automatic).",
+        "ar": "قم بتوجيه العجلات الأمامية نحو الرصيف واختر وضعية القيادة للأمام (في الأوتوماتيك)."
+      },
+      {
+        "he": "תפעיל את בלם העזר (חנייה) ותפנה את הגלגלים הקדמיים למרכז הכביש.",
+        "en": "Apply the parking brake and turn the front wheels toward the center of the road.",
+        "ar": "قم بتفعيل فرامل الانتظار وأدر العجلات الأمامية نحو وسط الطريق."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "תפעיל את בלם העזר (חנייה), תפנה את הגלגלים הקדמיים לשפת הכביש ותשלב להילוך אחורי (פרט לרכב אוטומטי).",
+      "en": "Apply the parking brake, turn the front wheels toward the curb, and engage reverse gear (except in an automatic).",
+      "ar": "قم بتفعيل فرامل الانتظار، وأدر العجلات الأمامية نحو الرصيف، واختر وضعية القيادة العكسية (باستثناء الأوتوماتيك)."
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 50,
+    "text": {
+      "he": "מה הקשר בין מהירות הנסיעה למרחק העצירה של הרכב?",
+      "en": "What is the relationship between driving speed and stopping distance?",
+      "ar": "ما العلاقة بين سرعة القيادة ومسافة التوقف؟"
+    },
+    "options": [
+      {
+        "he": "ככל שמהירות הרכב גבוהה יותר, כן יקטן מרחק העצירה.",
+        "en": "The higher the vehicle’s speed, the shorter the stopping distance.",
+        "ar": "كلما زادت سرعة المركبة، قلّت مسافة التوقف."
+      },
+      {
+        "he": "כשמהירות הרכב גבוהה יותר, יגדל מרחק העצירה של הרכב.",
+        "en": "When the vehicle’s speed is higher, the stopping distance increases.",
+        "ar": "عندما تكون سرعة المركبة أعلى، تزداد مسافة التوقف."
+      },
+      {
+        "he": "ככל שמהירות הרכב נמוכה יותר, כן יגדל מרחק העצירה.",
+        "en": "The lower the vehicle’s speed, the longer the stopping distance.",
+        "ar": "كلما انخفضت سرعة المركبة، ازدادت مسافة التوقف."
+      },
+      {
+        "he": "אין קשר. מרחק העצירה קבוע ואינו תלוי במהירות הרכב.",
+        "en": "There is no relation. The stopping distance is fixed and does not depend on speed.",
+        "ar": "لا توجد علاقة. مسافة التوقف ثابتة ولا تعتمد على السرعة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "כשמהירות הרכב גבוהה יותר, יגדל מרחק העצירה של הרכב.",
+      "en": "When the vehicle’s speed is higher, the stopping distance increases.",
+      "ar": "عندما تكون سرعة المركبة أعلى، تزداد مسافة التوقف."
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 60,
+    "text": {
+      "he": "מרחק הבלימה הוא המרחק שהרכב עובר:",
+      "en": "The braking distance is the distance the vehicle travels:",
+      "ar": "مسافة الفرملة هي المسافة التي تقطعها المركبة:"
+    },
+    "options": [
+      {
+        "he": "במשך זמן התגובה של הנהג.",
+        "en": "During the driver’s reaction time.",
+        "ar": "خلال زمن استجابة السائق."
+      },
+      {
+        "he": "מרגע שהנהג מבחין בסכנה ועד לעצירתו הסופית של הרכב.",
+        "en": "From the moment the driver perceives a danger until the vehicle comes to a complete stop.",
+        "ar": "من لحظة إدراك السائق للخطر حتى توقف المركبة تمامًا."
+      },
+      {
+        "he": "מרגע הפעלת הבלמים ועד לעצירתו הסופית של הרכב.",
+        "en": "From the moment the brakes are applied until the vehicle comes to a complete stop.",
+        "ar": "من لحظة تفعيل الفرامل حتى توقف المركبة تمامًا."
+      },
+      {
+        "he": "מרגע שהנהג מבחין בסכנה ועד התחלת הבלימה.",
+        "en": "From the moment the driver perceives a danger until the beginning of braking.",
+        "ar": "من لحظة إدراك السائق للخطر حتى بداية الفرملة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "מרגע שהנהג מבחין בסכנה ועד לעצירתו הסופית של הרכב.",
+      "en": "From the moment the driver perceives a danger until the vehicle comes to a complete stop.",
+      "ar": "من لحظة إدراك السائق للخطر حتى توقف المركبة تمامًا."
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 69,
+    "text": {
+      "he": "מהי השפעתה של שמירת רווח מתאים מהרכב שלפניך על צריכת הדלק והבלאי של הרכב?",
+      "en": "How does keeping an appropriate distance from the vehicle ahead affect fuel consumption and wear?",
+      "ar": "ما تأثير الحفاظ على مسافة مناسبة من المركبة الأمامية على استهلاك الوقود والتآكل؟"
+    },
+    "options": [
+      {
+        "he": "שמירת רווח מתאים מפחיתה את שחיקת הבלמים ומקטינה את צריכת דלק של המנוע.",
+        "en": "Keeping a proper distance reduces brake wear and lowers engine fuel consumption.",
+        "ar": "الحفاظ على مسافة مناسبة يقلل من تآكل الفرامل ويخفض استهلاك الوقود."
+      },
+      {
+        "he": "שמירת רווח מתאים נחוצה רק לצורך מניעת תאונות, ואין לה השפעה על בלאי הרכב או על תצרוכת הדלק.",
+        "en": "Keeping distance is needed only to prevent accidents and has no effect on wear or fuel use.",
+        "ar": "الحفاظ على المسافة ضروري فقط لمنع الحوادث ولا يؤثر على التآكل أو استهلاك الوقود."
+      },
+      {
+        "he": "ככל שהרווח מהרכב שלפנים קטן יותר, כן קטן בלאי הבלמים ויורדת צריכת הדלק.",
+        "en": "The smaller the gap, the less brake wear and the lower the fuel consumption.",
+        "ar": "كلما كانت المسافة أصغر، قل تآكل الفرامل وانخفض استهلاك الوقود."
+      },
+      {
+        "he": "שמירת רווח מתאים מהרכב שלפניך כרוכה בשימוש מתמיד בבלמים, ובכך תיגרם שחיקת בלמים מהירה.",
+        "en": "Keeping a proper gap involves constant brake use, causing rapid brake wear.",
+        "ar": "الحفاظ على مسافة مناسبة يتطلب استخدامًا مستمرًا للفرامل مما يسرع من تآكلها."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 76,
+    "text": {
+      "he": "בעת מבחן הרישוי השנתי (טסט) של הרכב במכון הרישוי יירשם:",
+      "en": "During the vehicle’s annual roadworthiness test, what is recorded?",
+      "ar": "أثناء فحص الترخيص السنوي للمركبة (تست)، ما الذي يُسجَّل؟"
+    },
+    "options": [
+      {
+        "he": "מספר הקילומטרים שנסע הרכב על‑פי מד המרחק.",
+        "en": "The vehicle’s accumulated kilometres (odometer reading).",
+        "ar": "عدد الكيلومترات التي قطعتها المركبة حسب العداد."
+      },
+      {
+        "he": "מספר משענות הראש ברכב.",
+        "en": "The number of head‑rests in the vehicle.",
+        "ar": "عدد مساند الرأس في المركبة."
+      },
+      {
+        "he": "מספר חגורות הבטיחות ברכב.",
+        "en": "The number of seat‑belts in the vehicle.",
+        "ar": "عدد أحزمة الأمان في المركبة."
+      },
+      {
+        "he": "מספר עבירות התנועה שבוצעו ברכב.",
+        "en": "The number of traffic offences committed with the vehicle.",
+        "ar": "عدد مخالفات المرور التي ارتُكبت بالمركبة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 27
+  },
+  {
+    "id": 79,
+    "text": {
+      "he": "לפי החוק, עומק החריצים של צמיג הבא במגע עם הדרך לא יפחת מ:",
+      "en": "By law, the tread depth of a tyre in contact with the road must not be less than:",
+      "ar": "بحسب القانون، يجب ألا يقل عمق نقشة الإطار الملامس للطريق عن:"
+    },
+    "options": [
+      {
+        "he": "2 מ\"מ, לרבות גלגל החילוף (רזרבי).",
+        "en": "2 mm, including the spare wheel.",
+        "ar": "٢ ملم، بما في ذلك العجلة الاحتياطية."
+      },
+      {
+        "he": "2 מ\"מ, פרט לגלגל החילוף.",
+        "en": "2 mm, excluding the spare wheel.",
+        "ar": "٢ ملم، باستثناء العجلة الاحتياطية."
+      },
+      {
+        "he": "2 ס\"מ, לרבות גלגל החילוף.",
+        "en": "2 cm, including the spare wheel.",
+        "ar": "٢ سم، بما في ذلك العجلة الاحتياطية."
+      },
+      {
+        "he": "2 ס\"מ, פרט לגלגל החילוף.",
+        "en": "2 cm, excluding the spare wheel.",
+        "ar": "٢ سم، باستثناء العجلة الاحتياطية."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 29
+  },
+  {
+    "id": 100,
+    "text": {
+      "he": "מהו היתרון בנהיגה בימין הכביש?",
+      "en": "What is the advantage of driving on the right side of the road?",
+      "ar": "ما فائدة القيادة على الجانب الأيمن من الطريق؟"
+    },
+    "options": [
+      {
+        "he": "מסייע למילוט קצר ומיידי לשול הדרך במקרה סכנה.",
+        "en": "It helps you quickly escape to the shoulder in danger.",
+        "ar": "يساعد في الهروب السريع إلى حافة الطريق في حال الخطر."
+      },
+      {
+        "he": "מאפשר הקטנת מרחק התגובה במקרה סכנה מידית.",
+        "en": "Allows shorter reaction distance in immediate danger.",
+        "ar": "يتيح تقليل مسافة رد الفعل عند وجود خطر فوري."
+      },
+      {
+        "he": "אין יתרון לכך, אלא בכביש חד‑סטרי בלבד.",
+        "en": "No advantage, except on a one‑way road.",
+        "ar": "لا توجد فائدة إلا في طريق باتجاه واحد."
+      },
+      {
+        "he": "מאפשר להישאר בתוך התחום המותר – 40 ס\"מ משפת הכביש.",
+        "en": "Lets you stay within the allowed 40 cm from the edge.",
+        "ar": "يسمح بالبقاء ضمن 40 سم المسموح بها من حافة الطريق."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 108,
+    "text": {
+      "he": "החוק מתיר לנסוע בשעות היום בקיץ כאשר:",
+      "en": "The law allows driving in summer daylight when:",
+      "ar": "يسمح القانون بالقيادة في ضوء النهار صيفًا عندما:"
+    },
+    "options": [
+      {
+        "he": "האורות ברכב אינם תקינים.",
+        "en": "The vehicle's lights are faulty.",
+        "ar": "أضواء المركبة غير سليمة."
+      },
+      {
+        "he": "כל התשובות לא נכונות.",
+        "en": "All the answers are incorrect.",
+        "ar": "جميع الإجابات غير صحيحة."
+      },
+      {
+        "he": "ללא מגבים כלל.",
+        "en": "There are no wipers at all.",
+        "ar": "دون ماسحات زجاج."
+      },
+      {
+        "he": "בצמיגים שעומק חריציהם פחות ממ\"מ אחד.",
+        "en": "With tyres whose tread depth is under 1 mm.",
+        "ar": "بإطارات عمق نقشتها أقل من 1 ملم."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 113,
+    "text": {
+      "he": "האם מותר לנהוג ברכב כשאחת הדלתות פתוחה?",
+      "en": "Is it permitted to drive when one of the vehicle's doors is open?",
+      "ar": "هل يُسمح بالقيادة والمركبة أحد أبوابها مفتوح؟"
+    },
+    "options": [
+      {
+        "he": "אסור לחלוטין.",
+        "en": "Absolutely forbidden.",
+        "ar": "ممنوع تمامًا."
+      },
+      {
+        "he": "מותר, כאשר אין נוסעים ברכב.",
+        "en": "Permitted when there are no passengers in the vehicle.",
+        "ar": "مسموح عندما لا يوجد ركاب في المركبة."
+      },
+      {
+        "he": "אסור, אלא אם כן יצא המזגן מכלל פעולה.",
+        "en": "Prohibited unless the air‑conditioner has failed.",
+        "ar": "ممنوع إلا إذا تعطل المكيّف."
+      },
+      {
+        "he": "מותר, כאשר מובילים מטען חורג.",
+        "en": "Permitted when transporting an oversize load.",
+        "ar": "مسموح عند نقل حمولة خارجة عن الأبعاد."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 114,
+    "text": {
+      "he": "כיצד ניתן לצמצם את בעיית העצירה בטווח אורות הרכב בעת נסיעה בלילה?",
+      "en": "How can the 'stopping‑within‑headlight‑range' problem be reduced when driving at night?",
+      "ar": "كيف يمكن تقليل مشكلة التوقف ضمن مدى أضواء المركبة أثناء القيادة ليلاً؟"
+    },
+    "options": [
+      {
+        "he": "בעזרת שימוש באור ערפל אחורי, המחזק את אלומת האור.",
+        "en": "By using the rear fog lamp, which strengthens the beam.",
+        "ar": "باستخدام ضوء الضباب الخلفي الذي يقوّي حزمة الضوء."
+      },
+      {
+        "he": "על ידי התאמת מהירות הנסיעה לטווח הראייה בכל עת.",
+        "en": "By adjusting driving speed to the visible range at all times.",
+        "ar": "بمواءمة سرعة السير مع مدى الرؤية في كل لحظة."
+      },
+      {
+        "he": "בעזרת זרקור נוסף, שישמש לאיתור מפגעים בדרך.",
+        "en": "By adding a searchlight to spot hazards on the road.",
+        "ar": "باستخدام كشاف إضافي لاكتشاف العوائق في الطريق."
+      },
+      {
+        "he": "על ידי הפעלת אור גבוה ונסיעה במהירות גבוהה בהתאם.",
+        "en": "By keeping high beam on and driving faster accordingly.",
+        "ar": "بتشغيل الضوء العالي والقيادة بسرعة أعلى."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 119,
+    "text": {
+      "he": "בהתאם לחוק, המרחק המואר באורות החזית בלילה ובמזג אוויר נאה יהיה:",
+      "en": "By law, the distance illuminated by the front lights at night in clear weather shall be:",
+      "ar": "وفقًا للقانون، يجب أن يكون مدى إضاءة الأضواء الأمامية ليلاً وفي طقس صافٍ:"
+    },
+    "options": [
+      {
+        "he": "טווח האורות אינו מוגדר בחוק – תלוי ביצרן.",
+        "en": "The range is not defined by law; it depends on the manufacturer.",
+        "ar": "المدى غير محدد في القانون – يعتمد على الشركة المصنعة."
+      },
+      {
+        "he": "באור גבוה ≥ 150 מ'; באור נמוך ≥ 60 מ'.",
+        "en": "High beam ≥ 150 m; low beam ≥ 60 m.",
+        "ar": "بالضوء العالي ≥ 150 م؛ بالضوء المنخفض ≥ 60 م."
+      },
+      {
+        "he": "באור גבוה ≥ 120 מ'; באור נמוך ≥ 50 מ'.",
+        "en": "High beam ≥ 120 m; low beam ≥ 50 m.",
+        "ar": "بالضوء العالي ≥ 120 م؛ بالضوء المنخفض ≥ 50 م."
+      },
+      {
+        "he": "באור גבוה ≥ 100 מ'; באור נמוך ≥ 30 מ'.",
+        "en": "High beam ≥ 100 m; low beam ≥ 30 m.",
+        "ar": "بالضوء العالي ≥ 100 م؛ بالضوء المنخفض ≥ 30 م."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 150,
+    "text": {
+      "he": "כיצד יש להוביל מטען ברכב שאין בו תא נהג נפרד ?",
+      "en": "How should cargo be carried in a vehicle that does not have a separate driver’s cabin?",
+      "ar": "كيف ينبغي نقل الحمولة في مركبة لا تحتوي على مقصورة سائق منفصلة؟"
+    },
+    "options": [
+      {
+        "he": "חייבת להיות מחיצה ברכב המפרידה ומגינה על הנוסעים מפגיעת המטען.",
+        "en": "There must be a partition in the vehicle separating and protecting passengers from the load.",
+        "ar": "يجب أن يكون هناك حاجز في المركبة يفصل ويحمي الركاب من الحمولة."
+      },
+      {
+        "he": "מותר להוביל בו מטען בתפזורת בלבד.",
+        "en": "You may carry only bulk cargo in it.",
+        "ar": "يسمح بنقل حمولة سائبة فقط."
+      },
+      {
+        "he": "מותר להוביל בו מטען על משטחים בלבד.",
+        "en": "You may carry cargo only on pallets in it.",
+        "ar": "يسمح بنقل الحمولة على منصات نقالة فقط."
+      },
+      {
+        "he": "ברכב שאין בו תא נהג נפרד אסור להוביל מטען.",
+        "en": "In a vehicle without a separate driver's cabin, carrying cargo is prohibited.",
+        "ar": "في مركبة لا تحتوي على مقصورة سائق منفصلة، يُحظر نقل الحمولة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 152,
+    "text": {
+      "he": "מה עלינו לראות במראות התשקיף (צד) החיצוניות של הרכב?",
+      "en": "What should be visible in the vehicle's external side mirrors?",
+      "ar": "ماذا يجب أن يظهر في مرايا الرؤية الخارجية الجانبية للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "כל רכב הנמצא מצדו השמאלי של הרכב, וכן הולכי רגל.",
+        "en": "Any vehicle on the vehicle's left side, as well as pedestrians.",
+        "ar": "أي مركبة على الجانب الأيسر من المركبة، والمشاة أيضًا."
+      },
+      {
+        "he": "כל רכב מצדו הימני של הרכב, הנמצא בתנועה.",
+        "en": "Any vehicle on the vehicle's right side that is moving.",
+        "ar": "أي مركبة على الجانب الأيمن من المركبة تكون في حركة."
+      },
+      {
+        "he": "את הגלגל האחורי ואת השטח שלפניו.",
+        "en": "The rear wheel and the area in front of it.",
+        "ar": "العجلة الخلفية والمنطقة التي أمامها."
+      },
+      {
+        "he": "את קצה דופן הרכב ואת הדרך בצדי הרכב.",
+        "en": "The edge of the vehicle side and the road alongside the vehicle.",
+        "ar": "حافة جانب المركبة والطريق بجانب المركبة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 150,
+    "text": {
+      "he": "כיצד יש להוביל מטען ברכב שאין בו תא נהג נפרד ?",
+      "en": "How should cargo be carried in a vehicle that does not have a separate driver’s cabin?",
+      "ar": "كيف ينبغي نقل الحمولة في مركبة لا تحتوي على مقصورة سائق منفصلة؟"
+    },
+    "options": [
+      {
+        "he": "חייבת להיות מחיצה ברכב המפרידה ומגינה על הנוסעים מפגיעת המטען.",
+        "en": "There must be a partition in the vehicle separating and protecting passengers from the load.",
+        "ar": "يجب أن يكون هناك حاجز في المركبة يفصل ويحمي الركاب من الحمولة."
+      },
+      {
+        "he": "מותר להוביל בו מטען בתפזורת בלבד.",
+        "en": "You may carry only bulk cargo in it.",
+        "ar": "يسمح بنقل حمولة سائبة فقط."
+      },
+      {
+        "he": "מותר להוביל בו מטען על משטחים בלבד.",
+        "en": "You may carry cargo only on pallets in it.",
+        "ar": "يسمح بنقل الحمولة على منصات نقالة فقط."
+      },
+      {
+        "he": "ברכב שאין בו תא נהג נפרד אסור להוביל מטען.",
+        "en": "In a vehicle without a separate driver's cabin, carrying cargo is prohibited.",
+        "ar": "في مركبة لا تحتوي على مقصورة سائق منفصلة، يُحظر نقل الحمولة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 152,
+    "text": {
+      "he": "מה עלינו לראות במראות התשקיף (צד) החיצוניות של הרכב?",
+      "en": "What should be visible in the vehicle's external side mirrors?",
+      "ar": "ماذا يجب أن يظهر في مرايا الرؤية الخارجية الجانبية للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "כל רכב הנמצא מצדו השמאלי של הרכב, וכן הולכי רגל.",
+        "en": "Any vehicle on the vehicle's left side, as well as pedestrians.",
+        "ar": "أي مركبة على الجانب الأيسر من المركبة، والمشاة أيضًا."
+      },
+      {
+        "he": "כל רכב מצדו הימני של הרכב, הנמצא בתנועה.",
+        "en": "Any vehicle on the vehicle's right side that is moving.",
+        "ar": "أي مركبة على الجانب الأيمن من المركبة تكون في حركة."
+      },
+      {
+        "he": "את הגלגל האחורי ואת השטח שלפניו.",
+        "en": "The rear wheel and the area in front of it.",
+        "ar": "العجلة الخلفية والمنطقة التي أمامها."
+      },
+      {
+        "he": "את קצה דופן הרכב ואת הדרך בצדי הרכב.",
+        "en": "The edge of the vehicle side and the road alongside the vehicle.",
+        "ar": "حافة جانب المركبة والطريق بجانب المركبة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 174,
+    "text": {
+      "he": "מהי מערכת בטיחות מסוג כריות אוויר מתנפחות, SRS?",
+      "en": "What is an SRS inflatable air‑bag safety system?",
+      "ar": "ما هي منظومة الأمان SRS لوسائد الهواء القابلة للنفخ؟"
+    },
+    "options": [
+      {
+        "he": "זו מערכת כריות אוויר המאזנת את הרכב בסיבובים מסוכנים.",
+        "en": "An air‑bag system that stabilises the vehicle in dangerous bends.",
+        "ar": "نظام وسائد هواء يوازن المركبة في المنعطفات الخطرة."
+      },
+      {
+        "he": "זו מערכת של כריות אוויר חיצוניות המתנפחות כדי לשפר את איכות הנסיעה.",
+        "en": "A system of external air‑bags that inflates to improve ride quality.",
+        "ar": "نظام وسائد هواء خارجية تنتفخ لتحسين جودة الركوب."
+      },
+      {
+        "he": "זו מערכת למיתון הפגיעות בנוסעי הרכב על ידי ניפוח כריות בזמן התנגשות.",
+        "en": "A system that mitigates occupant injuries by inflating cushions in a collision.",
+        "ar": "نظام يخفف إصابات ركاب المركبة بنفخ الوسائد عند التصادم."
+      },
+      {
+        "he": "זו מערכת המקררת את הבלמים בזמן בלימות חירום.",
+        "en": "A system that cools the brakes during emergency braking.",
+        "ar": "نظام يبرّد الفرامل أثناء فرملة الطوارئ."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 177,
+    "text": {
+      "he": "האם מותר לנהוג ברכב מיד לאחר נטילת תרופות המשפיעות על כושר הנהיגה?",
+      "en": "May you drive immediately after taking medicines that affect driving ability?",
+      "ar": "هل يجوز القيادة فور تناول أدوية تؤثر على القدرة على القيادة؟"
+    },
+    "options": [
+      {
+        "he": "אסור.",
+        "en": "No, it is prohibited.",
+        "ar": "ممنوع."
+      },
+      {
+        "he": "מותר, כי התרופות אינן משפיעות על רמת הנהיגה.",
+        "en": "Yes, because medicines do not affect driving.",
+        "ar": "مسموح لأن الأدوية لا تؤثر على القيادة."
+      },
+      {
+        "he": "אסור, אלא אם כן חלפו ארבע שעות מנטילת התרופה.",
+        "en": "No, unless four hours have passed since taking the medicine.",
+        "ar": "ممنوع إلا إذا مرت أربع ساعات على تناول الدواء."
+      },
+      {
+        "he": "מותר – כאשר השפעתה של התרופה מזיקה לאורך זמן.",
+        "en": "Allowed when the medicine’s harmful effect is long‑lasting.",
+        "ar": "مسموح عندما يكون تأثير الدواء الضار طويل الأمد."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 186,
+    "text": {
+      "he": "הכרת המערכות השונות בתא הנהג תאפשר לנהג בעת הנהיגה:",
+      "en": "Familiarity with the various systems in the driver’s compartment will allow the driver, while driving, to:",
+      "ar": "معرفة الأنظمة المختلفة في مقصورة القيادة ستمكن السائق أثناء القيادة من:"
+    },
+    "options": [
+      {
+        "he": "הפעלה אוטומטית, בלי לחשוב כלל",
+        "en": "Operate automatically without thinking at all",
+        "ar": "التشغيل التلقائي دون الحاجة للتفكير مطلقًا"
+      },
+      {
+        "he": "הפעלת מערכות הרכב באופן עיוור",
+        "en": "Operate the vehicle’s systems blindly",
+        "ar": "تشغيل أنظمة المركبة بشكل أعمى"
+      },
+      {
+        "he": "לא תאפשר דבר; אין בה כל יתרון חוץ מהכרת המערכות",
+        "en": "Achieve nothing; it offers no advantage beyond system familiarity",
+        "ar": "لن يتيح أي فائدة سوى التعرف على الأنظمة"
+      },
+      {
+        "he": "ריכוז מרבי בתנועה ובדרך",
+        "en": "Maintain maximum concentration on traffic and the road",
+        "ar": "الحفاظ على تركيز كامل على حركة المرور والطريق"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 187,
+    "text": {
+      "he": "מה הן המגבלות של הנהג בעת נסיעה אחורנית?",
+      "en": "What are the driver’s limitations when reversing?",
+      "ar": "ما هي القيود التي يواجهها السائق عند الرجوع إلى الخلف؟"
+    },
+    "options": [
+      {
+        "he": "שדה ראייה מצומצם והפעלה לא נוחה של הרכב",
+        "en": "Limited field of vision and awkward vehicle control",
+        "ar": "مجال رؤية محدود وصعوبة في التحكم بالمركبة"
+      },
+      {
+        "he": "הנסיעה לאחור ארוכה יותר",
+        "en": "Reversing takes longer",
+        "ar": "مدة الرجوع إلى الخلف أطول"
+      },
+      {
+        "he": "קצב נסיעה מהיר וצורך בהפעלת מערכות רבות מקשה את השליטה על מערכת הבלימה",
+        "en": "High speed and the need to operate many systems make braking control difficult",
+        "ar": "سرعة عالية والحاجة لتشغيل أنظمة متعددة تجعل التحكم في المكابح صعبًا"
+      },
+      {
+        "he": "לנהג מנוסה אין מגבלות בעת הנסיעה לאחור",
+        "en": "An experienced driver has no limitations when reversing",
+        "ar": "لا توجد قيود على سائق متمرس عند الرجوع إلى الخلف"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 188,
+    "text": {
+      "he": "כיצד עליך לנהוג כאשר נורת האזהרה של הבלמים דולקת בעת הנסיעה?",
+      "en": "How should you drive when the brake warning light is on while driving?",
+      "ar": "كيف يجب أن تقود عندما تضيء لمبة تحذير المكابح أثناء القيادة؟"
+    },
+    "options": [
+      {
+        "he": "להמשיך בנסיעה אטית עד למוסך, בימין הכביש",
+        "en": "Continue driving slowly to a garage, on the right side of the road",
+        "ar": "واصل القيادة ببطء إلى الميكانيكي، على جانب الطريق الأيمن"
+      },
+      {
+        "he": "לעצור את הרכב ולא להמשיך בנסיעה",
+        "en": "Stop the vehicle and do not continue driving",
+        "ar": "أوقف المركبة ولا تستمر بالقيادة"
+      },
+      {
+        "he": "להמשיך בנסיעה רגילה עד למוסך, באורות צהובים מהבהבים",
+        "en": "Continue driving normally to a garage with flashing yellow lights",
+        "ar": "واصل القيادة بشكل طبيعي حتى الميكانيكي مع تشغيل أضواء صفراء وامضة"
+      },
+      {
+        "he": "להמשיך בנסיעה רגילה עד לטיפול התקופתי של הרכב",
+        "en": "Continue driving normally until the vehicle’s scheduled maintenance",
+        "ar": "واصل القيادة بشكل طبيعي حتى موعد الصيانة الدوري للمركبة"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 192,
+    "text": {
+      "he": "האם מותר לאנשים להיות ברכב בעת גרירתו, מלבד הנוהג בו?",
+      "en": "May people other than the driver remain in a vehicle while it is being towed?",
+      "ar": "هل يُسمح للأشخاص غير السائق بالبقاء داخل المركبة أثناء سحبها؟"
+    },
+    "options": [
+      {
+        "he": "מותר אדם אחד כמלווה",
+        "en": "One person as an escort is allowed",
+        "ar": "يُسمح لشخص واحد كمرافق"
+      },
+      {
+        "he": "אסור",
+        "en": "Prohibited",
+        "ar": "ممنوع"
+      },
+      {
+        "he": "מותר, בתנאי שהם חגורים בחגורת בטיחות",
+        "en": "Allowed, provided they wear seat belts",
+        "ar": "مسموح، بشرط ربط أحزمة الأمان"
+      },
+      {
+        "he": "מותר לנוסעים שהיו ברכב בזמן התקלה להישאר בו",
+        "en": "Passengers present at the time of breakdown may remain in it",
+        "ar": "يسمح للركاب الموجودين وقت العطل بالبقاء فيه"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 193,
+    "text": {
+      "he": "אוטובוס זעיר מיועד להסיע עד:",
+      "en": "A minibus is designed to carry up to:",
+      "ar": "الحافلة الصغيرة مصممة لنقل حتى:"
+    },
+    "options": [
+      {
+        "he": "12 נוסעים, נוסף לנהג",
+        "en": "12 passengers, plus the driver",
+        "ar": "12 راكبًا بالإضافة إلى السائق"
+      },
+      {
+        "he": "16 נוסעים, כולל הנהג",
+        "en": "16 passengers, including the driver",
+        "ar": "16 راكبًا بما في ذلك السائق"
+      },
+      {
+        "he": "16 נוסעים, נוסף לנהג",
+        "en": "16 passengers, plus the driver",
+        "ar": "16 راكبًا بالإضافة إلى السائق"
+      },
+      {
+        "he": "שמונה נוסעים נוסף לנהג",
+        "en": "Eight passengers, plus the driver",
+        "ar": "ثمانية ركاب بالإضافة إلى السائق"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 218,
+    "text": {
+      "he": "מתי נדלקת נורית אזהרה כחולה בתוך לוח השעונים?",
+      "en": "When does the blue warning light inside the instrument panel illuminate?",
+      "ar": "متى تضيء لمبة التحذير الزرقاء داخل لوحة العدادات؟"
+    },
+    "options": [
+      {
+        "he": "כשאורות הנמוכים דולקים",
+        "en": "When the dipped headlights are on",
+        "ar": "عندما تكون المصابيح المنخفضة مضاءة"
+      },
+      {
+        "he": "כשאורות הגבוהים דולקים",
+        "en": "When the high beams are on",
+        "ar": "عندما تكون المصابيح العالية مضاءة"
+      },
+      {
+        "he": "כשאורות החנייה דולקים",
+        "en": "When the parking lights are on",
+        "ar": "عندما تكون مصابيح الوقوف مضاءة"
+      },
+      {
+        "he": "כל התשובות נכונות",
+        "en": "All of the above",
+        "ar": "جميع ما سبق"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 219,
+    "text": {
+      "he": "מהי “דרך” על פי החוק?",
+      "en": "What is a “road” according to the law?",
+      "ar": "ما هي “طريق” وفقًا للقانون؟"
+    },
+    "options": [
+      {
+        "he": "רק כבישים הסלולים באספלט או בבטון",
+        "en": "Only roads paved with asphalt or concrete",
+        "ar": "فقط الطرق المعبدة بالإسفلت أو الخرسانة"
+      },
+      {
+        "he": "כל מסילה, דרך, רחוב, סמטה, כיכר, מעבר, גשר או מקום פתוח שיש לציבור זכות לעבור בהם",
+        "en": "Any track, road, street, alley, square, crossing, bridge or open place to which the public has right of access",
+        "ar": "أي مسار أو طريق أو شارع أو زقاق أو ساحة أو ممر أو جسر أو مكان مفتوح يحق للعامة العبور فيه"
+      },
+      {
+        "he": "המונח “דרך” אינו מוגדר בחוק",
+        "en": "The term “road” is not defined in the law",
+        "ar": "مصطلح “طريق” غير معرف في القانون"
+      },
+      {
+        "he": "כל מקום שיש זכות לציבור לעבור בו, למעט רחובות עירוניים",
+        "en": "Any place open to public passage, except urban streets",
+        "ar": "أي مكان يحق للعامة المرور فيه، ما عدا شوارع المدن"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 224,
+    "text": {
+      "he": "מהו “שטח מת”?",
+      "en": "What is a “blind spot”?",
+      "ar": "ما هو “المنطقة الميتة”؟"
+    },
+    "options": [
+      {
+        "he": "שטח מסביב לרכב שהנהג אינו יכול להבחין בו ובנמצאים בתוכו",
+        "en": "Area around the vehicle the driver cannot see or those within it",
+        "ar": "منطقة حول المركبة لا يستطيع السائق رؤيتها أو من بداخلها"
+      },
+      {
+        "he": "השטח מסביב לרכב הנראה לנהג רק במראות",
+        "en": "Area visible to the driver only in the mirrors",
+        "ar": "المنطقة التي يراها السائق فقط في المرايا"
+      },
+      {
+        "he": "השטח מסביב לרכב שאינו סלול",
+        "en": "Unpaved area around the vehicle",
+        "ar": "المنطقة غير المعبدة حول المركبة"
+      },
+      {
+        "he": "המרחק שחייב הנוהג ברכב לשמור מרכב אחר בנסיעה לאחור",
+        "en": "Distance the driver must keep from another vehicle when reversing",
+        "ar": "المسافة التي يجب على السائق حفظها عن مركبة أخرى عند الرجوع للخلف"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 226,
+    "text": {
+      "he": "שטח הפרדה הוא:",
+      "en": "What is a separation area?",
+      "ar": "ما هي منطقة الفصل؟"
+    },
+    "options": [
+      {
+        "he": "שטח שאסור לחנות בו, אלא אם כן הותרה החנייה בתמרור",
+        "en": "An area where parking is prohibited unless a sign permits it",
+        "ar": "منطقة يُحظر فيها الوقوف إلا إذا سمحت إشارة بذلك"
+      },
+      {
+        "he": "שטח המיועד לחנייה בדרך עירונית",
+        "en": "Area designated for parking on an urban road",
+        "ar": "منطقة مخصصة للوقوف في طريق حضري"
+      },
+      {
+        "he": "שטח המיועד לחניית כלי רכב דו-גלגליים בדרך עירונית, ללא צורך בתמרור מיוחד",
+        "en": "Area for two-wheel vehicles on an urban road, without special signage",
+        "ar": "منطقة للدراجات ذات العجلتين في طريق حضري، دون حاجة لإشارة خاصة"
+      },
+      {
+        "he": "שטח המיועד למילוט בשעת סכנה וסומן לשם כך בתמרור מיוחד",
+        "en": "Area intended for emergency escape, marked by a special sign",
+        "ar": "منطقة مخصصة للهروب في حالات الخطر، مُعلمة بإشارة خاصة"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 227,
+    "text": {
+      "he": "כאשר נורית הבקרה של לחץ השמן נדלקת בנסיעה, עליך:",
+      "en": "When the oil-pressure warning light comes on while driving, you should:",
+      "ar": "عندما تضيء لمبة تحكم ضغط الزيت أثناء القيادة، يجب عليك:"
+    },
+    "options": [
+      {
+        "he": "לעצור מיד את הרכב ולדומם את המנוע",
+        "en": "Stop immediately and switch off the engine",
+        "ar": "توقف فورًا وأوقف تشغيل المحرك"
+      },
+      {
+        "he": "להמשיך בנסיעה בהילוך נמוך עד למוסך (אך לא יותר מחצי שעת נסיעה)",
+        "en": "Continue in low gear to a garage (but no more than a half-hour’s drive)",
+        "ar": "واصل السير بالترس المنخفض إلى الميكانيكي (لكن لا تتجاوز نصف ساعة)"
+      },
+      {
+        "he": "להמשיך בנסיעה, בתנאי שיש כמות מספקת של שמן באגן השמן",
+        "en": "Continue driving if there is sufficient oil in the sump",
+        "ar": "واصل القيادة إذا كان هناك كمية كافية من الزيت في الحوض"
+      },
+      {
+        "he": "להמשיך בנסיעה, אם מד החום מצביע על טמפרטורה תקינה",
+        "en": "Continue if the temperature gauge indicates normal temperature",
+        "ar": "واصل القيادة إذا كان مقياس الحرارة يُظهر درجة حرارة طبيعية"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 231,
+    "text": {
+      "he": "כיצד יש להסיע ברכב ילד שמלאו לו שלוש שנים וטרם מלאו לו שמונה שנים?",
+      "en": "How should a child aged three but under eight be transported in a vehicle?",
+      "ar": "كيف يجب نقل طفل عمره ثلاث سنوات وأقل من ثماني سنوات في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "במושב בטיחות או במושב מגביה המתאים לגובהו ולמשקלו",
+        "en": "In a child safety seat or booster seat appropriate to their height and weight",
+        "ar": "في مقعد أمان للأطفال أو مقعد رفع مناسب لطولهم ووزنهم"
+      },
+      {
+        "he": "חגור בחגורת בטיחות כלשהי",
+        "en": "Fastened with any seat belt",
+        "ar": "مربوط بحزام الأمان لأي نوع"
+      },
+      {
+        "he": "חגור בחגורת בטיחות משולבת (שלוש נקודות)",
+        "en": "Fastened with a three-point seat belt",
+        "ar": "مربوط بحزام الأمان ثلاثي النقاط"
+      },
+      {
+        "he": "רק במושב האחורי של הרכב",
+        "en": "Only in the rear seat of the vehicle",
+        "ar": "فقط في المقعد الخلفي للمركبة"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 232,
+    "text": {
+      "he": "מה פירוש הסימון על פני הדרך (קו צהוב)?",
+      "en": "What does the yellow line marking on the road mean?",
+      "ar": "ماذا يعني التحديد بخط أصفر على الطريق؟"
+    },
+    "options": [
+      {
+        "he": "קו גבול המסמן את קו שפת הכביש, במקום שאין אבני שפה",
+        "en": "A boundary line marking the edge of the road where there is no kerb",
+        "ar": "خط حدودي يحدد حافة الطريق حيث لا يوجد رصيف"
+      },
+      {
+        "he": "האזור שמימין לקו מותר לחנייה בדרך מהירה",
+        "en": "The area to the right of the line is permitted for parking on a highway",
+        "ar": "المنطقة إلى يمين الخط مسموح فيها بالوقوف على طريق سريع"
+      },
+      {
+        "he": "באזור שמשמאל לקו מותר לחנות בדרך מהירה",
+        "en": "The area to the left of the line is permitted for parking on a highway",
+        "ar": "المنطقة إلى يسار الخط مسموح فيها بالوقوف على طريق سريع"
+      },
+      {
+        "he": "אסור לנסוע בין הקווים הצהובים",
+        "en": "It is forbidden to drive between yellow lines",
+        "ar": "ممنوع القيادة بين الخطوط الصفراء"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 83
+  },
+  {
+    "id": 233,
+    "text": {
+      "he": "בנתיב נסיעתך מסומן על הכביש החץ שבתמונה. מה פירוש החץ?",
+      "en": "In your lane there is an arrow on the road as shown. What does the arrow mean?",
+      "ar": "في مسارك يوجد سهم على الطريق كما هو موضح. ماذا يعني السهم؟"
+    },
+    "options": [
+      {
+        "he": "מהנתיב הזה חייבים לפנות שמאלה בצומת הקרוב",
+        "en": "From this lane you must turn left at the next junction",
+        "ar": "من هذا المسار يجب الانعطاف يسارًا عند التقاطع التالي"
+      },
+      {
+        "he": "העקיפה משמאל מותרת",
+        "en": "Overtaking on the left is permitted",
+        "ar": "التجاوز من الجانب الأيسر مسموح"
+      },
+      {
+        "he": "עצור. סטה לנתיב השמאלי עכשיו",
+        "en": "Stop. Move now to the left lane",
+        "ar": "قف. انتقل الآن إلى المسار الأيسر"
+      },
+      {
+        "he": "עליך לסטות לנתיב שמשמאל",
+        "en": "You must shift into the left lane",
+        "ar": "يجب عليك الانتقال إلى المسار الأيسر"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 84
+  },
+  {
+    "id": 240,
+    "text": {
+      "he": "מחזיק רישיון נהיגה בדרגה B רשאי לנהוג גם:",
+      "en": "A class B license holder may also drive:",
+      "ar": "يحوز رخصة قيادة من الفئة B يحق له أيضًا قيادة:"
+    },
+    "options": [
+      {
+        "he": "בכל רכב מנועי שמשקלו הכולל עד 6,000 ק\"ג",
+        "en": "Any motor vehicle up to 6,000 kg",
+        "ar": "أي مركبة حتى وزن إجمالي 6000 كجم"
+      },
+      {
+        "he": "באוטובוס זעיר ציבורי עד 3,500 ק\"ג",
+        "en": "A public minibus up to 3,500 kg",
+        "ar": "حافلة صغيرة عامة حتى 3500 كجم"
+      },
+      {
+        "he": "באוטובוס זעיר פרטי עד 3,500 ק\"ג",
+        "en": "A private minibus up to 3,500 kg",
+        "ar": "حافلة صغيرة خاصة حتى 3500 كجم"
+      },
+      {
+        "he": "בכל אוטובוס עד 3,500 ק\"ג",
+        "en": "Any bus up to 3,500 kg",
+        "ar": "أي حافلة حتى 3500 كجم"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 252,
+    "text": {
+      "he": "איזו פעולה יש לבצע לאחר החלפת גלגל?",
+      "en": "What should you do after changing a wheel?",
+      "ar": "ما الإجراء الواجب اتخاذه بعد تبديل عجلة؟"
+    },
+    "options": {
+      "he": [
+        "לחזק את אומי הגלגל לאחר הורדת הרכב מהמגבה ולעשות זאת שוב לאחר נסיעה של 50 ק\"מ.",
+        "לבדוק את חום הצמיג לפני הנסיעה הבאה.",
+        "לבעוט קלות בצמיג לבדיקה כללית.",
+        "אין צורך בשום פעולה מיוחדת."
+      ],
+      "en": [
+        "Tighten the wheel nuts after lowering the vehicle and re-check them after driving 50 km.",
+        "Check the tire temperature before the next trip.",
+        "Gently kick the tire for a general check.",
+        "No special action is required."
+      ],
+      "ar": [
+        "تثبيت صواميل العجلة بعد إنزال المركبة وإعادة الفحص بعد قيادة 50 كم.",
+        "فحص حرارة الإطار قبل الرحلة التالية.",
+        "ركل الإطار برفق لفحص عام.",
+        "لا حاجة لأي إجراء خاص."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 270,
+    "text": {
+      "he": "האם הפסקה קצרה להתרעננות בזמן נהיגה יכולה להפיג עייפות?",
+      "en": "Can a short refreshment break while driving relieve fatigue?",
+      "ar": "هل يمكن لاستراحة قصيرة أثناء القيادة أن تخفف التعب؟"
+    },
+    "options": {
+      "he": [
+        "כן. הפסקה קצרה תמנע את העייפות לחלוטין.",
+        "כן – לפרק זמן קצר.",
+        "כן. הפסקה של כמה דקות מאפשרת נהיגה רצופה במשך שעות רבות.",
+        "לא. הפסקה קצרה אינה יעילה כלל."
+      ],
+      "en": [
+        "Yes. A short break will eliminate fatigue completely.",
+        "Yes – but only for a short time.",
+        "Yes. A few-minute break enables many more hours of continuous driving.",
+        "No. A short break is not effective at all."
+      ],
+      "ar": [
+        "نعم. ستمنع الاستراحة القصيرة التعب تمامًا.",
+        "نعم – لكن لفترة وجيزة.",
+        "نعم. استراحة لبضع دقائق تتيح قيادة متواصلة لساعات طويلة.",
+        "لا. الاستراحة القصيرة ليست فعّالة على الإطلاق."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 271,
+    "text": {
+      "he": "כאשר יורד גשם חזק:",
+      "en": "When heavy rain is falling:",
+      "ar": "عند هطول أمطار غزيرة:"
+    },
+    "options": {
+      "he": [
+        "מותר להדליק אורות ערפל.",
+        "מותר להדליק אורות גבוהים.",
+        "חובה לנהוג במהירות שאינה עולה על חצי מהמהירות המרבית המותרת.",
+        "מותר להדליק מהבהבי חירום צהובים."
+      ],
+      "en": [
+        "You may switch on the fog lights.",
+        "You may switch on high-beam headlights.",
+        "You must drive at no more than half the maximum permitted speed.",
+        "You may activate the yellow hazard flashers."
+      ],
+      "ar": [
+        "يجوز تشغيل أضواء الضباب.",
+        "يجوز تشغيل الضوء العالي.",
+        "يجب القيادة بسرعة لا تتجاوز نصف السرعة القصوى المسموح بها.",
+        "يجوز تشغيل مصابيح التحذير الصفراء."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 273,
+    "text": {
+      "he": "על מה צריך להקפיד בחניית רכב בחניון סגור?",
+      "en": "What must be observed when parking a vehicle in a closed garage?",
+      "ar": "على ماذا يجب الانتباه عند ركن مركبة في موقف مغلق؟"
+    },
+    "options": {
+      "he": [
+        "להשאיר את המנוע פועל כ-20 דקות לאחר העצירה לקירורו.",
+        "להימנע מהשארת מנוע פועל זמן רב בגלל חוסר אוורור.",
+        "אין צורך להקפיד על דבר – אין מגבלות.",
+        "לא להשאיר מנוע פועל יותר מ-30 דקות ברציפות."
+      ],
+      "en": [
+        "Keep the engine running about 20 minutes after stopping to cool it down.",
+        "Avoid leaving the engine running for long due to poor ventilation.",
+        "No special precautions are required.",
+        "Do not leave the engine running more than 30 minutes continuously."
+      ],
+      "ar": [
+        "ترك المحرك يعمل نحو 20 دقيقة بعد التوقف لتبريده.",
+        "تجنب ترك المحرك يعمل طويلًا بسبب عدم وجود تهوية.",
+        "لا حاجة لأي احتياطات خاصة.",
+        "عدم ترك المحرك يعمل أكثر من 30 دقيقة متواصلة."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 287,
+    "text": {
+      "he": "פנסי חזית שאינם מכוונים כראוי:",
+      "en": "Headlamps that are not properly aligned:",
+      "ar": "المصابيح الأمامية غير المضبوطة جيداً:"
+    },
+    "options": {
+      "he": [
+        "גורמים לסינוור עצמי לנהג.",
+        "אינם מאירים את הדרך כנדרש.",
+        "אינם משפיעים על הנהיגה.",
+        "מגבירים את ערנות הנהג."
+      ],
+      "en": [
+        "Cause self-glare to the driver.",
+        "Do not illuminate the road sufficiently.",
+        "Do not affect driving or control.",
+        "Increase driver alertness."
+      ],
+      "ar": [
+        "تسبب إبهاراً ذاتياً للسائق.",
+        "لا تنير الطريق كما يجب.",
+        "لا تؤثر على القيادة والسيطرة.",
+        "تزيد من يقظة السائق."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 288,
+    "text": {
+      "he": "מהי התדירות הנכונה לביצוע תחזוקה ברכב?",
+      "en": "What is the correct maintenance interval for a vehicle?",
+      "ar": "ما هو تواتر الصيانة الصحيح للمركبة؟"
+    },
+    "options": {
+      "he": [
+        "כפי שממליץ יצרן הרכב.",
+        "כפי שממליץ בעל המוסך.",
+        "לפי הצורך ולפי התקלות.",
+        "כפי שממליצה חברת הביטוח."
+      ],
+      "en": [
+        "As recommended by the vehicle manufacturer.",
+        "As recommended by the garage owner.",
+        "According to need and discovery of faults.",
+        "As recommended by the insurance company."
+      ],
+      "ar": [
+        "كما يوصي الصانع.",
+        "كما يوصي صاحب الورشة.",
+        "حسب الحاجة واكتشاف الأعطال.",
+        "كما توصي شركة التأمين."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 298,
+    "text": {
+      "he": "מהי הגדרת \"רכב מיושן\" לגבי רכב נוסעים פרטי?",
+      "en": "What is the definition of an “aged vehicle” for a private passenger car?",
+      "ar": "ما تعريف «مركبة قديمة» بالنسبة لسيارة ركاب خاصة؟"
+    },
+    "options": {
+      "he": [
+        "עברו 15 שנים מייצורו.",
+        "אינו עומד בתקן הישראלי.",
+        "רכב נוסעים אינו מוגדר מיושן.",
+        "עברו 19 שנים מייצורו."
+      ],
+      "en": [
+        "15 years have passed since its manufacture.",
+        "It does not meet the Israeli standard.",
+        "Private passenger cars are not defined as aged.",
+        "19 years have passed since its manufacture."
+      ],
+      "ar": [
+        "مرَّ 15 عاماً على تصنيعه.",
+        "لا يفي بالمواصفة الإسرائيلية.",
+        "سيارات الركاب الخاصة لا تُعد قديمة.",
+        "مرَّ 19 عاماً على تصنيعه."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 314,
+    "text": {
+      "he": "שתיית כמות רבה של אלכוהול משבשת את הראייה ההיקפית. נכון או לא?",
+      "en": "Drinking a large amount of alcohol impairs peripheral vision – true or false?",
+      "ar": "شرب كمية كبيرة من الكحول يضعف الرؤية الجانبية – صحيح أم خطأ؟"
+    },
+    "options": {
+      "he": [
+        "נכון – תלוי בסוג הרכב.",
+        "נכון.",
+        "לא נכון.",
+        "נכון אצל צעירים בלבד."
+      ],
+      "en": [
+        "True – depends on vehicle type.",
+        "True.",
+        "False.",
+        "True only for young drivers."
+      ],
+      "ar": [
+        "صحيح – حسب نوع المركبة.",
+        "صحيح.",
+        "خطأ.",
+        "صحيح لدى السائقين الشباب فقط."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 319,
+    "text": {
+      "he": "איזו פעולה על הנהג לבצע כדי למנוע פגיעה (ע\"פ התמונה)?",
+      "en": "What should the approaching driver do to avoid collision (per the photo)?",
+      "ar": "ما الإجراء الذي على السائق المتقدّم اتخاذه لتجنّب الاصطدام (وفق الصورة)؟"
+    },
+    "options": {
+      "he": [
+        "המשך נסיעה כרגיל – הדלת תיסגר.",
+        "הבהוב באורות גבוהים.",
+        "צפירה חזקה וממושכת.",
+        "האט ושמור רווח צד (סטה שמאלה)."
+      ],
+      "en": [
+        "Continue normally – the door will close.",
+        "Flash high-beam lights.",
+        "Sound a long, loud horn.",
+        "Slow down and keep a safe lateral gap (swerve left)."
+      ],
+      "ar": [
+        "تابع سيرك كالمعتاد – الباب سيغلق.",
+        "أومض بالأضواء العالية.",
+        "أطلق بوقًا قويًا وطويلاً.",
+        "خفف السرعة وحافظ على فراغ جانبي (انعطف يسارًا)."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 123
+  },
+  {
+    "id": 322,
+    "text": {
+      "he": "כאשר הראות לקויה:",
+      "en": "When visibility is poor:",
+      "ar": "عندما تكون الرؤية ضعيفة:"
+    },
+    "options": {
+      "he": [
+        "האט ושמור רווח גדול מהרכב שלפנים.",
+        "היצמד לימין והאץ עד שהראות תתבהר.",
+        "היצמד לרכב מלפנים כדי להיעזר באורותיו.",
+        "סע במהירות רגילה אך היה דרוך."
+      ],
+      "en": [
+        "Slow down and keep a greater following distance.",
+        "Keep to the right and accelerate until visibility improves.",
+        "Tailgate the vehicle ahead to use its lights.",
+        "Maintain normal speed but stay alert."
+      ],
+      "ar": [
+        "خفف السرعة وحافظ على مسافة أكبر من المركبة أمامك.",
+        "الزم اليمين وسرّع حتى تتحسن الرؤية.",
+        "التصق بالمركبة أمامك للاستفادة من أضوائها.",
+        "سر بالسرعة العادية لكن كن يقظًا."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 323,
+    "text": {
+      "he": "בתמונה יש כמה גורמי דרך; כיצד תגיב?",
+      "en": "Several road factors appear in the picture; how should the driver react?",
+      "ar": "هناك عدة عوامل طريق في الصورة؛ كيف يتصرف السائق؟"
+    },
+    "options": {
+      "he": [
+        "להאט ולהימין ככל האפשר.",
+        "אם אין תמרור אזהרה – המשך רגיל.",
+        "המשך בנתיב ובמהירות הרגילה.",
+        "צפור, בדוק מראות והאץ כדי לקצר שהייה בעקומה."
+      ],
+      "en": [
+        "Slow down and keep as far right as possible.",
+        "If no warning sign, continue at normal speed.",
+        "Continue in the lane at normal speed.",
+        "Honk, check mirrors and speed up to shorten time in the curve."
+      ],
+      "ar": [
+        "خفف السرعة والتزم أقصى اليمين.",
+        "إذا لا يوجد تحذير – تابع بالسرعة العادية.",
+        "تابع في مسارك وبسرعتك المعتادة.",
+        "أطلق بوقك، افحص المرايا وسرّع لتقليل الوقت داخل المنعطف."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 125
+  },
+  {
+    "id": 324,
+    "text": {
+      "he": "סכנת החלקה בכביש רטוב גדולה יותר:",
+      "en": "Skid risk on a wet road is greater:",
+      "ar": "خطر الانزلاق على طريق مبللة أكبر:"
+    },
+    "options": {
+      "he": [
+        "ככל שהצמיגים שחוקים יותר.",
+        "ככל שחריצי הצמיגים עמוקים יותר.",
+        "ככל שהרכב כבד יותר.",
+        "ככל שלחץ האוויר בצמיגים גבוה יותר."
+      ],
+      "en": [
+        "The more worn the tyres are.",
+        "The deeper the tyre grooves are.",
+        "The heavier the vehicle is.",
+        "The higher the tyre pressure is."
+      ],
+      "ar": [
+        "كلما كانت الإطارات أكثر تآكلاً.",
+        "كلما كانت شقوق الإطار أعمق.",
+        "كلما كانت المركبة أثقل.",
+        "كلما كان ضغط الهواء في الإطارات أعلى."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 332,
+    "text": {
+      "he": "מה אנו חייבים לוודא לפני הנהיגה?",
+      "en": "What must we make sure of before driving?",
+      "ar": "بماذا يجب التأكد قبل القيادة؟"
+    },
+    "options": {
+      "he": [
+        "שבוצעו טיפולי תחזוקה שוטפים.",
+        "שאנחנו בקיאים בהפעלת הרכב.",
+        "שברכב נורות ונתיכים חלופיים.",
+        "שדלק ושמנים מתאימים."
+      ],
+      "en": [
+        "That routine maintenance has been done.",
+        "That we are familiar with operating the vehicle.",
+        "That spare bulbs and fuses are on board.",
+        "That fuel and oils are of the correct type."
+      ],
+      "ar": [
+        "أن الصيانة الدورية أُنجزت.",
+        "أننا ملمين بتشغيل المركبة.",
+        "أن بالمركبة لمبات وفيوزات بديلة.",
+        "أن الوقود والزيوت من النوع المناسب."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 338,
+    "text": {
+      "he": "כדי לצמצם סינוור בלילה רצוי:",
+      "en": "To reduce glare at night it is advisable to:",
+      "ar": "لتقليل الوهج ليلاً يُفضَّل:"
+    },
+    "options": {
+      "he": [
+        "לסנוור בחזרה בהבהובים קצרים.",
+        "להוריד את סך-השמש.",
+        "להרכיב משקפי שמש כהים.",
+        "לנקות היטב את שמשות הרכב."
+      ],
+      "en": [
+        "Glare back at the oncoming driver with short flashes.",
+        "Lower the sun-visor.",
+        "Wear dark sunglasses.",
+        "Clean the windows thoroughly."
+      ],
+      "ar": [
+        "إبهار السائق المقابل بومضات قصيرة.",
+        "إنزال حاجب الشمس.",
+        "ارتداء نظارات شمسية داكنة.",
+        "تنظيف الزجاج جيدًا."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 350,
+    "text": {
+      "he": "חובה להאט את נסיעת הרכב:",
+      "en": "It is obligatory to slow the vehicle:",
+      "ar": "يجب إبطاء سرعة المركبة:"
+    },
+    "options": {
+      "he": [
+        "בנסיעה בדרך שאינה עירונית.",
+        "בכניסה למנהרה ובנסיעה בה.",
+        "בדרך שאינה עירונית ובה שטח הפרדה בנוי.",
+        "בדרך שאינה עירונית ובה שטח מסומן על הכביש."
+      ],
+      "en": [
+        "When driving on a non-urban road.",
+        "At the entrance to and inside a tunnel.",
+        "On a non-urban road with a central reservation.",
+        "On a non-urban road with marked surface area."
+      ],
+      "ar": [
+        "أثناء القيادة على طريق غير حضري.",
+        "عند مدخل النفق وأثناء السير فيه.",
+        "على طريق غير حضري به جزيرة فاصلة مبنية.",
+        "على طريق غير حضري به منطقة مميزة على الطريق."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 355,
+    "text": {
+      "he": "מה תהיה תגובתך לסימנים שבתמונה (דלת רכב נפתחת)?",
+      "en": "How should you react to the cues in the picture (car door opening)?",
+      "ar": "كيف يجب أن تتصرف تجاه العلامات في الصورة (باب سيارة يُفتح)؟"
+    },
+    "options": {
+      "he": [
+        "האט והיכון לעצירה, כדי למנוע פגיעה.",
+        "סטה שמאלה והאץ.",
+        "המשך כרגיל – זהירות על הנהג היוצא.",
+        "צפור חזק למניעת פגיעה."
+      ],
+      "en": [
+        "Slow down and be ready to stop to avoid hitting the door.",
+        "Swerve left and accelerate.",
+        "Continue normally—responsibility lies on the driver exiting.",
+        "Sound the horn loudly to prevent collision."
+      ],
+      "ar": [
+        "خفّف السرعة واستعد للتوقف لتجنّب الاصطدام بالباب.",
+        "انعطف يسارًا وسرّع.",
+        "تابع كالمعتاد – الحذر على السائق الخارج.",
+        "أطلق بوقًا قويًا لمنع الاصطدام."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 145
+  },
+  {
+    "id": 363,
+    "text": {
+      "he": "מהו רכב היברידי (כלאיים)?",
+      "en": "What is a hybrid vehicle?",
+      "ar": "ما هي المركبة الهجينة؟"
+    },
+    "options": {
+      "he": [
+        "רכב שבו שני מנועים רגילים.",
+        "שני מנועים חשמליים במקום הרגיל.",
+        "מנוע חשמלי נוסף למנוע הרגיל.",
+        "מנוע רגיל ובנוסף מנוע סולרי."
+      ],
+      "en": [
+        "A vehicle with two conventional engines.",
+        "A vehicle with two electric motors instead of an engine.",
+        "A vehicle with an electric motor in addition to the conventional engine.",
+        "A vehicle with a regular engine plus a solar engine."
+      ],
+      "ar": [
+        "مركبة تحتوي على محركين عاديين.",
+        "مركبة تحتوي على محركين كهربائيين بدلاً من المحرك العادي.",
+        "مركبة تحتوي على محرك كهربائي بالإضافة إلى المحرك العادي.",
+        "مركبة تحتوي على محرك عادي وأيضًا محرك شمسي."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 368,
+    "text": {
+      "he": "ילדים משחקים בכביש – באיזו פעולה תבחר?",
+      "en": "Children are playing on the road – which action do you choose?",
+      "ar": "أطفال يلعبون على الطريق – أي تصرف تختار؟"
+    },
+    "options": {
+      "he": [
+        "אנקוט כל פעולה למנוע פגיעה – אפילו עצירה.",
+        "אעבור מימינם במהירות כדי לא להטרידם.",
+        "אצפור ואעבור משמאלם.",
+        "אצפור כדי שיפנו – אסור להם לשחק בכביש."
+      ],
+      "en": [
+        "Take every action needed to avoid harm—even stop.",
+        "Pass on their right at speed so as not to bother them.",
+        "Honk and pass on their left.",
+        "Honk so they clear the road—they mustn’t play there."
+      ],
+      "ar": [
+        "سأتخذ كل إجراء لمنع إصابتهم حتى لو توقفت.",
+        "سأمر من يمينهم بسرعة كي لا أزعجهم.",
+        "سأبوق وأمر من يسارهم.",
+        "سأبوق ليتركوا الطريق – لا يجوز لهم اللعب فيه."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 152
+  },
+  {
+    "id": 390,
+    "text": {
+      "he": "היכן חלה חובה להאט את מהירות הרכב?",
+      "en": "Where must the driver slow down?",
+      "ar": "أين يجب على السائق تخفيف السرعة؟"
+    },
+    "options": {
+      "he": [
+        "בנסיעה בדרך שאינה עירונית.",
+        "באזור מיתון תנועה.",
+        "בדרך שאינה עירונית עם שטח הפרדה בנוי.",
+        "בדרכים ראשיות."
+      ],
+      "en": [
+        "On any non-urban road.",
+        "In a traffic-calming zone.",
+        "On non-urban roads with central reservation.",
+        "On primary highways."
+      ],
+      "ar": [
+        "أثناء القيادة بطريق غير حضرية.",
+        "في منطقة تهدئة حركة.",
+        "في طريق غير حضرية ذات جزيرة وسطية.",
+        "في الطرق الرئيسية."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 397,
+    "text": {
+      "he": "איזה ביטוח יכסה נזק שנגרם לרכבו של אחר?",
+      "en": "Which insurance covers damage to another person’s car?",
+      "ar": "أي تأمين يغطي ضررًا أُلحق بمركبة آخر؟"
+    },
+    "options": {
+      "he": [
+        "ביטוח מנהלים",
+        "ביטוח אש",
+        "ביטוח צד ג׳",
+        "ביטוח חובה"
+      ],
+      "en": [
+        "Management policy",
+        "Fire insurance",
+        "Third-party (liability)",
+        "Compulsory personal-injury"
+      ],
+      "ar": [
+        "تأمين إداري",
+        "تأمين حريق",
+        "تأمين طرف ثالث",
+        "تأمين إلزامي"
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4
+  },
+  {
+    "id": 398,
+    "text": {
+      "he": "כיצד נמנע חזית-אל-חזית בדרך הררית צרה?",
+      "en": "How can you avoid a head-on collision on a narrow winding mountain road?",
+      "ar": "كيف نمنع اصطدامًا وجهيًا في طريق جبلي ضيق ومتعرّج؟"
+    },
+    "options": {
+      "he": [
+        "נסיעה בקצה ימין, אורות דולקים, התאמת מהירות.",
+        "האטה וצפירה ארוכה לפני כל עיקול.",
+        "הילוך גבוה והימנעות מבלמים.",
+        "נהיגה סמוך לקו-האמצע."
+      ],
+      "en": [
+        "Drive at extreme right, lights on, adapt speed.",
+        "Slow and sound a long horn before every bend.",
+        "High gear, minimal braking to avoid fade.",
+        "Drive close to the centre line."
+      ],
+      "ar": [
+        "السير بأقصى اليمين، أضواء مضاءة، ملاءمة السرعة.",
+        "الإبطاء وإطلاق بوق طويل قبل كل منعطف.",
+        "القيادة بترس عالٍ وتقليل الفرامل.",
+        "القيادة قرب خط المنتصف."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 169
+  },
+  {
+    "id": 399,
+    "text": {
+      "he": "כיצד יפעל נהג כשאוטובוס ילדים נעצר לעלייה/הורדה?",
+      "en": "What must a driver do when a school bus stops to load/unload children?",
+      "ar": "كيف يتصرف السائق عند توقف حافلة أطفال للإنزال/الصعود؟"
+    },
+    "options": {
+      "he": [
+        "יאט עד כדי אפשרות עצירה ויחלוף לאט.",
+        "יעצור תמיד מאחורי האוטובוס.",
+        "יעקוף כרגיל לפי שלבי עקיפה.",
+        "יצפור ממושכות ויעקוף."
+      ],
+      "en": [
+        "Slow to a possible stop and pass the bus slowly.",
+        "Always stop behind the bus until it departs.",
+        "Overtake normally following all stages.",
+        "Sound horn continuously and overtake."
+      ],
+      "ar": [
+        "يُبطئ حتى إمكانية التوقف ويمر ببطء.",
+        "يقف دائمًا خلف الحافلة حتى تتابع سيرها.",
+        "يتجاوز الحافلة كالمعتاد.",
+        "يطلق بوقًا طويلاً ويتجاوز."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 170
+  },
+  {
+    "id": 400,
+    "text": {
+      "he": "מה נדרש מנהג הרכב המתקרב לתמרורים שבתמונה?",
+      "en": "What is required of a driver approaching the signs shown?",
+      "ar": "ما المطلوب من السائق المتقدم نحو الإشارات بالصورة؟"
+    },
+    "options": {
+      "he": [
+        "התאם מהירות לדרך עירונית, תן זכות ימינה והיזהר מהולכי רגל.",
+        "התאם מהירות ל-90 קמ\"ש.",
+        "תשומת לב מיוחדת לקשישים בדרך.",
+        "המשך רגיל – האחריות על הרכב מימין."
+      ],
+      "en": [
+        "Adjust speed to urban road, yield to right, beware of pedestrians.",
+        "Adjust speed to 90 km/h.",
+        "Pay special attention to elderly pedestrians.",
+        "Continue normally – responsibility lies on the right-hand driver."
+      ],
+      "ar": [
+        "ملاءمة السرعة لطريق حضرية، إعطاء حق الأولوية لليمين، والحذر من المشاة.",
+        "ملاءمة السرعة إلى 90 كم/س.",
+        "الانتباه بشكل خاص لوجود مسنين.",
+        "المتابعة كالمعتاد – المسؤولية على السائق من اليمين."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 4,
+    "relatedSignId": 171
+  }
+]

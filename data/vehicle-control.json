@@ -1,0 +1,1409 @@
+[
+  {
+    "id": 68,
+    "text": {
+      "he": "לחצת על דוושת הבלם ואתה מרגיש שבלם השרות אינו פועל. מה תעשה?",
+      "en": "You pressed the brake pedal and feel the service brake isn’t working. What will you do?",
+      "ar": "ضغطت على دواسة الفرامل وتشعر أن الفرامل الرئيسية لا تعمل. ماذا تفعل؟"
+    },
+    "options": [
+      {
+        "he": "תנסה לבלום בעזרת בלם עזר (חנייה - יד).",
+        "en": "Try to brake using the auxiliary (parking) brake.",
+        "ar": "حاول الكبح باستخدام فرامل الطوارئ (اليد)."
+      },
+      {
+        "he": "תסובב מהר את ההגה ימינה כדי לבלום את הרכב על‑ידי שינוי כיוון הגלגלים.",
+        "en": "Quickly turn the steering wheel right to slow the vehicle by changing wheel direction.",
+        "ar": "قم بإدارة المقود بسرعة إلى اليمين لإبطاء المركبة بتغيير اتجاه العجلات."
+      },
+      {
+        "he": "תנסה לבלום על‑ידי לחיצה על דוושת המצמד.",
+        "en": "Try to brake by pressing the clutch pedal.",
+        "ar": "حاول الكبح بالضغط على دواسة القابض."
+      },
+      {
+        "he": "תפעיל את הצופר ותדליק את האורות כדי להזהיר את הנהג הנמצא לפניך.",
+        "en": "Sound the horn and flash the lights to warn the driver ahead.",
+        "ar": "قم باستخدام البوق وتشغيل الأضواء لتحذير السائق أمامك."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 71,
+    "text": {
+      "he": "שימוש רצוף בבלמי הרכב בירידה תלולה וממושכת עלול לגרום:",
+      "en": "Continuous use of the vehicle’s brakes on a long, steep descent may cause:",
+      "ar": "الاستخدام المتواصل لفرامل المركبة في نزول حاد وطويل قد يسبب:"
+    },
+    "options": [
+      {
+        "he": "לקירור יתר על המידה של הבלמים ולבלימה חלשה מהנדרש.",
+        "en": "Excessive cooling of the brakes and weaker braking than required.",
+        "ar": "تبريد مفرط للفرامل وكبح أضعف من المطلوب."
+      },
+      {
+        "he": "לחימום הבלמים ולבלימה חזקה יותר מהנדרש.",
+        "en": "Heating of the brakes and stronger braking than required.",
+        "ar": "تسخين الفرامل وكبح أقوى من المطلوب."
+      },
+      {
+        "he": "לחימום יתר של הבלמים ולבלימה חלשה לעומת המצב הרגיל.",
+        "en": "Overheating of the brakes and weaker braking compared with normal.",
+        "ar": "سخونة زائدة في الفرامل وكبح أضعف من الوضع العادي."
+      },
+      {
+        "he": "לשימוש רצוף בבלמים אין השפעה כלשהי על הבלימה.",
+        "en": "Continuous brake use has no effect on braking.",
+        "ar": "الاستخدام المتواصل للفرامل ليس له أي تأثير على الكبح."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 73,
+    "text": {
+      "he": "מדוע משלבים הילוך נמוך בנסיעה במורד תלול?",
+      "en": "Why do you engage a low gear when driving down a steep descent?",
+      "ar": "لماذا نختار ترسًا منخفضًا عند القيادة في نزول حاد؟"
+    },
+    "options": [
+      {
+        "he": "כדי להיעזר במנוע לשמור על מהירות נסיעה נמוכה וקבועה, ללא שימוש יתר בבלמים.",
+        "en": "To use engine braking to keep a low, steady speed without over‑using the brakes.",
+        "ar": "لاستغلال فرملة المحرك والحفاظ على سرعة منخفضة وثابتة بدون الإفراط في استخدام الفرامل."
+      },
+      {
+        "he": "כדי למנוע חימום של מנוע הרכב יתר על המידה.",
+        "en": "To prevent the engine from overheating.",
+        "ar": "لمنع سخونة المحرك الزائدة."
+      },
+      {
+        "he": "כדי לחסוך בדלק ולהקטין את השחיקה של המנוע.",
+        "en": "To save fuel and reduce engine wear.",
+        "ar": "لتوفير الوقود وتقليل تآكل المحرك."
+      },
+      {
+        "he": "כדי למנוע שחיקה של הצמיגים בנסיעה במורד.",
+        "en": "To prevent tyre wear while descending.",
+        "ar": "لمنع تآكل الإطارات أثناء النزول."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 78,
+    "text": {
+      "he": "האם מותר להחליף את הצמיגים ברכב לצמיגים בעלי מידה אחרת?",
+      "en": "Is it permitted to replace the vehicle’s tyres with tyres of a different size?",
+      "ar": "هل يُسمح باستبدال إطارات السيارة بإطارات ذات مقاس مختلف؟"
+    },
+    "options": [
+      {
+        "he": "מותר לשנות רק באישור מראש של רשות הרישוי במשרד התחבורה.",
+        "en": "Allowed only with prior approval from the Licensing Authority.",
+        "ar": "مسموح فقط بموافقة مسبقة من سلطة الترخيص."
+      },
+      {
+        "he": "בשום מקרה אין לשנות את מידת צמיגי הרכב.",
+        "en": "Tyre size must never be changed under any circumstance.",
+        "ar": "لا يجوز مطلقًا تغيير مقاس إطارات المركبة."
+      },
+      {
+        "he": "מותר, אם חברת הביטוח מאשרת את השינוי.",
+        "en": "Allowed if the insurance company approves.",
+        "ar": "مسموح إذا وافقت شركة التأمين."
+      },
+      {
+        "he": "מותר, בתנאי שיוחלפו כל הגלגלים בצמיגים חדשים, שכולם באותו גודל אחר.",
+        "en": "Allowed provided all wheels are replaced with new tyres of the same alternative size.",
+        "ar": "مسموح بشرط استبدال جميع العجلات بإطارات جديدة من المقاس البديل نفسه."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 106,
+    "text": {
+      "he": "לחצת על דוושת הבלם ובלם השירות אינו פועל. מה תעשה?",
+      "en": "You pressed the brake pedal and the service brake does not work. What do you do?",
+      "ar": "ضغطت على دواسة الفرامل ولا تعمل الفرامل الرئيسية. ماذا تفعل؟"
+    },
+    "options": [
+      {
+        "he": "תנסה לבלום בעזרת בלם עזר (חניה–יד).",
+        "en": "Attempt to brake with the auxiliary (parking) brake.",
+        "ar": "حاول الكبح باستخدام فرامل اليد (الطوارئ)."
+      },
+      {
+        "he": "תסובב מהר את ההגה ימינה כדי לבלום על‑ידי שינוי כיוון הגלגלים.",
+        "en": "Quickly turn the steering right to slow via wheel direction.",
+        "ar": "قم بإدارة المقود سريعًا لليمين لإبطاء المركبة."
+      },
+      {
+        "he": "תנסה לבלום בלחיצה על דוושת המצמד.",
+        "en": "Try braking by pressing the clutch pedal.",
+        "ar": "حاول الكبح بالضغط على دواسة القابض."
+      },
+      {
+        "he": "תפעיל צופר ותדליק אורות כדי להזהיר.",
+        "en": "Sound the horn and flash lights to warn others.",
+        "ar": "استخدم البوق والأضواء لتحذير الآخرين."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 126,
+    "text": {
+      "he": "יכולת השליטה ברכב לצורך מניעת תאונה:",
+      "en": "Vehicle control ability for preventing an accident:",
+      "ar": "قدرة السيطرة على المركبة لمنع وقوع حادث:"
+    },
+    "options": [
+      {
+        "he": "משתפרת ככל שהמהירות גדלה.",
+        "en": "Improves as speed increases.",
+        "ar": "تتحسن كلما زادت السرعة."
+      },
+      {
+        "he": "תלויה בגודל הצמיגים.",
+        "en": "Depends on the size of the tires.",
+        "ar": "تعتمد على حجم الإطارات."
+      },
+      {
+        "he": "אינה תלויה במהירות כלל.",
+        "en": "Does not depend on speed at all.",
+        "ar": "لا تعتمد على السرعة إطلاقًا."
+      },
+      {
+        "he": "גבוהה יותר ככל שמהירות הנסיעה נמוכה יותר.",
+        "en": "Higher when driving speed is lower.",
+        "ar": "تكون أعلى كلما كانت سرعة القيادة أقل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3,
+    "relatedSignId": 43
+  },
+  {
+    "id": 130,
+    "text": {
+      "he": "לפני שילוב הילוך מהילוך P להילוך אחר בתיבת הילוכים אוטומטית, על הנהג:",
+      "en": "Before shifting from gear P to another gear in an automatic transmission, the driver must:",
+      "ar": "قبل الانتقال من الوضع P إلى وضع آخر في ناقل حركة أوتوماتيكي، يجب على السائق:"
+    },
+    "options": [
+      {
+        "he": "ללחוץ יחד על דוושת הבלם ועל דוושת המצמד ואז לשלב את ההילוך הנדרש.",
+        "en": "Press both the brake pedal and the clutch pedal together, then engage the required gear.",
+        "ar": "الضغط على دواستي الفرامل والقابض معًا ثم اختيار الغيار المطلوب."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת המצמד.",
+        "en": "Press the clutch pedal firmly.",
+        "ar": "الضغط بقوة على دواسة القابض."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת הדלק.",
+        "en": "Press the accelerator pedal firmly.",
+        "ar": "الضغط بقوة على دواسة الوقود."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת הבלמים.",
+        "en": "Press the brake pedal firmly.",
+        "ar": "الضغط بقوة على دواسة الفرامل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 134,
+    "text": {
+      "he": "על מה יש להקפיד ברכישת צמיג משומש תקין לרכב?",
+      "en": "What should be ensured when buying a usable second‑hand tire for a vehicle?",
+      "ar": "على ماذا يجب الحرص عند شراء إطار مستخدم صالح للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "רק שמידת לחץ האוויר של הצמיג החדש זהה למידת לחץ האוויר של הצמיג הישן.",
+        "en": "Only that the air‑pressure specification of the new tire matches that of the old tire.",
+        "ar": "فقط أن يكون ضغط الهواء للإطار الجديد مطابقًا لضغط الإطار القديم."
+      },
+      {
+        "he": "על בדיקת תאריך הייצור של הצמיג, כדי לוודא שהצמיג אינו ישן מדי (גילו יותר משנתיים).",
+        "en": "Check the tire's manufacture date to ensure it is not too old (more than two years).",
+        "ar": "فحص تاريخ تصنيع الإطار للتأكد من أنه ليس قديماً جداً (أكثر من عامين)."
+      },
+      {
+        "he": "רק שגודל הצמיג החדש זהה לגודלו של הצמיג הישן.",
+        "en": "Only that the size of the new tire is identical to the old one.",
+        "ar": "فقط أن يكون حجم الإطار الجديد مطابقاً لحجم الإطار القديم."
+      },
+      {
+        "he": "רק שצורת הסוליה של הצמיג (פני הצמיג) החדש זהה לצורת הסוליה של הצמיג הישן.",
+        "en": "Only that the tread pattern of the new tire matches that of the old one.",
+        "ar": "فقط أن يكون نقش مداس الإطار الجديد مطابقًا لنقش مداس الإطار القديم."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 137,
+    "text": {
+      "he": "מהי הדרך הנכונה לכוונון משענת הראש ברכב ?",
+      "en": "What is the correct way to adjust the vehicle headrest?",
+      "ar": "ما هي الطريقة الصحيحة لضبط مسند الرأس في السيارة؟"
+    },
+    "options": [
+      {
+        "he": "השפה העליונה של המשענת תימצא בקו אחד עם הקצה העליון של ראש הנהג .",
+        "en": "The top edge of the headrest should be level with the top of the driver's head.",
+        "ar": "يجب أن يكون الحافة العليا لمسند الرأس على خط واحد مع قمة رأس السائق."
+      },
+      {
+        "he": "השפה התחתונה של המשענת תימצא בקו אחד עם הקצה העליון של ראש הנהג .",
+        "en": "The bottom edge of the headrest should be level with the top of the driver's head.",
+        "ar": "يجب أن تكون الحافة السفلية لمسند الرأس بمستوى قمة رأس السائق."
+      },
+      {
+        "he": "השפה העליונה של המשענת תימצא בקו אחד עם הקו התחתון של עורף הנהג .",
+        "en": "The top edge of the headrest should align with the lower line of the driver's neck.",
+        "ar": "يجب أن تكون الحافة العليا لمسند الرأس بمحاذاة أسفل عنق السائق."
+      },
+      {
+        "he": "לייצב אותה במצב הנמוך ביותר האפשרי .",
+        "en": "Fix it in the lowest possible position.",
+        "ar": "تثبيتها في أدنى وضع ممكن."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 138,
+    "text": {
+      "he": "מהו \"מרכב אחוד\" ברכב ?",
+      "en": "What is a 'unified body' in a vehicle?",
+      "ar": "ما هو \"هيكل موحَّد\" في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "מרכב שמידותיו חורגות ממידות רכב רגיל.",
+        "en": "A body whose dimensions exceed those of a standard vehicle.",
+        "ar": "هيكل تتجاوز أبعاده أبعاد السيارة العادية."
+      },
+      {
+        "he": "מרכב שבו תא הנהג נפרד מארגז המטען.",
+        "en": "A body in which the driver’s compartment is separate from the cargo box.",
+        "ar": "هيكل تكون فيه مقصورة السائق منفصلة عن صندوق الحمولة."
+      },
+      {
+        "he": "מרכב שבו יש מחיצה בין מושב הנהג לבין הנוסעים.",
+        "en": "A body with a partition between the driver's seat and the passengers.",
+        "ar": "هيكل يوجد فيه حاجز بين مقعد السائق والركاب."
+      },
+      {
+        "he": "מרכב שבו תא הנהג ותא המטען מהווים יחידה אחת.",
+        "en": "A body in which the driver's cabin and the cargo compartment form one unit.",
+        "ar": "هيكل تكون فيه مقصورة السائق وحجرة الأمتعة وحدة واحدة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 140,
+    "text": {
+      "he": "מהו \"מרחק העצירה\" של רכב  ?",
+      "en": "What is the stopping distance of a vehicle?",
+      "ar": "ما هي مسافة التوقف للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "המרחק שעובר הרכב מרגע שנהג הרכב מבחין בסכנה שלפניו ועד לעצירתו של הרכב.",
+        "en": "The distance the vehicle travels from the moment the driver perceives danger ahead until the vehicle stops.",
+        "ar": "المسافة التي تقطعها المركبة من لحظة ملاحظة السائق للخطر حتى توقف المركبة."
+      },
+      {
+        "he": "המרחק שעובר הרכב מהרגע שבו מגיב הנהג לסכנה ועד לרגע שהוא לוחץ על דוושת הבלמים של הרכב.",
+        "en": "The distance the vehicle travels from the moment the driver reacts to danger until he presses the brake pedal.",
+        "ar": "المسافة التي تقطعها المركبة من لحظة استجابة السائق للخطر حتى ضغطه على دواسة الفرامل."
+      },
+      {
+        "he": "המרחק הנחוץ לעצירה במהירות מסוימת.",
+        "en": "The distance needed to stop at a given speed.",
+        "ar": "المسافة اللازمة للتوقف عند سرعة معينة."
+      },
+      {
+        "he": "המרחק שעובר הרכב מתחילת הבלימה ועד שהרכב נעצר.",
+        "en": "The distance the vehicle travels from the start of braking until it comes to a stop.",
+        "ar": "المسافة التي تقطعها المركبة من بداية الفرملة حتى التوقف."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 144,
+    "text": {
+      "he": "מה תפקידה של מערכת אי-בי-אס  ? (ABS)",
+      "en": "What is the purpose of the ABS system?",
+      "ar": "ما وظيفة نظام ABS؟"
+    },
+    "options": [
+      {
+        "he": "לשמש כבלם נוסף בעת סכנה.",
+        "en": "To act as an additional brake in case of danger.",
+        "ar": "لتعمل كفرامل إضافية في حالات الخطر."
+      },
+      {
+        "he": "למנוע שימוש מופרז בבלמי הרכב.",
+        "en": "To prevent excessive use of the vehicle's brakes.",
+        "ar": "لمنع الاستخدام المفرط لفرامل المركبة."
+      },
+      {
+        "he": "לאפשר שליטה והיגוי ברכב בעת בלימה.",
+        "en": "To allow control and steering of the vehicle during braking.",
+        "ar": "لتمكين التحكم والتوجيه في المركبة أثناء الفرملة."
+      },
+      {
+        "he": "למנוע את שחיקת הצמיגים.",
+        "en": "To prevent tire wear.",
+        "ar": "لمنع تآكل الإطارات."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 130,
+    "text": {
+      "he": "לפני שילוב הילוך מהילוך P להילוך אחר בתיבת הילוכים אוטומטית, על הנהג:",
+      "en": "Before shifting from gear P to another gear in an automatic transmission, the driver must:",
+      "ar": "قبل الانتقال من الوضع P إلى وضع آخر في ناقل حركة أوتوماتيكي، يجب على السائق:"
+    },
+    "options": [
+      {
+        "he": "ללחוץ יחד על דוושת הבלם ועל דוושת המצמד ואז לשלב את ההילוך הנדרש.",
+        "en": "Press both the brake pedal and the clutch pedal together, then engage the required gear.",
+        "ar": "الضغط على دواستي الفرامل والقابض معًا ثم اختيار الغيار المطلوب."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת המצמד.",
+        "en": "Press the clutch pedal firmly.",
+        "ar": "الضغط بقوة على دواسة القابض."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת הדלק.",
+        "en": "Press the accelerator pedal firmly.",
+        "ar": "الضغط بقوة على دواسة الوقود."
+      },
+      {
+        "he": "ללחוץ בחזקה על דוושת הבלמים.",
+        "en": "Press the brake pedal firmly.",
+        "ar": "الضغط بقوة على دواسة الفرامل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 134,
+    "text": {
+      "he": "על מה יש להקפיד ברכישת צמיג משומש תקין לרכב?",
+      "en": "What should be ensured when buying a usable second‑hand tire for a vehicle?",
+      "ar": "على ماذا يجب الحرص عند شراء إطار مستخدم صالح للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "רק שמידת לחץ האוויר של הצמיג החדש זהה למידת לחץ האוויר של הצמיג הישן.",
+        "en": "Only that the air‑pressure specification of the new tire matches that of the old tire.",
+        "ar": "فقط أن يكون ضغط الهواء للإطار الجديد مطابقًا لضغط الإطار القديم."
+      },
+      {
+        "he": "על בדיקת תאריך הייצור של הצמיג, כדי לוודא שהצמיג אינו ישן מדי (גילו יותר משנתיים).",
+        "en": "Check the tire's manufacture date to ensure it is not too old (more than two years).",
+        "ar": "فحص تاريخ تصنيع الإطار للتأكد من أنه ليس قديماً جداً (أكثر من عامين)."
+      },
+      {
+        "he": "רק שגודל הצמיג החדש זהה לגודלו של הצמיג הישן.",
+        "en": "Only that the size of the new tire is identical to the old one.",
+        "ar": "فقط أن يكون حجم الإطار الجديد مطابقاً لحجم الإطار القديم."
+      },
+      {
+        "he": "רק שצורת הסוליה של הצמיג (פני הצמיג) החדש זהה לצורת הסוליה של הצמיג הישן.",
+        "en": "Only that the tread pattern of the new tire matches that of the old one.",
+        "ar": "فقط أن يكون نقش مداس الإطار الجديد مطابقًا لنقش مداس الإطار القديم."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 137,
+    "text": {
+      "he": "מהי הדרך הנכונה לכוונון משענת הראש ברכב ?",
+      "en": "What is the correct way to adjust the vehicle headrest?",
+      "ar": "ما هي الطريقة الصحيحة لضبط مسند الرأس في السيارة؟"
+    },
+    "options": [
+      {
+        "he": "השפה העליונה של המשענת תימצא בקו אחד עם הקצה העליון של ראש הנהג .",
+        "en": "The top edge of the headrest should be level with the top of the driver's head.",
+        "ar": "يجب أن يكون الحافة العليا لمسند الرأس على خط واحد مع قمة رأس السائق."
+      },
+      {
+        "he": "השפה התחתונה של המשענת תימצא בקו אחד עם הקצה העליון של ראש הנהג .",
+        "en": "The bottom edge of the headrest should be level with the top of the driver's head.",
+        "ar": "يجب أن تكون الحافة السفلية لمسند الرأس بمستوى قمة رأس السائق."
+      },
+      {
+        "he": "השפה העליונה של המשענת תימצא בקו אחד עם הקו התחתון של עורף הנהג .",
+        "en": "The top edge of the headrest should align with the lower line of the driver's neck.",
+        "ar": "يجب أن تكون الحافة العليا لمسند الرأس بمحاذاة أسفل عنق السائق."
+      },
+      {
+        "he": "לייצב אותה במצב הנמוך ביותר האפשרי .",
+        "en": "Fix it in the lowest possible position.",
+        "ar": "تثبيتها في أدنى وضع ممكن."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 138,
+    "text": {
+      "he": "מהו \"מרכב אחוד\" ברכב ?",
+      "en": "What is a 'unified body' in a vehicle?",
+      "ar": "ما هو \"هيكل موحَّد\" في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "מרכב שמידותיו חורגות ממידות רכב רגיל.",
+        "en": "A body whose dimensions exceed those of a standard vehicle.",
+        "ar": "هيكل تتجاوز أبعاده أبعاد السيارة العادية."
+      },
+      {
+        "he": "מרכב שבו תא הנהג נפרד מארגז המטען.",
+        "en": "A body in which the driver’s compartment is separate from the cargo box.",
+        "ar": "هيكل تكون فيه مقصورة السائق منفصلة عن صندوق الحمولة."
+      },
+      {
+        "he": "מרכב שבו יש מחיצה בין מושב הנהג לבין הנוסעים.",
+        "en": "A body with a partition between the driver's seat and the passengers.",
+        "ar": "هيكل يوجد فيه حاجز بين مقعد السائق والركاب."
+      },
+      {
+        "he": "מרכב שבו תא הנהג ותא המטען מהווים יחידה אחת.",
+        "en": "A body in which the driver's cabin and the cargo compartment form one unit.",
+        "ar": "هيكل تكون فيه مقصورة السائق وحجرة الأمتعة وحدة واحدة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 140,
+    "text": {
+      "he": "מהו \"מרחק העצירה\" של רכב  ?",
+      "en": "What is the stopping distance of a vehicle?",
+      "ar": "ما هي مسافة التوقف للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "המרחק שעובר הרכב מרגע שנהג הרכב מבחין בסכנה שלפניו ועד לעצירתו של הרכב.",
+        "en": "The distance the vehicle travels from the moment the driver perceives danger ahead until the vehicle stops.",
+        "ar": "المسافة التي تقطعها المركبة من لحظة ملاحظة السائق للخطر حتى توقف المركبة."
+      },
+      {
+        "he": "המרחק שעובר הרכב מהרגע שבו מגיב הנהג לסכנה ועד לרגע שהוא לוחץ על דוושת הבלמים של הרכב.",
+        "en": "The distance the vehicle travels from the moment the driver reacts to danger until he presses the brake pedal.",
+        "ar": "المسافة التي تقطعها المركبة من لحظة استجابة السائق للخطر حتى ضغطه على دواسة الفرامل."
+      },
+      {
+        "he": "המרחק הנחוץ לעצירה במהירות מסוימת.",
+        "en": "The distance needed to stop at a given speed.",
+        "ar": "المسافة اللازمة للتوقف عند سرعة معينة."
+      },
+      {
+        "he": "המרחק שעובר הרכב מתחילת הבלימה ועד שהרכב נעצר.",
+        "en": "The distance the vehicle travels from the start of braking until it comes to a stop.",
+        "ar": "المسافة التي تقطعها المركبة من بداية الفرملة حتى التوقف."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 144,
+    "text": {
+      "he": "מה תפקידה של מערכת אי-בי-אס  ? (ABS)",
+      "en": "What is the purpose of the ABS system?",
+      "ar": "ما وظيفة نظام ABS؟"
+    },
+    "options": [
+      {
+        "he": "לשמש כבלם נוסף בעת סכנה.",
+        "en": "To act as an additional brake in case of danger.",
+        "ar": "لتعمل كفرامل إضافية في حالات الخطر."
+      },
+      {
+        "he": "למנוע שימוש מופרז בבלמי הרכב.",
+        "en": "To prevent excessive use of the vehicle's brakes.",
+        "ar": "لمنع الاستخدام المفرط لفرامل المركبة."
+      },
+      {
+        "he": "לאפשר שליטה והיגוי ברכב בעת בלימה.",
+        "en": "To allow control and steering of the vehicle during braking.",
+        "ar": "لتمكين التحكم والتوجيه في المركبة أثناء الفرملة."
+      },
+      {
+        "he": "למנוע את שחיקת הצמיגים.",
+        "en": "To prevent tire wear.",
+        "ar": "لمنع تآكل الإطارات."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 158,
+    "text": {
+      "he": "מתי חייבים לעשות את בדיקת זיהום האוויר הנפלט מן הרכב?",
+      "en": "When must the vehicle‑emission test be performed?",
+      "ar": "متى يجب إجراء فحص انبعاثات المركبة؟"
+    },
+    "options": [
+      {
+        "he": "אחת לחצי שנה, במוסך המטפל.",
+        "en": "Once every six months at the servicing garage.",
+        "ar": "مرة كل ستة أشهر في ورشة الصيانة."
+      },
+      {
+        "he": "בבדיקת הרישוי השנתית לרכב (טסט) במכון רישוי.",
+        "en": "During the annual road‑worthiness test at a licensing station.",
+        "ar": "أثناء فحص الترخيص السنوي (تست) في مركز الفحص."
+      },
+      {
+        "he": "אחת לחודש, בכל מוסך המתמחה בחשמלאות רכב.",
+        "en": "Once a month at any auto‑electrical workshop.",
+        "ar": "مرة كل شهر في أي ورشة كهرباء سيارات."
+      },
+      {
+        "he": "כלי הרכב אינם מזהמים את האוויר, ולכן אין צורך בבדיקה כלל.",
+        "en": "Vehicles do not pollute the air; therefore no test is needed.",
+        "ar": "المركبات لا تلوث الهواء، لذا لا حاجة للفحص."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 168,
+    "text": {
+      "he": "מתי ובאיזה אופן בודקים את כמות השמן במנוע?",
+      "en": "When and how should engine‑oil level be checked?",
+      "ar": "متى وكيف يفحص مستوى زيت المحرك؟"
+    },
+    "options": [
+      {
+        "he": "כשהמנוע קר, דומם ועל משטח אופקי.",
+        "en": "When the engine is cold, switched off, and on a level surface.",
+        "ar": "عندما يكون المحرك باردًا ومطفأً وعلى سطح مستوٍ."
+      },
+      {
+        "he": "אין חשיבות לאופן בדיקת שמן המנוע ולזמן הבדיקה.",
+        "en": "The method and timing of the oil check are not important.",
+        "ar": "لا أهمية لطريقة أو وقت فحص الزيت."
+      },
+      {
+        "he": "אין כל צורך לבדוק את מפלס השמן במנוע.",
+        "en": "There is no need to check engine‑oil level.",
+        "ar": "لا حاجة لفحص مستوى زيت المحرك."
+      },
+      {
+        "he": "כשהמנוע פועל, חם ועל משטח ישר.",
+        "en": "When the engine is running, hot and on a level surface.",
+        "ar": "عندما يكون المحرك شغالًا وحارًا وعلى سطح مستوٍ."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 171,
+    "text": {
+      "he": "מה תפקידה של מערכת אי‑בי‑אס ? (ABS)",
+      "en": "What is the function of the ABS system?",
+      "ar": "ما وظيفة نظام ABS؟"
+    },
+    "options": [
+      {
+        "he": "לסייע לבלימה רכה ומתונה יותר בכביש יבש.",
+        "en": "To assist smoother braking on a dry road.",
+        "ar": "للمساعدة في فرملة أكثر نعومة على طريق جاف."
+      },
+      {
+        "he": "לקצר את חיי הצמיגים.",
+        "en": "To shorten tyre life.",
+        "ar": "لتقصير عمر الإطارات."
+      },
+      {
+        "he": "לשמר את יכולות ההיגוי והתמרון של הרכב גם בבלימת חירום.",
+        "en": "To maintain steering and manoeuvring ability even during emergency braking.",
+        "ar": "للحفاظ على القدرة على التوجيه والمناورة حتى أثناء فرملة الطوارئ."
+      },
+      {
+        "he": "לסייע לבלימה רכה ומתונה יותר בכביש רטוב.",
+        "en": "To help softer braking on a wet road.",
+        "ar": "للمساعدة في فرملة أكثر نعومة على طريق مبتل."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 172,
+    "text": {
+      "he": "מהו נווטן (GPS) ברכב?",
+      "en": "What is a GPS navigator in a vehicle?",
+      "ar": "ما هو جهاز الملاحة GPS في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "מערכת המודדת את צריכת הדלק של הרכב.",
+        "en": "A system that measures the vehicle's fuel consumption.",
+        "ar": "نظام يقيس استهلاك الوقود للمركبة."
+      },
+      {
+        "he": "מערכת המספקת מידע על מיקום הימצאותו של הרכב ומסייעת לנהג להגיע ליעדו.",
+        "en": "A system that gives the vehicle's location and helps the driver reach the destination.",
+        "ar": "نظام يقدّم معلومات عن موقع المركبة ويساعد السائق على الوصول إلى وجهته."
+      },
+      {
+        "he": "מערכת הבודקת את תקינותן של המערכות הממוחשבות ברכב.",
+        "en": "A system that checks the vehicle's computerised systems.",
+        "ar": "نظام يفحص سلامة الأنظمة المحوسبة في المركبة."
+      },
+      {
+        "he": "זו תת‑מערכת בתוך מערכת ההיגוי המגבירה את יעילות ההיגוי.",
+        "en": "A sub‑system within the steering system that improves steering efficiency.",
+        "ar": "نظام فرعي داخل نظام التوجيه يزيد من كفاءة التوجيه."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 173,
+    "text": {
+      "he": "תפקידי החריצים בסוליית הצמיג, בין היתר:",
+      "en": "Functions of the tread grooves in a tyre include:",
+      "ar": "من وظائف الأخاديد في مداس الإطار، من بين أمور أخرى:"
+    },
+    "options": [
+      {
+        "he": "לאפשר ניקוז יעיל של המים בין הצמיג לבין כביש רטוב.",
+        "en": "Efficiently draining water between the tyre and a wet road.",
+        "ar": "تمكين تصريف فعال للمياه بين الإطار والطريق المبتل."
+      },
+      {
+        "he": "לאפשר ניקוז של המים שבין הכביש לבין הצמיג ולשמור על לחץ האוויר בצמיגים.",
+        "en": "Draining water between the road and tyre and maintaining tyre‑air pressure.",
+        "ar": "تصريف المياه بين الطريق والإطار والحفاظ على ضغط الهواء في الإطارات."
+      },
+      {
+        "he": "לאפשר ניקוז של המים שבין הכביש לבין הצמיג ולמנוע את שחיקת המנוע.",
+        "en": "Draining water and preventing engine wear.",
+        "ar": "تصريف المياه ومنع تآكل المحرك."
+      },
+      {
+        "he": "לאפשר ניקוז של המים שבין הכביש לבין הצמיג ולמנוע את שחיקת הצמיגים.",
+        "en": "Draining water and preventing tyre wear.",
+        "ar": "تصريف المياه ومنع تآكل الإطارات."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3,
+    "relatedSignId": 61
+  },
+  {
+    "id": 178,
+    "text": {
+      "he": "לחץ אוויר נמוך מדי בצמיגים יגרום:",
+      "en": "Too‑low tyre pressure will cause:",
+      "ar": "ضغط الهواء المنخفض جدًا في الإطارات يسبّب:"
+    },
+    "options": [
+      {
+        "he": "לבלאי מהיר של גלגל ההגה.",
+        "en": "Rapid wear of the steering wheel.",
+        "ar": "تآكل سريع لعجلة القيادة."
+      },
+      {
+        "he": "רק לרעש נסיעה מוגבר במהירויות גבוהות.",
+        "en": "Only increased road noise at high speed.",
+        "ar": "زيادة الضوضاء أثناء السير بسرعات عالية فقط."
+      },
+      {
+        "he": "לבלאי מוגבר של תיבת ההילוכים.",
+        "en": "Increased wear of the gearbox.",
+        "ar": "زيادة تآكل علبة التروس."
+      },
+      {
+        "he": "לבלאי מואץ של הצמיגים ולפגיעה ביציבות הרכב.",
+        "en": "Accelerated tyre wear and reduced vehicle stability.",
+        "ar": "تآكل سريع للإطارات وإضرار باستقرار المركبة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 207,
+    "text": {
+      "he": "חול על פני הכביש עלול לגרום:",
+      "en": "Sand on the roadway may cause:",
+      "ar": "الرمال على سطح الطريق قد تسبب:"
+    },
+    "options": [
+      {
+        "he": "להקטנת החיכוך בין הצמיגים לכביש ולהחלקת הרכב",
+        "en": "Reduced tire-road friction and vehicle skidding",
+        "ar": "تقليل احتكاك الإطار بالطريق وانزلاق المركبة"
+      },
+      {
+        "he": "להסתיר תמרורים ושלטים חשובים, שהוצבו בדרך",
+        "en": "Obscuring important signs placed on the road",
+        "ar": "حجب الإشارات المهمة الموضوعة على الطريق"
+      },
+      {
+        "he": "להגדלת החיכוך בין הצמיגים לכביש ולחימום יתר של הצמיגים",
+        "en": "Increased friction and overheating of tires",
+        "ar": "زيادة الاحتكاك وتحمُّم زائد للإطارات"
+      },
+      {
+        "he": "להגדלת החיכוך בין הצמיגים לבין הכביש ולהגדלת עצמת הבלימה",
+        "en": "Increased friction and stronger braking effect",
+        "ar": "زيادة الاحتكاك وتعزيز قوة الكبح"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 238,
+    "text": {
+      "he": "האם בכל ירידה תלולה חלה חובה לנסוע בהילוך נמוך?",
+      "en": "Is it mandatory to drive in a low gear on every steep descent?",
+      "ar": "هل من الإلزامي القيادة بالترس المنخفض في كل هبوط حاد؟"
+    },
+    "options": [
+      {
+        "he": "לא",
+        "en": "No",
+        "ar": "لا"
+      },
+      {
+        "he": "כן",
+        "en": "Yes",
+        "ar": "نعم"
+      },
+      {
+        "he": "החובה חלה רק בירידות שבתחילתן הוצב תמרור המודיע על ירידה",
+        "en": "Only on descents preceded by a warning sign",
+        "ar": "فقط في الهبوطات التي سبقها إشارة تحذير"
+      },
+      {
+        "he": "החובה חלה רק על ירידות תלולות שאורכן קילומטר או יותר",
+        "en": "Only on steep descents longer than one kilometer",
+        "ar": "فقط في الهبوطات الحادة الأطول من كيلومتر"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 264,
+    "text": {
+      "he": "מדוע צריך להשתמש בבלם-עזר (חנייה-יד) לחנייה בלבד?",
+      "en": "Why should the parking brake be used only for parking?",
+      "ar": "لماذا يجب استخدام فرامل التثبيت (الهاند بريك) للوقوف فقط؟"
+    },
+    "options": {
+      "he": [
+        "הבלם מופעל על חלק מהגלגלים ועצמתו נמוכה.",
+        "אורך-חייו קצר ואין לבזבזו על בלימות רגילות.",
+        "ידית ההפעלה אינה נוחה לתפעול בעת נסיעה.",
+        "הבלם אינו יכול לשמש כבלם חירום."
+      ],
+      "en": [
+        "It acts on only some wheels and is relatively weak.",
+        "Its service life is short; it should not be wasted on normal braking.",
+        "Its handle is inconvenient to operate while driving.",
+        "It cannot serve as an emergency brake."
+      ],
+      "ar": [
+        "يعمل على بعض العجلات وقوته منخفضة.",
+        "عمره التشغيلي قصير ولا ينبغي إهداره في كبح عادي.",
+        "مقبض التشغيل غير مريح أثناء القيادة.",
+        "لا يمكن استخدامه كفرامل طوارئ."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 265,
+    "text": {
+      "he": "פנס ערפל אחורי:",
+      "en": "A rear fog light:",
+      "ar": "مصباح ضباب خلفي:"
+    },
+    "options": {
+      "he": [
+        "פועל רק בעת נסיעה לאחור.",
+        "חובה להתקינו רק באוטובוסים.",
+        "נדלק אוטומטית בערפל.",
+        "ניתן להפעיל רק כשאורות החזית דולקים."
+      ],
+      "en": [
+        "Operates only when reversing.",
+        "Is mandatory only on buses.",
+        "Turns on automatically in fog.",
+        "May be switched on only when the headlights are on."
+      ],
+      "ar": [
+        "يعمل فقط عند الرجوع إلى الخلف.",
+        "إلزامي تركيبه في الحافلات فقط.",
+        "يعمل تلقائيًا في الضباب.",
+        "يمكن تشغيله فقط عندما تكون أضواء المقدمة مضاءة."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 266,
+    "text": {
+      "he": "בחר במשפט הנכון והיחיד:",
+      "en": "Choose the single correct statement:",
+      "ar": "اختر العبارة الصحيحة والوحيدة:"
+    },
+    "options": {
+      "he": [
+        "מרחק העצירה גדול תמיד ממרחק הבלימה.",
+        "מרחק התגובה ארוך תמיד ממרחק הבלימה.",
+        "מרחק הבלימה גדול תמיד ממרחק העצירה.",
+        "מרחק הבלימה שווה תמיד למרחק התגובה."
+      ],
+      "en": [
+        "Stopping distance is always longer than braking distance.",
+        "Reaction distance is always longer than braking distance.",
+        "Braking distance is always longer than stopping distance.",
+        "Braking distance is always equal to reaction distance."
+      ],
+      "ar": [
+        "مسافة التوقف دائمًا أطول من مسافة الكبح.",
+        "مسافة رد الفعل دائمًا أطول من مسافة الكبح.",
+        "مسافة الكبح دائمًا أطول من مسافة التوقف.",
+        "مسافة الكبح دائمًا مساوية لمسافة رد الفعل."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 281,
+    "text": {
+      "he": "מהי \"נעילת גלגלים\" ברכב?",
+      "en": "What is “wheel lock” in a vehicle?",
+      "ar": "ما هو «انغلاق العجلات» في المركبة؟"
+    },
+    "options": {
+      "he": [
+        "הפסקת סיבוב גלגלים בגלל בלימה חזקה.",
+        "מניעת סיבוב גלגל בעת פתיחת ברגים.",
+        "סנדול גלגל ע\"י הרשות המוסמכת.",
+        "הצמדת מתקן לגלגל בחניה בירידה תלולה."
+      ],
+      "en": [
+        "Stopping wheel rotation due to hard, continuous braking.",
+        "Preventing a wheel from turning while loosening its nuts.",
+        "Clamping a wheel by the authorities (wheel clamp).",
+        "Attaching a device to prevent movement when parking on a steep slope."
+      ],
+      "ar": [
+        "توقف دوران العجلات نتيجة كبح قوي ومتواصل.",
+        "منع دوران العجلة عند فك البراغي.",
+        "تثبيت العجلة بواسطة جهة مختصّة (كلبش).",
+        "تركيب جهاز يمنع الحركة عند الوقوف في منحدر حاد."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 284,
+    "text": {
+      "he": "כשלוחצים על דוושת הבלם בבלימת חירום:",
+      "en": "When pressing the brake pedal in an emergency stop:",
+      "ar": "عند الضغط على دواسة الفرامل في كبح طارئ:"
+    },
+    "options": {
+      "he": [
+        "מרחק העצירה קבוע ואינו תלוי במהירות.",
+        "הרכב נעצר מייד.",
+        "הרכב ממשיך עוד מרחק עד לעצירה.",
+        "הרכב נעצר מייד רק עד 50 קמ\"ש."
+      ],
+      "en": [
+        "Stopping distance is fixed, independent of speed.",
+        "The vehicle stops instantly.",
+        "The vehicle continues some distance before coming to rest.",
+        "The vehicle stops instantly only up to 50 km/h."
+      ],
+      "ar": [
+        "مسافة التوقف ثابتة ولا تعتمد على السرعة.",
+        "تتوقف المركبة فوراً.",
+        "تستمر المركبة مسافة معينة حتى التوقف.",
+        "تتوقف المركبة فوراً فقط حتى 50 كم/س."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 286,
+    "text": {
+      "he": "מראה פנוראמית ברכב:",
+      "en": "A panoramic mirror in a vehicle is:",
+      "ar": "المرآة البانورامية في المركبة:"
+    },
+    "options": {
+      "he": [
+        "קשה לכוון.",
+        "יקרה מאוד.",
+        "נחוצה בעיקר לנהגים גבוהים.",
+        "אינה משקפת במדויק מרחקי עצמים."
+      ],
+      "en": [
+        "Hard to adjust.",
+        "Very expensive.",
+        "Mainly needed for tall drivers.",
+        "Does not accurately reflect object distances."
+      ],
+      "ar": [
+        "صعبة الضبط.",
+        "باهظة الثمن.",
+        "ضرورية بشكل رئيسي للسائقين طوال القامة.",
+        "لا تعكس المسافات بدقة."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 302,
+    "text": {
+      "he": "הסבר את המושג \"בלמי שירות\":",
+      "en": "Explain the term “service brakes”:",
+      "ar": "اشرح مصطلح «فرامل الخدمة»:"
+    },
+    "options": {
+      "he": [
+        "מערכת בלמים הפועלת על כל הגלגלים ומאפשרת האטה או עצירה.",
+        "מערכת בלמים הפועלת רק בעת סכנה.",
+        "בלמים המאטים בירידות תלולות אך לא עוצרים.",
+        "בלם עזר (יד) הפועל רק על הגלגלים האחוריים."
+      ],
+      "en": [
+        "A braking system acting on all wheels enabling slowing or stopping.",
+        "A brake system that operates only in danger and stops the vehicle.",
+        "Brakes that slow the vehicle on steep descents but do not stop it.",
+        "A parking (hand) brake acting only on the rear axle."
+      ],
+      "ar": [
+        "نظام فرامل يعمل على جميع العجلات ويتيح التباطؤ أو التوقف.",
+        "نظام فرامل يعمل فقط في الخطر ويوقف المركبة.",
+        "فرامل تبطئ المركبة في النزول الحاد ولا توقفها.",
+        "فرامل مساعدة (يد) تعمل فقط على العجلات الخلفية."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 334,
+    "text": {
+      "he": "מה צריך לבדוק לאחר חציית שלולית עמוקה?",
+      "en": "What should a driver check after crossing a deep puddle?",
+      "ar": "ما الذي يجب فحصه بعد عبور بركة ماء عميقة؟"
+    },
+    "options": {
+      "he": [
+        "אם מערכת הבלמים פועלת כראוי.",
+        "אם מערכת האורות תקינה.",
+        "תקינות פעולת המנוע.",
+        "אין צורך לבדוק דבר."
+      ],
+      "en": [
+        "Whether the braking system works properly.",
+        "Whether the lighting system works.",
+        "Whether the engine runs smoothly.",
+        "No check is needed."
+      ],
+      "ar": [
+        "ما إذا كانت الفرامل تعمل جيدًا.",
+        "ما إذا كانت الأضواء تعمل.",
+        "سلامة عمل المحرك.",
+        "لا حاجة لأي فحص."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 339,
+    "text": {
+      "he": "הדרך הנכונה לירידה מתוכננת לשול נמוך מהכביש:",
+      "en": "The correct way to descend to a shoulder lower than the road:",
+      "ar": "الطريقة الصحيحة للنزول إلى كتف طريق منخفض عن سطح الطريق:"
+    },
+    "options": {
+      "he": [
+        "אסור לרדת – אין דרך נכונה.",
+        "ירידה מהירה לשול ועצירה מיידית.",
+        "האטה למהירות נמוכה וירידה הדרגתית.",
+        "ירידה מהירה לשול ואז האטה בהמשך."
+      ],
+      "en": [
+        "No correct way – descent is prohibited.",
+        "Drop quickly onto the shoulder and stop immediately.",
+        "Slow to low speed and descend gradually.",
+        "Drop quickly, then slow down gradually."
+      ],
+      "ar": [
+        "لا توجد طريقة صحيحة – النزول ممنوع.",
+        "انزل بسرعة إلى الكتف وتوقف فورًا.",
+        "خفف إلى سرعة منخفضة وانزل تدريجيًا.",
+        "انزل بسرعة إلى الكتف ثم اخفض السرعة تدريجيًا."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 362,
+    "text": {
+      "he": "לחץ אוויר נמוך מדי בצמיגים יגרום:",
+      "en": "Too low tyre pressure will cause:",
+      "ar": "ضغط هواء منخفض جدًا في الإطارات يؤدي إلى:"
+    },
+    "options": {
+      "he": [
+        "חימום יתר של הצמיגים.",
+        "בלאי מהיר של מערכת הבלמים.",
+        "הגה קל להפעלה.",
+        "צריכת דלק נמוכה."
+      ],
+      "en": [
+        "Excessive heating of the tyres.",
+        "Rapid wear of the braking system.",
+        "Lighter steering effort.",
+        "Lower fuel consumption."
+      ],
+      "ar": [
+        "سخونة مفرطة للإطارات.",
+        "تآكل سريع في نظام الفرامل.",
+        "سهولة في تشغيل المقود.",
+        "استهلاك وقود منخفض."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 365,
+    "text": {
+      "he": "מהו סדר הפעולות לעצירה או לחנייה?",
+      "en": "What is the correct order of actions for stopping or parking?",
+      "ar": "ما هو الترتيب الصحيح للإجراءات للتوقف أو الوقوف؟"
+    },
+    "options": {
+      "he": [
+        "לבדוק אם מותר, בדיקה היקפית והאטה זהירה.",
+        "הסדר אינו משנה – העיקר זהירות.",
+        "אין חשיבות לסדר הפעולות לפני החנייה.",
+        "האטה, סטייה, עצירה ואיתות."
+      ],
+      "en": [
+        "Check legality, make all-round observation, slow carefully.",
+        "Order is irrelevant—caution is what matters.",
+        "Order of actions before parking is unimportant.",
+        "Slow, deviate, stop and signal."
+      ],
+      "ar": [
+        "التأكد من السماح، فحص محيط، التباطؤ بحذر.",
+        "الترتيب لا يهم – الأهم هو الحذر.",
+        "لا أهمية لترتيب الإجراءات قبل الوقوف.",
+        "تخفيف السرعة، الانحراف، التوقف والإشارة."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 369,
+    "text": {
+      "he": "לחץ אוויר גבוה מדי בצמיגים:",
+      "en": "Too high tyre pressure:",
+      "ar": "ضغط هواء مرتفع جدًا في الإطارات:"
+    },
+    "options": {
+      "he": [
+        "יקשה על סיבוב ההגה.",
+        "יאריך חיי צמיג ויחסוך דלק.",
+        "יגרום לבלאי גלגל ההגה.",
+        "יגרום שחיקה לא-אחידה ויקצר חיי הצמיג."
+      ],
+      "en": [
+        "Makes steering harder.",
+        "Will extend tyre life and save fuel.",
+        "Will wear the steering wheel quickly.",
+        "Will cause uneven wear and shorten tyre life."
+      ],
+      "ar": [
+        "يجعل تدوير المقود صعبًا.",
+        "يُطيل عمر الإطار ويوفّر الوقود.",
+        "يؤدي لتآكل عجلة القيادة سريعًا.",
+        "يؤدي لتآكل غير متساو ويقصر عمر الإطار."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3
+  },
+  {
+    "id": 375,
+    "text": {
+      "he": "מה הם היתרונות בהסתכלות הרחק לפנים?",
+      "en": "What are the advantages of looking well ahead while driving?",
+      "ar": "ما فوائد النظر إلى الأمام بعيدًا أثناء القيادة؟"
+    },
+    "options": {
+      "he": [
+        "תכנון נסיעה והימנעות מהפתעות בכביש.",
+        "אין יתרון – המתרחש קרוב חשוב יותר.",
+        "מאפשר לעסוק בפעולות נוספות בזמן הנהיגה.",
+        "אין יתרון; רק הסתכלות לצדדים מועילה."
+      ],
+      "en": [
+        "It lets you plan and avoid surprises.",
+        "No advantage; near-field events are what matter.",
+        "Lets the driver do other tasks simultaneously.",
+        "No advantage; only side glances help."
+      ],
+      "ar": [
+        "يُمكِّن من التخطيط وتجنّب المفاجآت.",
+        "لا فائدة – ما يَحدث قريبًا أهم.",
+        "يُتيح للسائق القيام بمهام أخرى في آنٍ واحد.",
+        "لا فائدة؛ النظر إلى الجوانب فقط مفيد."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 3,
+    "relatedSignId": 156
+  }
+]

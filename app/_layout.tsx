@@ -1,10 +1,16 @@
-import { LanguageProvider } from '../context/LanguageContext'; // adjust if needed
+import { LanguageProvider } from '../context/LanguageContext';
+import { VehicleProvider } from '../context/VehicleContext';
+import { SimulationProvider } from '../context/SimulationContext'; // if you have now
 import { Stack } from 'expo-router';
 
 export default function RootLayout() {
   return (
     <LanguageProvider>
-      <Stack screenOptions={{ headerShown: false }} />
+      <VehicleProvider>
+        <SimulationProvider>
+          <Stack screenOptions={{ headerShown: false }} />
+        </SimulationProvider>
+      </VehicleProvider>
     </LanguageProvider>
   );
 }

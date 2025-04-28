@@ -1,0 +1,700 @@
+[
+  {
+    "id": 52,
+    "text": {
+      "he": "הסבר את המושג ״בלם עצמאי״:",
+      "en": "Explain the concept of \"independent brake\":",
+      "ar": "اشرح مفهوم \"الفرامل المستقلة\":"
+    },
+    "options": [
+      {
+        "he": "המתקן שמפעיל הנהג בעת נסיעה במורד תלול וארוך.",
+        "en": "The device activated by the driver when descending a long steep grade.",
+        "ar": "الجهاز الذي يشغِّله السائق عند النزول في منحدر طويل شديد الانحدار."
+      },
+      {
+        "he": "מתקן המפעיל את מערכת הבלמים באורח עצמאי כאשר לחץ האוויר במערכת הבלמים יורד מתחת ללחץ הדרוש.",
+        "en": "A device that activates the braking system independently when the air pressure in the brakes falls below the required level.",
+        "ar": "جهاز يُفعِّل نظام الفرامل بشكل مستقل عندما ينخفض ضغط الهواء في النظام عن المستوى المطلوب."
+      },
+      {
+        "he": "מתקן הגורם למערכת הבלמים להפעיל כל גלגל באופן עצמאי.",
+        "en": "A mechanism that causes each wheel’s braking system to operate independently.",
+        "ar": "آلية تجعل نظام الفرامل يعمل على كل عجلة بشكل مستقل."
+      },
+      {
+        "he": "מתקן במערכת הבלמים המפעיל בלימה על כל גלגל באופן עצמאי בעת החלקה.",
+        "en": "A component in the braking system that applies braking to each wheel independently during a slip.",
+        "ar": "مكون في نظام الفرامل يطبق الفرملة على كل عجلة بشكل مستقل أثناء الانزلاق."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "מתקן המפעיל את מערכת הבלמים באורח עצמאי כאשר לחץ האוויר במערכת הבלמים יורד מתחת ללחץ הדרוש.",
+      "en": "A device that activates the braking system independently when the air pressure in the brakes falls below the required level.",
+      "ar": "جهاز يُفعِّل نظام الفرامل بشكل مستقل عندما ينخفض ضغط الهواء في النظام عن المستوى المطلوب."
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 53,
+    "text": {
+      "he": "מה תפקיד המאט ברכב?",
+      "en": "What is the function of the retarder in a vehicle?",
+      "ar": "ما هو دور \"المُبطئ\" في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "לאזן את פעולת המנוע ולווסת את מהירות הסיבוב של המנוע.",
+        "en": "To balance engine operation and regulate the engine’s rotational speed.",
+        "ar": "موازنة عمل المحرك وتنظيم سرعة دورانه."
+      },
+      {
+        "he": "לשמש תחליף לבלמי שירות (בלם-רגל) לשם עצירת הרכב בסכנה מידית במצב חירום.",
+        "en": "To serve as a substitute for service brakes (foot brake) to stop the vehicle in an immediate danger emergency.",
+        "ar": "أن يعمل بديلاً لفرامل الخدمة (فرامل القدم) لإيقاف المركبة في حالات الطوارئ الخطيرة فورًا."
+      },
+      {
+        "he": "לסייע לבלם עזר (חנייה) בחנייה בירידה תלולה.",
+        "en": "To assist the parking brake when parking on a steep descent.",
+        "ar": "مساعدة فرامل الانتظار (فرامل اليد) عند الوقوف في منحدر حاد."
+      },
+      {
+        "he": "להאט את מהירות הרכב בזמן נסיעה שלא באמצעות מערכת הבלמים, למשל במורד ארוך.",
+        "en": "To slow down the vehicle’s speed during driving without using the brake system, e.g., on a long descent.",
+        "ar": "تبطيء سرعة المركبة أثناء القيادة دون استخدام نظام الفرامل، مثلًا في منحدر طويل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "להאט את מהירות הרכב בזמן נסיעה שלא באמצעות מערכת הבלמים, למשל במורד ארוך.",
+      "en": "To slow down the vehicle’s speed during driving without using the brake system, e.g., on a long descent.",
+      "ar": "تبطيء سرعة المركبة أثناء القيادة دون استخدام نظام الفرامل، مثلًا في منحدر طويل."
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 87,
+    "text": {
+      "he": "החובה להפעיל מאט‑מהירות בירידה חלה:",
+      "en": "The duty to operate a speed‑limiter on a descent applies:",
+      "ar": "تنطبق واجب تشغيل مخفّض السرعة في نزول:"
+    },
+    "options": [
+      {
+        "he": "כשהרכב מצויד במאט מהירות ובדרך הוצב תמרור המזהיר מפני ירידה מסוכנת.",
+        "en": "When the vehicle has a speed‑limiter and a dangerous‑descent sign is posted.",
+        "ar": "عندما تكون المركبة مزودة بمخفض سرعة ويوجد شاخصة تحذر من نزول خطر."
+      },
+      {
+        "he": "ברכב שבו מותקן מאט מהירות חובה להפעילו בכל נסיעה, גם במישור.",
+        "en": "In any vehicle with a limiter, it must be used on all journeys, even on level roads.",
+        "ar": "في كل مركبة مركب بها مخفض سرعة يجب تشغيله في كل رحلة حتى في الطرق المستوية."
+      },
+      {
+        "he": "כששיפוע הירידה גדול מ‑6% ואורכה יותר מקילומטר.",
+        "en": "When the descent gradient exceeds 6% and is longer than 1 km.",
+        "ar": "عندما يزيد انحدار النزول عن ٦٪ وطوله أكثر من كيلومتر."
+      },
+      {
+        "he": "כשמוצב בדרך תמרור אזהרה מפני החלקה.",
+        "en": "When a skid‑risk warning sign is posted.",
+        "ar": "عند وجود شاخصة تحذير من الانزلاق."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 105,
+    "text": {
+      "he": "האם מותר לנהוג ברכב כבד כאשר לחץ האוויר בבלמים נמוך מהמינימום?",
+      "en": "May you drive a heavy vehicle when brake‑system air pressure is below the required minimum?",
+      "ar": "هل يجوز قيادة مركبة ثقيلة عندما يكون ضغط الهواء في الفرامل أقل من الحد الأدنى المطلوب؟"
+    },
+    "options": [
+      {
+        "he": "אסור.",
+        "en": "No, it is prohibited.",
+        "ar": "ممنوع."
+      },
+      {
+        "he": "מותר, אבל רק באישור שוטר או קצין.",
+        "en": "Permitted only with police or officer approval.",
+        "ar": "مسموح فقط بموافقة شرطي أو ضابط."
+      },
+      {
+        "he": "מותר, אם יכולת העצירה של הרכב טובה.",
+        "en": "Permitted if the vehicle's stopping ability is good.",
+        "ar": "مسموح إذا كانت قدرة التوقف جيدة."
+      },
+      {
+        "he": "מותר, אם ברור שאין דליפה.",
+        "en": "Permitted if it is clear there is no leak.",
+        "ar": "مسموح إذا كان واضحًا عدم وجود تسرب."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 117,
+    "text": {
+      "he": "עד איזה גובה מותר להעמיס מטען בתפזורת?",
+      "en": "Up to what height may bulk cargo be loaded?",
+      "ar": "حتى أي ارتفاع يُسمح بتحميل حمولة سائبة؟"
+    },
+    "options": [
+      {
+        "he": "עד לגובה הדופנות של ארגז המטען, למעט סולמות הרכב.",
+        "en": "Up to the top edge of the cargo box, excluding the vehicle's ladders.",
+        "ar": "حتى ارتفاع جوانب صندوق الحمولة، باستثناء سلالم المركبة."
+      },
+      {
+        "he": "עד לגובה הדלת האחורית של ארגז המטען.",
+        "en": "Up to the height of the rear door of the cargo box.",
+        "ar": "حتى ارتفاع الباب الخلفي لصندوق الحمولة."
+      },
+      {
+        "he": "עד לגובה החלון האחורי של תא הנהג.",
+        "en": "Up to the level of the cab's rear window.",
+        "ar": "حتى مستوى النافذة الخلفية لكابينة السائق."
+      },
+      {
+        "he": "עד לגובה הדופנות של ארגז המטען, לרבות סולמות הרכב.",
+        "en": "Up to the top edge of the cargo box, including the vehicle ladders.",
+        "ar": "حتى ارتفاع جوانب صندوق الحمولة، بما في ذلك سلالم المركبة."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 149,
+    "text": {
+      "he": "חובה להתקין בלמנוע ברכב מסחרי וברכב עבודה שמשקלו הכולל המותר (מכ\"מ) הוא :",
+      "en": "It is obligatory to install an engine brake in a commercial vehicle or work vehicle whose permissible total weight (GVW) is:",
+      "ar": "يجب تركيب مكبح محرك في مركبة تجارية أو مركبة عمل وزنها الإجمالي المسموح هو:"
+    },
+    "options": [
+      {
+        "he": "12,000  ק״ג  לפחות.",
+        "en": "12,000 kg at least.",
+        "ar": "12,000 كجم على الأقل."
+      },
+      {
+        "he": "4,500  ק״ג  או יותר.",
+        "en": "4,500 kg or more.",
+        "ar": "4,500 كجم أو أكثر."
+      },
+      {
+        "he": "בכל משקל כולל מותר שהוא.",
+        "en": "At any permissible total weight.",
+        "ar": "بغض النظر عن الوزن الإجمالي المسموح."
+      },
+      {
+        "he": "8,000  ק״ג  או יותר.",
+        "en": "8,000 kg or more.",
+        "ar": "8,000 كجم أو أكثر."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 151,
+    "text": {
+      "he": "מהו ״ארגז מתחלף״ (על פי תקנות התעבורה) ?",
+      "en": "What is a 'swap body' according to the traffic regulations?",
+      "ar": "ما هو \"صندوق متبادل\" وفقًا لأنظمة المرور؟"
+    },
+    "options": [
+      {
+        "he": "ארגז עשוי עץ המיועד להובלת פרי הדר בתפזורת, שאפשר להחליפו בארגז אחר.",
+        "en": "A wooden box intended for transporting citrus fruit in bulk that can be replaced with another box.",
+        "ar": "صندوق خشبي مخصص لنقل الحمضيات سائبًا ويمكن استبداله بصندوق آخر."
+      },
+      {
+        "he": "ארגז או משטחי הטענה המיועדים לטעינה ולפריקה ולהחלפת מטענים.",
+        "en": "A box or loading platforms designed for loading, unloading and swapping cargo.",
+        "ar": "صندوق أو منصات تحميل مصممة للتحميل والتفريغ واستبدال الشحنات."
+      },
+      {
+        "he": "מכל או ארגז או אמצעי אחר להובלת טובין המתוכנן לטעינה ולפריקה על ידי ״מגבה נוע״.",
+        "en": "A tank, box or other means for transporting goods designed to be loaded and unloaded by a forklift.",
+        "ar": "خزان أو صندوق أو وسيلة أخرى لنقل البضائع مصممة للتحميل والتفريغ بواسطة رافعة شوكية."
+      },
+      {
+        "he": "מתקן המשמש להובלת נוזלים שאפשר להסירו משלדת הרכב ולהשאירו עם מטען או בלי מטען.",
+        "en": "A device used to transport liquids that can be removed from the vehicle chassis with or without cargo.",
+        "ar": "جهاز يستخدم لنقل السوائل ويمكن فصله عن هيكل المركبة مع الحمولة أو بدونها."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 149,
+    "text": {
+      "he": "חובה להתקין בלמנוע ברכב מסחרי וברכב עבודה שמשקלו הכולל המותר (מכ\"מ) הוא :",
+      "en": "It is obligatory to install an engine brake in a commercial vehicle or work vehicle whose permissible total weight (GVW) is:",
+      "ar": "يجب تركيب مكبح محرك في مركبة تجارية أو مركبة عمل وزنها الإجمالي المسموح هو:"
+    },
+    "options": [
+      {
+        "he": "12,000  ק״ג  לפחות.",
+        "en": "12,000 kg at least.",
+        "ar": "12,000 كجم على الأقل."
+      },
+      {
+        "he": "4,500  ק״ג  או יותר.",
+        "en": "4,500 kg or more.",
+        "ar": "4,500 كجم أو أكثر."
+      },
+      {
+        "he": "בכל משקל כולל מותר שהוא.",
+        "en": "At any permissible total weight.",
+        "ar": "بغض النظر عن الوزن الإجمالي المسموح."
+      },
+      {
+        "he": "8,000  ק״ג  או יותר.",
+        "en": "8,000 kg or more.",
+        "ar": "8,000 كجم أو أكثر."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 151,
+    "text": {
+      "he": "מהו ״ארגז מתחלף״ (על פי תקנות התעבורה) ?",
+      "en": "What is a 'swap body' according to the traffic regulations?",
+      "ar": "ما هو \"صندوق متبادل\" وفقًا لأنظمة المرور؟"
+    },
+    "options": [
+      {
+        "he": "ארגז עשוי עץ המיועד להובלת פרי הדר בתפזורת, שאפשר להחליפו בארגז אחר.",
+        "en": "A wooden box intended for transporting citrus fruit in bulk that can be replaced with another box.",
+        "ar": "صندوق خشبي مخصص لنقل الحمضيات سائبًا ويمكن استبداله بصندوق آخر."
+      },
+      {
+        "he": "ארגז או משטחי הטענה המיועדים לטעינה ולפריקה ולהחלפת מטענים.",
+        "en": "A box or loading platforms designed for loading, unloading and swapping cargo.",
+        "ar": "صندوق أو منصات تحميل مصممة للتحميل والتفريغ واستبدال الشحنات."
+      },
+      {
+        "he": "מכל או ארגז או אמצעי אחר להובלת טובין המתוכנן לטעינה ולפריקה על ידי ״מגבה נוע״.",
+        "en": "A tank, box or other means for transporting goods designed to be loaded and unloaded by a forklift.",
+        "ar": "خزان أو صندوق أو وسيلة أخرى لنقل البضائع مصممة للتحميل والتفريغ بواسطة رافعة شوكية."
+      },
+      {
+        "he": "מתקן המשמש להובלת נוזלים שאפשר להסירו משלדת הרכב ולהשאירו עם מטען או בלי מטען.",
+        "en": "A device used to transport liquids that can be removed from the vehicle chassis with or without cargo.",
+        "ar": "جهاز يستخدم لنقل السوائل ويمكن فصله عن هيكل المركبة مع الحمولة أو بدونها."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 175,
+    "text": {
+      "he": "מתי חלה חובה להפעיל את מאט מהירות המותקן ברכב?",
+      "en": "When must the speed retarder installed in the vehicle be used?",
+      "ar": "متى يجب تشغيل مبطئ السرعة المثبّت في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "בנסיעה בקטע דרך שמוצב לפניו תמרור המזהיר על סכנת החלקה.",
+        "en": "When travelling on a section preceded by a skid‑danger sign.",
+        "ar": "عند السير في مقطع طريق يسبقه تحذير من خطر الانزلاق."
+      },
+      {
+        "he": "בנסיעה בקטע דרך שמוצב לפניו תמרור המזהיר על עקומת עקלתון.",
+        "en": "On a section preceded by an S‑bend warning sign.",
+        "ar": "عند مقطع طريق يسبقه تحذير من منحنى متعرج."
+      },
+      {
+        "he": "בנסיעה בקטע דרך שמוצב לפניו תמרור המזהיר על ירידה מסוכנת.",
+        "en": "On a section preceded by a dangerous‑descent warning sign.",
+        "ar": "عند السير في مقطع طريق يسبقه تحذير من منحدر خطير."
+      },
+      {
+        "he": "בנסיעה בקטע דרך שמוצב לפניו תמרור המזהיר על עקומה חדה.",
+        "en": "On a section preceded by a sharp‑curve warning sign.",
+        "ar": "عند مقطع طريق يسبقه تحذير من منعطف حاد."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 179,
+    "text": {
+      "he": "רוחבו הכולל המותר של רכב מסחרי מסוג \"מרכב קירור\" לא יותר מ:",
+      "en": "The maximum permissible overall width of a commercial 'refrigerated body' vehicle is:",
+      "ar": "العرض الإجمالي المسموح به لمركبة تجارية من نوع \"هيكل تبريد\" لا يزيد عن:"
+    },
+    "options": [
+      {
+        "he": "2.55 מטרים.",
+        "en": "2.55 m.",
+        "ar": "2.55 م."
+      },
+      {
+        "he": "2.50 מטרים.",
+        "en": "2.50 m.",
+        "ar": "2.50 م."
+      },
+      {
+        "he": "3.40 מטרים.",
+        "en": "3.40 m.",
+        "ar": "3.40 م."
+      },
+      {
+        "he": "2.60 מטרים.",
+        "en": "2.60 m.",
+        "ar": "2.60 م."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 209,
+    "text": {
+      "he": "מה תפקיד המאט ברכב?",
+      "en": "What is the function of the vehicle’s retarder?",
+      "ar": "ما وظيفة مخمّد السرعة في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "לאזן את פעולת המנוע ולווסת את מהירות הסיבוב של המנוע",
+        "en": "To balance engine operation and regulate its rotational speed",
+        "ar": "لموازنة عمل المحرك وتنظيم سرعة دورانه"
+      },
+      {
+        "he": "לשמש תחליף לבלמי שירות (בלם-רגל) לשם עצירת הרכב בסכנה מידית במצב חירום",
+        "en": "To serve as a substitute for service brakes in an immediate emergency stop",
+        "ar": "كبديل لفرامل الخدمة لإيقاف فوري في حالة الطوارئ"
+      },
+      {
+        "he": "לסייע לבלם עזר (חנייה) בחנייה בירידה תלולה",
+        "en": "To assist the parking brake on a steep descent",
+        "ar": "لمساعدة فرامل الانتظار عند نزول منحدر حاد"
+      },
+      {
+        "he": "להאט את מהירות הרכב בזמן נסיעה שלא באמצעות מערכת הבלמים, למשל במורד ארוך",
+        "en": "To slow the vehicle without using the brakes, e.g., on a long downhill",
+        "ar": "لإبطاء المركبة بدون استخدام الفرامل، مثل النزول الطويل"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 214,
+    "text": {
+      "he": "מרחק הבלימה הוא המרחק שהרכב עובר:",
+      "en": "Braking distance is the distance a vehicle travels:",
+      "ar": "مسافة الكبح هي المسافة التي تقطعها المركبة:"
+    },
+    "options": [
+      {
+        "he": "במשך זמן התגובה של הנהג",
+        "en": "During the driver’s reaction time",
+        "ar": "خلال زمن استجابة السائق"
+      },
+      {
+        "he": "מרגע שהנהג מבחין בסכנה ועד לעצירתו הסופית של הרכב",
+        "en": "From hazard perception until full stop",
+        "ar": "من لحظة إدراك الخطر حتى التوقف الكامل"
+      },
+      {
+        "he": "מרגע הפעלת הבלמים ועד לעצירתו הסופית של הרכב",
+        "en": "From brake application to full stop",
+        "ar": "من تفعيل المكابح حتى التوقف التام"
+      },
+      {
+        "he": "מרגע שהנהג מבחין בסכנה ועד התחלת הבלימה",
+        "en": "From hazard perception until braking begins",
+        "ar": "من لحظة إدراك الخطر حتى بدء الكبح"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 234,
+    "text": {
+      "he": "כיצד יפעל נהג אם זמן מילוי המכלים של מערכת הבלימה באוויר מתארך?",
+      "en": "How should the driver act if the air brake reservoir refill time lengthens?",
+      "ar": "كيف يتصرف السائق إذا طال زمن تعبئة خزانات نظام الكبح الهوائي؟"
+    },
+    "options": [
+      {
+        "he": "יפנה למוסך מורשה לתיקון התקלה אחרי שהמיכלים התמלאו, בנסיעה אטית וזהירה",
+        "en": "Drive slowly and carefully to an authorized garage after the reservoirs fill",
+        "ar": "قد ببطء وحذر إلى ورشة معتمدة بعد امتلاء الخزانات"
+      },
+      {
+        "he": "יקטין את מהירות סיבובי המנוע, ובכך ייעל את עבודת המדחס",
+        "en": "Reduce engine RPM to improve compressor performance",
+        "ar": "قلل سرعة دوران المحرك لتحسين عمل الضاغط"
+      },
+      {
+        "he": "ימשיך כרגיל ויתעלם מהבעיה",
+        "en": "Ignore the problem and keep driving as usual",
+        "ar": "تجاهل المشكلة واستمر في القيادة كالمعتاد"
+      },
+      {
+        "he": "יבדוק את מסנן הדלק במערכת וינקה אותו, אם צריך",
+        "en": "Check and clean the air filter if necessary",
+        "ar": "افحص فلتر الهواء في النظام ونظفه إذا لزم الأمر"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 245,
+    "text": {
+      "he": "מהי הסכנה שבהחלפת הילוך בזמן נסיעה בעת נהיגת רכב כבד במורד תלול?",
+      "en": "What danger exists in shifting gear while driving a heavy vehicle downhill?",
+      "ar": "ما الخطر في تبديل الترس أثناء قيادة مركبة ثقيلة في هبوط حاد؟"
+    },
+    "options": [
+      {
+        "he": "אין סכנה. החלפת הילוך נמוך להילוך גבוה במורד תלול תאפשר את הגברת מהירות הרכב",
+        "en": "No danger. Shifting low to high gear downhill will increase speed",
+        "ar": "لا خطر. تبديل من ترس منخفض إلى عالٍ في هبوط يدل على زيادة السرعة"
+      },
+      {
+        "he": "אין סכנה ואין חשיבות להילוך משולב כל עוד אחד מהם משולב",
+        "en": "No danger and gear choice isn’t important as long as one gear is engaged",
+        "ar": "لا خطر ولا أهمية لاختيار الترس طالما أحدهما مُدمَج"
+      },
+      {
+        "he": "אין סכנה בהחלפת הילוכים בירידה תלולה",
+        "en": "No danger in shifting gears on a steep descent",
+        "ar": "لا خطر في تبديل التروس في هبوط حاد"
+      },
+      {
+        "he": "יש סכנה שההילוך לא ישתלב והרכב יישאר בנייטרל",
+        "en": "There is a danger the gear won’t engage and the vehicle will stay in neutral",
+        "ar": "هناك خطر ألا يندمج الترس وتبقى المركبة في التعادل"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 256,
+    "text": {
+      "he": "היכן יועמס מטען כבד בארגז המטען של משאית?",
+      "en": "Where should heavy cargo be placed in a truck’s load bed?",
+      "ar": "أين يجب وضع الحمولة الثقيلة في صندوق شاحنة؟"
+    },
+    "options": {
+      "he": [
+        "מאחורי הסרן האחורי.",
+        "מהסרן האחורי לכיוון תא הנהג.",
+        "בחלק הקדמי של ארגז המטען.",
+        "אין חשיבות למקום, ובלבד שלא יחרוג מארגז המטען."
+      ],
+      "en": [
+        "Behind the rear axle.",
+        "From the rear axle toward the driver’s cab.",
+        "At the front of the load bed.",
+        "The location is irrelevant as long as the load does not protrude."
+      ],
+      "ar": [
+        "خلف المحور الخلفي.",
+        "من المحور الخلفي باتجاه مقصورة السائق.",
+        "في الجزء الأمامي من الصندوق.",
+        "المكان غير مهم ما دام الحمل لا يبرز خارج الصندوق."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 274,
+    "text": {
+      "he": "מאיזה מרחק צריך להיראות האור המהבהב בפנס מיטלטל צהוב בזמן תאורה ובמזג אוויר נאה?",
+      "en": "From what distance must the flashing light of a portable yellow beacon be visible during lighting hours in fair weather?",
+      "ar": "من أي مسافة يجب أن يُرى الضوء اللامع في مصباح أصفر متنقل خلال ساعات الإضاءة وفي طقس صافٍ؟"
+    },
+    "options": {
+      "he": [
+        "30 מטרים",
+        "75 מטרים",
+        "150 מטרים",
+        "100 מטרים"
+      ],
+      "en": [
+        "30 m",
+        "75 m",
+        "150 m",
+        "100 m"
+      ],
+      "ar": [
+        "30 م",
+        "75 م",
+        "150 م",
+        "100 م"
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 306,
+    "text": {
+      "he": "אמצעי התרעה בתא הנהג ברכב עם בלמים פנאומטיים:",
+      "en": "Warning devices in the cab of a vehicle with a pneumatic brake system:",
+      "ar": "وسائل التحذير في كابينة مركبة مزودة بفرامل هوائية:"
+    },
+    "options": {
+      "he": [
+        "נורת אזהרה וידית בלימת חירום.",
+        "נורת אזהרה אדומה במרכז הלוח.",
+        "נורת אזהרה ובלם עצמאי.",
+        "נורת אזהרה, זמזם ומד לחץ אוויר."
+      ],
+      "en": [
+        "Warning light and emergency brake handle.",
+        "A red warning light in the centre of the panel.",
+        "Warning light and independent brake.",
+        "Warning light, buzzer and air-pressure gauge."
+      ],
+      "ar": [
+        "مصباح تحذير ومقبض فرملة طوارئ.",
+        "مصباح تحذير أحمر في وسط اللوحة.",
+        "مصباح تحذير وفرملة مستقلة.",
+        "مصباح تحذير، جرس إنذار ومقياس ضغط هواء."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 7
+  },
+  {
+    "id": 343,
+    "text": {
+      "he": "כיצד יסומן רכב מסחרי שמשקלו הכולל יותר מ-7,500 ק\"ג?",
+      "en": "How must a commercial vehicle over 7,500 kg GVW be marked?",
+      "ar": "كيف تُعلَّم مركبة تجارية يزيد وزنها الإجمالي المسموح عن 7,500 كغم؟"
+    },
+    "options": {
+      "he": [
+        "בשתי לוחיות מחזירות-אור מאחור.",
+        "בשני פסים זוהרים על הפגוש האחורי.",
+        "בארבעה פסים מחזירי-אור: שניים אנכיים ושניים אופקיים.",
+        "רכב שאין לו דופן אחורית פטור מסימון."
+      ],
+      "en": [
+        "With two rear reflective plates.",
+        "With two reflective stripes on the rear bumper.",
+        "With four retro-reflective strips—two vertical and two horizontal.",
+        "A vehicle without a rear wall need not be marked."
+      ],
+      "ar": [
+        "بصفيحتين عاكستين للضوء في الخلف.",
+        "بشريطين مضيئين على الصدام الخلفي.",
+        "بأربعة شرائط عاكسة: اثنان رأسيان واثنان أفقيان.",
+        "المركبة التي بلا جانب خلفي معفاة من التعليم."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 7
+  }
+]

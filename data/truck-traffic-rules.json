@@ -1,0 +1,944 @@
+[
+  {
+    "id": 54,
+    "text": {
+      "he": "איזה רכב מסחרי צריך \"היתר גרירה\" לצורך גרירה?",
+      "en": "Which commercial vehicle requires a \"towing permit\" for towing?",
+      "ar": "أي مركبة تجارية تحتاج إلى \"تصريح سحب\" لأغراض السحب؟"
+    },
+    "options": [
+      {
+        "he": "רכב שמשקלו הכולל המותר יותר מ 3,500 ק״ג.",
+        "en": "A vehicle whose permissible total weight exceeds 3,500 kg.",
+        "ar": "مركبة يتجاوز وزنها الإجمالي المسموح به ٣٥٠٠ كجم."
+      },
+      {
+        "he": "רכב שמשקלו הכולל המותר יותר מ 10,000 ק״ג.",
+        "en": "A vehicle whose permissible total weight exceeds 10,000 kg.",
+        "ar": "مركبة يتجاوز وزنها الإجمالي المسموح به ١٠٠٠٠ كجم."
+      },
+      {
+        "he": "רכב שמשקלו הכולל המותר יותר מ 6,000 ק״ג.",
+        "en": "A vehicle whose permissible total weight exceeds 6,000 kg.",
+        "ar": "مركبة يتجاوز وزنها الإجمالي المسموح به ٦٠٠٠٠ كجم."
+      },
+      {
+        "he": "רכב שמשקלו הכולל המותר יותר מ 8,000 ק״ג.",
+        "en": "A vehicle whose permissible total weight exceeds 8,000 kg.",
+        "ar": "مركبة يتجاوز وزنها الإجمالي المسموح به ٨٠٠٠٠ كجم."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "רכב שמשקלו הכולל המותר יותר מ 10,000 ק״ג.",
+      "en": "A vehicle whose permissible total weight exceeds 10,000 kg.",
+      "ar": "مركبة يتجاوز وزنها الإجمالي المسموح به ١٠٠٠٠ كجم."
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 84,
+    "text": {
+      "he": "מה הגובה המרבי מעל פני הקרקע של מטען שמותר להסיע ברכב שמשקלו הכולל המותר 8,000‑15,000 ק\"ג?",
+      "en": "What is the maximum height above ground of a load allowed on a vehicle whose GVW is 8,000‑15,000 kg?",
+      "ar": "ما أقصى ارتفاع حمولة مسموح به فوق سطح الأرض لمركبة وزنها الإجمالي المسموح 8,000‑15,000 كجم؟"
+    },
+    "options": [
+      {
+        "he": "4.80 מטרים.",
+        "en": "4.80 m.",
+        "ar": "٤٫٨٠ أمتار."
+      },
+      {
+        "he": "שלושה מטרים.",
+        "en": "Three metres.",
+        "ar": "٣ أمتار."
+      },
+      {
+        "he": "אין הגבלה של גובה.",
+        "en": "No height limit.",
+        "ar": "لا يوجد حد للارتفاع."
+      },
+      {
+        "he": "ארבעה מטרים.",
+        "en": "Four metres.",
+        "ar": "٤ أمتار."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 85,
+    "text": {
+      "he": "לא יינתן ולא יחודש רישיון לרכב גרר/חילוץ עד 16,000 ק\"ג:",
+      "en": "A tow‑/recovery vehicle up to 16,000 kg will not be licensed or renewed:",
+      "ar": "لن تُمنَح أو تُجدد رخصة مركبة سحب/إنقاذ حتى 16,000 كجم:"
+    },
+    "options": [
+      {
+        "he": "אין הגבלה בחוק לחידוש רישיון לרכב כזה.",
+        "en": "There is no legal limit on renewing such a licence.",
+        "ar": "لا يوجد حد قانوني لتجديد رخصة كهذه."
+      },
+      {
+        "he": "בתום עשר שנים משנת ייצורו.",
+        "en": "After ten years from its manufacture year.",
+        "ar": "بعد عشر سنوات من سنة التصنيع."
+      },
+      {
+        "he": "בתום שמונה שנים משנת ייצורו.",
+        "en": "After eight years from its manufacture year.",
+        "ar": "بعد ثماني سنوات من سنة التصنيع."
+      },
+      {
+        "he": "בתום 19 שנים משנת ייצורו.",
+        "en": "After 19 years from its manufacture year.",
+        "ar": "بعد ١٩ سنة من سنة التصنيع."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 86,
+    "text": {
+      "he": "כיצד נסמן רכב מסחרי מעל 3,500 ק\"ג המסיע 11 נוסעים או יותר?",
+      "en": "How must a commercial vehicle over 3,500 kg that carries 11 passengers or more be marked?",
+      "ar": "كيف تتم إشارة مركبة تجارية تزيد عن 3,500 كجم وتنقل 11 راكبًا أو أكثر؟"
+    },
+    "options": [
+      {
+        "he": "רכב מסחרי כזה אינו זקוק לשילוט מיוחד.",
+        "en": "Such a commercial vehicle needs no special sign.",
+        "ar": "هذه المركبة التجارية لا تحتاج إلى لافتة خاصة."
+      },
+      {
+        "he": "בשלט \"נוסעים\" מלפנים בלבד.",
+        "en": "With a “Passengers” sign at the front only.",
+        "ar": "بلافتة \"ركاب\" في الأمام فقط."
+      },
+      {
+        "he": "בשלט \"נוסעים\" מלפנים ומאחור.",
+        "en": "With a “Passengers” sign at the front and rear.",
+        "ar": "بلافتة \"ركاب\" في الأمام والخلف."
+      },
+      {
+        "he": "בשלט \"זהירות ילדים\".",
+        "en": "With a “Caution‑Children” sign.",
+        "ar": "بلافتة \"احذر الأطفال\"."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 116,
+    "text": {
+      "he": "לאיזה תקופה יינתן רישיון מוביל?",
+      "en": "For what period is a haulage (carrier) licence issued?",
+      "ar": "ما مدة صلاحية رخصة الناقل؟"
+    },
+    "options": [
+      {
+        "he": "התקופה תלויה בסוג המטען.",
+        "en": "The period depends on the cargo type.",
+        "ar": "تعتمد المدة على نوع الحمولة."
+      },
+      {
+        "he": "לשנה אחת.",
+        "en": "For one year.",
+        "ar": "لسنة واحدة."
+      },
+      {
+        "he": "לחמש שנים.",
+        "en": "For five years.",
+        "ar": "لخمس سنوات."
+      },
+      {
+        "he": "עד לחידוש רישיון הרכב.",
+        "en": "Until the vehicle licence is renewed.",
+        "ar": "حتى تجديد ترخيص المركبة."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 118,
+    "text": {
+      "he": "על איזה סוג רכב נאסר לעקוף רכב עוקף?",
+      "en": "Which type of vehicle is prohibited from overtaking an overtaking vehicle?",
+      "ar": "على أي نوع من المركبات يُحظر تجاوز مركبة تقوم بالتجاوز؟"
+    },
+    "options": [
+      {
+        "he": "על אוטובוס, וכן על רכב מסחרי או עבודה שמשקלם מעל 3,500 ك\"ג.",
+        "en": "On a bus and on commercial/work vehicles whose GVW exceeds 3,500 kg.",
+        "ar": "على الحافلة وكذلك المركبات التجارية أو العمل التي يزيد وزنها عن 3,500 كجم."
+      },
+      {
+        "he": "על רכב מנועי שמשקלו הכולל המותר מעל 4,000 ك\"ג.",
+        "en": "On any motor vehicle with GVW over 4,000 kg.",
+        "ar": "على أي مركبة آلية وزنها الإجمالي أكثر من 4,000 كجم."
+      },
+      {
+        "he": "על רכב מסחרי ועבודה שמשקלם 3,500 ك\"ג או פחות.",
+        "en": "On commercial/work vehicles up to 3,500 kg.",
+        "ar": "على المركبات التجارية أو العمل حتى 3,500 كجم."
+      },
+      {
+        "he": "על אופנועים.",
+        "en": "On motorcycles.",
+        "ar": "على الدراجات النارية."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 132,
+    "text": {
+      "he": "באיזה מספר מסומן אורך \"שלוחה אחורית\" ברכב?",
+      "en": "By which number is the length of the \"rear overhang\" marked in the vehicle?",
+      "ar": "بأي رقم يُوضَّح طول \"البروز الخلفي\" في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "7",
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "he": "23",
+        "en": "23",
+        "ar": "23"
+      },
+      {
+        "he": "22",
+        "en": "22",
+        "ar": "22"
+      },
+      {
+        "he": "27",
+        "en": "27",
+        "ar": "27"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6,
+    "relatedSignId": 44
+  },
+  {
+    "id": 133,
+    "text": {
+      "he": "החובה להפעיל מאט מהירות בירידה חלה בתנאים האלה:",
+      "en": "The obligation to operate a speed retarder when descending applies in these conditions:",
+      "ar": "تسري إلزامية تشغيل مبطئ السرعة عند النزول في الشروط التالية:"
+    },
+    "options": [
+      {
+        "he": "כשמוצב בדרך תמרור אזהרה מפני החלקה.",
+        "en": "When a road sign warning of skidding is posted.",
+        "ar": "عندما توجد إشارة تحذير من الانزلاق على الطريق."
+      },
+      {
+        "he": "כשהרכב מצויד במאט מהירות ובדרך הוצב תמרור המזהיר מפני ירידה מסוכנת.",
+        "en": "When the vehicle has a retarder and there is a sign warning of a dangerous descent.",
+        "ar": "عندما تكون المركبة مجهزة بمبطئ سرعة ويوجد تحذير من نزول خطير على الطريق."
+      },
+      {
+        "he": "כששיעור השיפוע של הירידה גדול משישה אחוזים ואורך הירידה יותר מקילומטר.",
+        "en": "When the slope of the descent is greater than six percent and its length is more than one kilometre.",
+        "ar": "عندما تتجاوز درجة الانحدار ٦٪ ويزيد طول النزول عن كيلومتر."
+      },
+      {
+        "he": "ברכב שבו מותקן מאט מהירות חלה חובה להפעילו בכל נסיעה, גם במישור.",
+        "en": "In a vehicle fitted with a retarder it must be operated on every trip, even on flat roads.",
+        "ar": "في مركبة مزودة بمبطئ سرعة يجب تشغيله في كل رحلة حتى على الطرق المستوية."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 139,
+    "text": {
+      "he": "האם החובות והאיסורים החלים על רכב מסחרי חלים גם על רכב משא ?",
+      "en": "Do the obligations and prohibitions that apply to a commercial vehicle also apply to a goods vehicle?",
+      "ar": "هل تنطبق الالتزامات والمحظورات التي تسري على المركبة التجارية أيضًا على مركبة الشحن؟"
+    },
+    "options": [
+      {
+        "he": "לא. החובות והאיסורים החלים על רכב מסחרי יחולו רק על רכב משא אחוד.",
+        "en": "No. The obligations and prohibitions applying to a commercial vehicle apply only to a unified goods vehicle.",
+        "ar": "لا. الالتزامات والمحظورات التي تسري على المركبة التجارية تسري فقط على مركبة شحن موحدة."
+      },
+      {
+        "he": "לא. אין דין רכב מסחרי כדין רכב משא, ולכן החובות והאיסורים החלים על האחד, לא יחולו על האחר.",
+        "en": "No. A commercial vehicle is not legally the same as a goods vehicle, so the rules for one do not apply to the other.",
+        "ar": "لا. المركبة التجارية ليست كالمركبة الشاحنة، لذلك لا تنطبق القواعد على الأخرى."
+      },
+      {
+        "he": "כן. כל חובה או איסור החלים על רכב מסחרי חלים גם על רכב משא.",
+        "en": "Yes. Every obligation or prohibition applying to a commercial vehicle also applies to a goods vehicle.",
+        "ar": "نعم. كل التزامات أو محظورات تسري على المركبة التجارية تسري أيضًا على مركبة الشحن."
+      },
+      {
+        "he": "כן. החובות והאיסורים החלים על רכב מסחרי יחולו גם על רכב משא, למעט חובת חגירת חגורות בטיחות.",
+        "en": "Yes. The obligations and prohibitions for a commercial vehicle also apply to a goods vehicle, except the seat‑belt requirement.",
+        "ar": "نعم. الالتزامات والمحظورات المفروضة على المركبة التجارية تسري أيضًا على مركبة الشحن، باستثناء إلزام حزام الأمان."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 147,
+    "text": {
+      "he": "באיזה רכב שהיה הכרח להעמידו בדרך שאינה עירונית ב\"זמן תאורה\" חייבים להפעיל פנסי מצוקה או להציב פנס צהוב מהבהב ?",
+      "en": "For which vehicle, that had to be stopped on a non‑urban road during lighting hours, must hazard lights be activated or a flashing yellow lamp be placed?",
+      "ar": "في أي مركبة يتعين، عند إيقافها على طريق غير حضري في \"وقت الإضاءة\", تشغيل أضواء الخطر או وضع مصباح أصفر وامض؟"
+    },
+    "options": [
+      {
+        "he": "רכב מסחרי שמשקלו הכולל יותר מ-3,000  ק״ג  וכן אוטובוס .",
+        "en": "A commercial vehicle with a total weight of more than 3,000 kg, and a bus.",
+        "ar": "مركبة تجارية يزيد وزنها الإجمالي على 3,000 كجم وكذلك حافلة."
+      },
+      {
+        "he": "כל רכב, למעט רכב פרטי ורכב המיועד להסעת נוסעים .",
+        "en": "Any vehicle except a private car and a vehicle intended for passenger transport.",
+        "ar": "أي مركبة ما عدا سيارة خاصة ومركبة مخصصة لنقل الركاب."
+      },
+      {
+        "he": "רכב משא שמשקלו הכולל יותר מ-12,000  ק״ג .",
+        "en": "A goods vehicle with a total weight of more than 12,000 kg.",
+        "ar": "مركبة شحن يزيد وزنها الإجمالي على 12,000 كجم."
+      },
+      {
+        "he": "כל רכב מנועי שמשקלו הכולל המותר יותר מ-3,500  ק״ג , אוטובוס ורכב עבודה .",
+        "en": "Any motor vehicle whose permissible total weight is more than 3,500 kg, a bus, or a work vehicle.",
+        "ar": "أي مركبة آلية وزنها الإجمالي المسموح أكثر من 3,500 كجم، أو حافلة، أو مركبة عمل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 132,
+    "text": {
+      "he": "באיזה מספר מסומן אורך \"שלוחה אחורית\" ברכב?",
+      "en": "By which number is the length of the \"rear overhang\" marked in the vehicle?",
+      "ar": "بأي رقم يُوضَّح طول \"البروز الخلفي\" في المركبة؟"
+    },
+    "options": [
+      {
+        "he": "7",
+        "en": "7",
+        "ar": "7"
+      },
+      {
+        "he": "23",
+        "en": "23",
+        "ar": "23"
+      },
+      {
+        "he": "22",
+        "en": "22",
+        "ar": "22"
+      },
+      {
+        "he": "27",
+        "en": "27",
+        "ar": "27"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6,
+    "relatedSignId": 44
+  },
+  {
+    "id": 133,
+    "text": {
+      "he": "החובה להפעיל מאט מהירות בירידה חלה בתנאים האלה:",
+      "en": "The obligation to operate a speed retarder when descending applies in these conditions:",
+      "ar": "تسري إلزامية تشغيل مبطئ السرعة عند النزول في الشروط التالية:"
+    },
+    "options": [
+      {
+        "he": "כשמוצב בדרך תמרור אזהרה מפני החלקה.",
+        "en": "When a road sign warning of skidding is posted.",
+        "ar": "عندما توجد إشارة تحذير من الانزلاق على الطريق."
+      },
+      {
+        "he": "כשהרכב מצויד במאט מהירות ובדרך הוצב תמרור המזהיר מפני ירידה מסוכנת.",
+        "en": "When the vehicle has a retarder and there is a sign warning of a dangerous descent.",
+        "ar": "عندما تكون المركبة مجهزة بمبطئ سرعة ويوجد تحذير من نزول خطير على الطريق."
+      },
+      {
+        "he": "כששיעור השיפוע של הירידה גדול משישה אחוזים ואורך הירידה יותר מקילומטר.",
+        "en": "When the slope of the descent is greater than six percent and its length is more than one kilometre.",
+        "ar": "عندما تتجاوز درجة الانحدار ٦٪ ويزيد طول النزول عن كيلومتر."
+      },
+      {
+        "he": "ברכב שבו מותקן מאט מהירות חלה חובה להפעילו בכל נסיעה, גם במישור.",
+        "en": "In a vehicle fitted with a retarder it must be operated on every trip, even on flat roads.",
+        "ar": "في مركبة مزودة بمبطئ سرعة يجب تشغيله في كل رحلة حتى على الطرق المستوية."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 139,
+    "text": {
+      "he": "האם החובות והאיסורים החלים על רכב מסחרי חלים גם על רכב משא ?",
+      "en": "Do the obligations and prohibitions that apply to a commercial vehicle also apply to a goods vehicle?",
+      "ar": "هل تنطبق الالتزامات والمحظورات التي تسري على المركبة التجارية أيضًا على مركبة الشحن؟"
+    },
+    "options": [
+      {
+        "he": "לא. החובות והאיסורים החלים על רכב מסחרי יחולו רק על רכב משא אחוד.",
+        "en": "No. The obligations and prohibitions applying to a commercial vehicle apply only to a unified goods vehicle.",
+        "ar": "لا. الالتزامات والمحظورات التي تسري على المركبة التجارية تسري فقط على مركبة شحن موحدة."
+      },
+      {
+        "he": "לא. אין דין רכב מסחרי כדין רכב משא, ולכן החובות והאיסורים החלים על האחד, לא יחולו על האחר.",
+        "en": "No. A commercial vehicle is not legally the same as a goods vehicle, so the rules for one do not apply to the other.",
+        "ar": "لا. المركبة التجارية ليست كالمركبة الشاحنة، لذلك لا تنطبق القواعد على الأخرى."
+      },
+      {
+        "he": "כן. כל חובה או איסור החלים על רכב מסחרי חלים גם על רכב משא.",
+        "en": "Yes. Every obligation or prohibition applying to a commercial vehicle also applies to a goods vehicle.",
+        "ar": "نعم. كل التزامات أو محظورات تسري على المركبة التجارية تسري أيضًا على مركبة الشحن."
+      },
+      {
+        "he": "כן. החובות והאיסורים החלים על רכב מסחרי יחולו גם על רכב משא, למעט חובת חגירת חגורות בטיחות.",
+        "en": "Yes. The obligations and prohibitions for a commercial vehicle also apply to a goods vehicle, except the seat‑belt requirement.",
+        "ar": "نعم. الالتزامات والمحظورات المفروضة على المركبة التجارية تسري أيضًا على مركبة الشحن، باستثناء إلزام حزام الأمان."
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 147,
+    "text": {
+      "he": "באיזה רכב שהיה הכרח להעמידו בדרך שאינה עירונית ב\"זמן תאורה\" חייבים להפעיל פנסי מצוקה או להציב פנס צהוב מהבהב ?",
+      "en": "For which vehicle, that had to be stopped on a non‑urban road during lighting hours, must hazard lights be activated or a flashing yellow lamp be placed?",
+      "ar": "في أي مركبة يتعين، عند إيقافها على طريق غير حضري في \"وقت الإضاءة\", تشغيل أضواء الخطر או وضع مصباح أصفر وامض؟"
+    },
+    "options": [
+      {
+        "he": "רכב מסחרי שמשקלו הכולל יותר מ-3,000  ק״ג  וכן אוטובוס .",
+        "en": "A commercial vehicle with a total weight of more than 3,000 kg, and a bus.",
+        "ar": "مركبة تجارية يزيد وزنها الإجمالي على 3,000 كجم وكذلك حافلة."
+      },
+      {
+        "he": "כל רכב, למעט רכב פרטי ורכב המיועד להסעת נוסעים .",
+        "en": "Any vehicle except a private car and a vehicle intended for passenger transport.",
+        "ar": "أي مركبة ما عدا سيارة خاصة ومركبة مخصصة لنقل الركاب."
+      },
+      {
+        "he": "רכב משא שמשקלו הכולל יותר מ-12,000  ק״ג .",
+        "en": "A goods vehicle with a total weight of more than 12,000 kg.",
+        "ar": "مركبة شحن يزيد وزنها الإجمالي على 12,000 كجم."
+      },
+      {
+        "he": "כל רכב מנועי שמשקלו הכולל המותר יותר מ-3,500  ק״ג , אוטובוס ורכב עבודה .",
+        "en": "Any motor vehicle whose permissible total weight is more than 3,500 kg, a bus, or a work vehicle.",
+        "ar": "أي مركبة آلية وزنها الإجمالي المسموح أكثر من 3,500 كجم، أو حافلة، أو مركبة عمل."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 162,
+    "text": {
+      "he": "כיצד יש לסמן מטען הבולט בחלקו האחורי של הרכב?",
+      "en": "How must cargo protruding from the rear of a vehicle be marked?",
+      "ar": "كيف يجب تعليم الحمولة البارزة من الجزء الخلفي للمركبة؟"
+    },
+    "options": [
+      {
+        "he": "בפנס אדום בקצה הבולט של המטען.",
+        "en": "With a red light at the protruding end.",
+        "ar": "بمصباح أحمر في الجزء البارز."
+      },
+      {
+        "he": "במשולש לבן מחזיר אור בקצה הבולט של המטען.",
+        "en": "With a white reflective triangle at the protruding end.",
+        "ar": "بمثلث أبيض عاكس على الجزء البارز."
+      },
+      {
+        "he": "בפנס לבן או צהוב בקצה הבולט של המטען.",
+        "en": "With a white or yellow light at the protruding end.",
+        "ar": "بمصباح أبيض أو أصفر في الجزء البارز."
+      },
+      {
+        "he": "במשולש אדום מחזיר אור בקצה הבולט של המטען.",
+        "en": "With a red reflective triangle at the protruding end.",
+        "ar": "بمثلث أحمر عاكس على الجزء البارز."
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 184,
+    "text": {
+      "he": "מה רשאי שוטר לעשות לאחר שמצא כי משקלו של מטען ברכב מסחרי חורג מן המותר?",
+      "en": "What may a police officer do after finding that a commercial vehicle's load exceeds the permitted weight?",
+      "ar": "ماذا يحق لشرطي فعله بعد أن وجد أن حمولة مركبة تجارية تتجاوز المسموح؟"
+    },
+    "options": [
+      {
+        "he": "למסור לנהג הודעת איסור שימוש ברכב לתקופה של 90 יום.",
+        "en": "Issue the driver a notice prohibiting vehicle use for 90 days.",
+        "ar": "إعطاء السائق إشعار حظر استخدام المركبة لمدة 90 يومًا."
+      },
+      {
+        "he": "למסור לנהג הודעת איסור שימוש ברכב לתקופה של 30 יום.",
+        "en": "Issue the driver a notice prohibiting vehicle use for 30 days.",
+        "ar": "إعطاء السائق إشعار حظر استخدام المركبة لمدة 30 يومًا."
+      },
+      {
+        "he": "להורות לנוהג ברכב לחזור מיד לנקודת הטעינה ולפרוק את כל מטענו.",
+        "en": "Order the driver to return immediately to the loading point and unload all cargo.",
+        "ar": "أمر السائق بالعودة فورًا إلى نقطة التحميل وتفريغ كل الحمولة."
+      },
+      {
+        "he": "יביא את בעל הרכב למשרד הרישוי הקרוב, לפסילת רישיונו למשך 30 יום.",
+        "en": "Bring the owner to the nearest licensing office to revoke the licence for 30 days.",
+        "ar": "إحضار صاحب المركبة إلى أقرب مكتب ترخيص لسحب الرخصة لمدة 30 يومًا."
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 212,
+    "text": {
+      "he": "אתה נוהג ברכב שרוחבו הכולל 220 ס\"מ. האם עליך להדליק פנסי רוחב ב\"זמן תאורה\"?",
+      "en": "You are driving a vehicle 220 cm wide. Must you switch on clearance lights during lighting hours?",
+      "ar": "أنت تقود مركبة عرضها 220 سم. هل يجب تشغيل مصابيح العرض خلال ساعات الإضاءة؟"
+    },
+    "options": [
+      {
+        "he": "לא. פנסי הרוחב נועדו לאזהרה כשהרכב עומד בדרך עקב תקלה",
+        "en": "No. Clearance lights warn when the vehicle is stopped due to a breakdown",
+        "ar": "لا. مصابيح العرض للتحذير عند توقف المركبة بسبب عطل"
+      },
+      {
+        "he": "כן",
+        "en": "Yes",
+        "ar": "نعم"
+      },
+      {
+        "he": "כן, אבל רק מ-1 בנובמבר עד 31 במרס בשנה שאחריה",
+        "en": "Yes, but only from November 1 to March 31 of the following year",
+        "ar": "نعم، ولكن فقط من 1 نوفمبر حتى 31 مارس من العام التالي"
+      },
+      {
+        "he": "לא. פנסי הרוחב נועדו להאיר רק כשהרכב עומד, מכל סיבה שהיא",
+        "en": "No. Clearance lights are intended only to illuminate when stopped",
+        "ar": "لا. مصابيح العرض للإضاءة فقط عند التوقف"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 215,
+    "text": {
+      "he": "אין להעמיד רכב בדרך או להחנותו, אם רוחב הרכב יותר מ:",
+      "en": "It is forbidden to park or leave a vehicle on the road if its width exceeds:",
+      "ar": "يحظر ركن المركبة على الطريق إذا كان عرضها يتجاوز:"
+    },
+    "options": [
+      {
+        "he": "2.50 מטרים",
+        "en": "2.50 meters",
+        "ar": "2.50 متر"
+      },
+      {
+        "he": "2.25 מטרים",
+        "en": "2.25 meters",
+        "ar": "2.25 متر"
+      },
+      {
+        "he": "2.10 מטרים",
+        "en": "2.10 meters",
+        "ar": "2.10 متر"
+      },
+      {
+        "he": "4.80 מטרים",
+        "en": "4.80 meters",
+        "ar": "4.80 متر"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 272,
+    "text": {
+      "he": "\"הגובה הכולל\" של רכב נמדד:",
+      "en": "The \"overall height\" of a vehicle is measured:",
+      "ar": "يُقاس \"الارتفاع الكلي\" للمركبة:"
+    },
+    "options": {
+      "he": [
+        "מגובה רצפת הארגז עד לנקודה הגבוהה ביותר של המשאית.",
+        "מפני הדרך ועד לנקודה הגבוהה ביותר של הרכב, כשהוא אינו עמוס.",
+        "מפני הדרך ועד לנקודה הגבוהה ביותר של הרכב, כשהוא עמוס.",
+        "מפני הדרך ועד לגובה גג תא הנהג."
+      ],
+      "en": [
+        "From the bed floor to the highest point of the truck.",
+        "From the road surface to the highest point of the vehicle, when unladen.",
+        "From the road surface to the highest point of the vehicle, when laden.",
+        "From the road surface to the roof of the cab."
+      ],
+      "ar": [
+        "من أرضية الصندوق حتى أعلى نقطة في الشاحنة.",
+        "من مستوى الطريق إلى أعلى نقطة في المركبة وهي غير محملة.",
+        "من مستوى الطريق إلى أعلى نقطة في المركبة وهي محملة.",
+        "من مستوى الطريق إلى سقف مقصورة السائق."
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 304,
+    "text": {
+      "he": "פנסי רוחב חובה להתקין:",
+      "en": "Width lamps must be installed:",
+      "ar": "يجب تركيب مصابيح عرض:"
+    },
+    "options": {
+      "he": [
+        "ברכב שרוחבו 210 ס\"מ או יותר.",
+        "רק ברכב מחובר או נתמך.",
+        "ברכב שרוחבו עד 180 ס\"מ.",
+        "בכל רכב משא."
+      ],
+      "en": [
+        "On a vehicle 210 cm wide or more.",
+        "Only on a towed or trailer vehicle.",
+        "On a vehicle whose width is up to 180 cm.",
+        "On every truck."
+      ],
+      "ar": [
+        "في مركبة عرضها 210 سم أو أكثر.",
+        "فقط في مركبة مقطورة أو مدعومة.",
+        "في مركبة عرضها حتى 180 سم.",
+        "في كل شاحنة."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 316,
+    "text": {
+      "he": "מה קובע \"חוק שירותי הובלה\"?",
+      "en": "What does the Road-Haulage Services Law stipulate?",
+      "ar": "ماذا يحدد «قانون خدمات النقل»؟"
+    },
+    "options": {
+      "he": [
+        "אין שירותי הובלה ברכב מסחרי ≥10 טון בלי \"רישיון מוביל\".",
+        "קובע את המשקל הכולל המותר של כלי הובלה.",
+        "קובע את סדרי הובלת מטענים אל ומנמל.",
+        "קובע תעריפי הובלה מרביים ביבשה."
+      ],
+      "en": [
+        "No haulage in a commercial vehicle ≥10 t without a carrier licence.",
+        "Sets the permitted GVW of haulage vehicles.",
+        "Regulates cargo transport to and from ports.",
+        "Sets maximum land-haulage tariffs."
+      ],
+      "ar": [
+        "يمنع تقديم خدمة نقل بمركبة تجارية ≥10 طن دون «رخصة ناقل».",
+        "يحدد الوزن الإجمالي المسموح لمركبات النقل.",
+        "ينظم نقل البضائع من وإلى الميناء.",
+        "يحدد أجور النقل البرّي القصوى."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 344,
+    "text": {
+      "he": "האם רשאי שוטר להפסיק נסיעה של רכב המוביל מטען שלא עפ\"י חוק?",
+      "en": "May a police officer stop a vehicle carrying an illegal load?",
+      "ar": "هل يجوز لشرطي إيقاف مركبة تحمل حمولة مخالفة للقانون؟"
+    },
+    "options": {
+      "he": [
+        "לא – רק קצין בדרגת מפקח ומעלה רשאי.",
+        "כן – עד שיפורק המטען או שהעניין יוסדר כחוק.",
+        "לא – שוטר אינו מוסמך לכך.",
+        "כן, אך רק אם המשקל עולה ב-20% או יותר מהמותר."
+      ],
+      "en": [
+        "No – only an inspector-rank officer or above may do so.",
+        "Yes – until the load is reduced or legal requirements are met.",
+        "No – an officer is not authorised to stop the trip.",
+        "Yes, but only if the GVW exceeds the limit by 20 % or more."
+      ],
+      "ar": [
+        "كلا – فقط ضابط برتبة مفتش فأعلى مخوّل بذلك.",
+        "نعم – حتى يُفرَّغ الحمل أو يُسوَّى الأمر قانونيًا.",
+        "كلا – الشرطي غير مخوّل بوقف السير.",
+        "نعم، ولكن إذا زاد الوزن المسموح به بنسبة 20 ٪ أو أكثر."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 351,
+    "text": {
+      "he": "באיזה רכב חייב להיות מטפה לכיבוי אש?",
+      "en": "In which vehicle is a fire extinguisher mandatory?",
+      "ar": "في أي مركبة يُلزم وجود مطفأة حريق؟"
+    },
+    "options": {
+      "he": [
+        "בכל משאית ובאוטובוס ציבורי בלבד.",
+        "בכל רכב מנועי זולת רכב נוסעים פרטי, טרקטור, אופנוע ותלת-אופנוע.",
+        "בכל רכב מסחרי, באוטובוס ציבורי ובטרקטור.",
+        "ברכב מנועי הנע על יותר משני גלגלים."
+      ],
+      "en": [
+        "In every lorry and public bus only.",
+        "In any motor vehicle except a private car, tractor, motorcycle or tricycle.",
+        "In every commercial vehicle, public bus and tractor.",
+        "In any motor vehicle running on more than two wheels."
+      ],
+      "ar": [
+        "في كل شاحنة وحافلة عمومية فقط.",
+        "في كل مركبة آلية عدا سيارة خاصة، جرار، دراجة نارية ودراجة ثلاثية.",
+        "في كل مركبة تجارية، حافلة عمومية وجرار.",
+        "في كل مركبة آلية تسير بأكثر من عجلتين."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 370,
+    "text": {
+      "he": "מה המהירות המרבית המותרת לטרקטור משא?",
+      "en": "What is the maximum legal speed for a cargo tractor?",
+      "ar": "ما السرعة القصوى المسموح بها لجرار شحن؟"
+    },
+    "options": {
+      "he": [
+        "50 קמ\"ש בדרך עירונית.",
+        "40 קמ\"ש.",
+        "60 קמ\"ש בדרך שאינה עירונית.",
+        "70 קמ\"ש."
+      ],
+      "en": [
+        "50 km/h in urban roads.",
+        "40 km/h.",
+        "60 km/h on non-urban roads.",
+        "70 km/h."
+      ],
+      "ar": [
+        "50 كم/س في طريق حضرية.",
+        "40 كم/س.",
+        "60 كم/س في طريق غير حضرية.",
+        "70 كم/س."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 392,
+    "text": {
+      "he": "נהג רכב מסחרי >6,000 ק\"ג ינוח לפחות 25 שעות רצופות ולא יעבוד פרק זמן של:",
+      "en": "A commercial-vehicle driver (>6 t GVW) must rest 25 continuous hours after working no more than:",
+      "ar": "سائق مركبة تجارية يزيد وزنها عن 6,000 كغم عليه أن يرتاح 25 ساعة متتالية بعد عمل أقصاه:"
+    },
+    "options": {
+      "he": [
+        "10 ימים",
+        "6 ימים",
+        "8 ימים",
+        "12 ימים"
+      ],
+      "en": [
+        "10 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "ar": [
+        "10 أيام",
+        "6 أيام",
+        "8 أيام",
+        "12 يومًا"
+      ]
+    },
+    "correctOptionIndex": 2,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  },
+  {
+    "id": 401,
+    "text": {
+      "he": "האם שוטר רשאי להורות לרכב מטען להגיע לתחנת שקילה?",
+      "en": "May a police officer order a cargo vehicle to a weigh-station?",
+      "ar": "هل يجوز لشرطي أن يأمر مركبة شحن بالذهاب إلى محطة وزن؟"
+    },
+    "options": {
+      "he": [
+        "כן – אך חייב להיות שוטר תנועה.",
+        "כן – לשקילה במקום קרוב ככל האפשר.",
+        "כן – אם תחנת השקילה עד 3 ק\"מ.",
+        "כן – אבל רק אם אין לנהג שטר מטען."
+      ],
+      "en": [
+        "Yes, but it must be a traffic officer.",
+        "Yes – to the nearest practical weighing station.",
+        "Yes, provided the station is within 3 km.",
+        "Yes, but only if the driver lacks a bill of lading."
+      ],
+      "ar": [
+        "نعم، بشرط أن يكون شرطي مرور.",
+        "نعم – لأقرب محطة وزن ممكنة.",
+        "نعم، إذا كانت المحطة ضمن 3 كم.",
+        "نعم، لكن فقط عند عدم وجود بوليصة شحن."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 6
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "id": 51,
+    "text": {
+      "he": "באיזה רכב חייבים להיות \"נעלי ביטחון\"?",
+      "en": "In which vehicle are \"safety shoes\" mandatory?",
+      "ar": "في أي مركبة يجب ارتداء \"أحذية الأمان\"؟"
+    },
+    "options": [
+      {
+        "he": "בכל רכב מנועי שמשקלו הכולל המותר יותר מ-5,000 ק\"ג, פרט לאוטובוס.",
+        "en": "In every motor vehicle with a permissible total weight over 5,000 kg, except for a bus.",
+        "ar": "في كل مركبة ميكانيكية يتجاوز وزنها الإجمالي المسموح به ٥٠٠٠ كجم، باستثناء الحافلة."
+      },
+      {
+        "he": "בכל רכב שמשקלו הכולל המותר עד 3,500 ק\"ג או פחות, פרט לאוטובוס.",
+        "en": "In every vehicle whose permissible total weight is up to 3,500 kg or less, except for a bus.",
+        "ar": "في كل مركبة لا يتجاوز وزنها الإجمالي المسموح به ٣٥٠٠ كجم أو أقل، باستثناء الحافلة."
+      },
+      {
+        "he": "בכל רכב מסחרי בכל משקל, פרט לאוטובוס.",
+        "en": "In every commercial vehicle of any weight, except for a bus.",
+        "ar": "في كل مركبة تجارية بأي وزن، باستثناء الحافلة."
+      },
+      {
+        "he": "בכל רכב שמשקלו הכולל המותר עד 4,000 ק\"ג או פחות, כולל אוטובוס.",
+        "en": "In every vehicle whose permissible total weight is up to 4,000 kg or less, including a bus.",
+        "ar": "في كل مركبة لا يتجاوز وزنها الإجمالي المسموح به ٤٠٠٠ كجم أو أقل، بما في ذلك الحافلة."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "בכל רכב מנועי שמשקלו הכולל המותר יותר מ-5,000 ק\"ג, פרט לאוטובוס.",
+      "en": "In every motor vehicle with a permissible total weight over 5,000 kg, except for a bus.",
+      "ar": "في كل مركبة ميكانيكية يتجاوز وزنها الإجمالي المسموح به ٥٠٠٠ كجم، باستثناء الحافلة."
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 189,
+    "text": {
+      "he": "האם הרשום בשטר המטען מהווה הוכחה למשקלו של המטען?",
+      "en": "Does the weight recorded on the load document constitute proof of the load’s weight?",
+      "ar": "هل يشكّل الوزن المسجل في سند الحمولة دليلًا على وزن الحمولة؟"
+    },
+    "options": [
+      {
+        "he": "כן",
+        "en": "Yes",
+        "ar": "نعم"
+      },
+      {
+        "he": "כן, רק למטענים שמשקלם עד 10,000 ק\"ג לכל היותר",
+        "en": "Yes, only for loads weighing up to 10,000 kg at most",
+        "ar": "نعم، فقط للشحنات التي لا يتجاوز وزنها 10,000 كجم"
+      },
+      {
+        "he": "כן, הצגת משקלו של המטען בשטר המטען מהווה הוכחה לנכונות המשקל בגבולות של 20 אחוזים מעל או מתחת למצוין בשטר",
+        "en": "Yes, stating the load’s weight on the document is proof of accuracy within ±20%",
+        "ar": "نعم، ذكر وزن الحمولة في السند دليل على الدقة ضمن ±20٪"
+      },
+      {
+        "he": "לא, המשקל המצוין בשטר המטען אינו עובדה מוגמרת, מוצקה ומקובלת",
+        "en": "No, the weight stated in the document is not definitive or accepted as fact",
+        "ar": "لا، الوزن المذكور في السند ليس حقيقة نهائية أو مقبولة"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 190,
+    "text": {
+      "he": "מהו הגובה המרבי המותר של רכב שמשקלו הכולל המותר עד 15,000 ק״ג או פחות מזה, יחד עם המטען שעליו?",
+      "en": "What is the maximum permitted height of a vehicle with a gross weight allowance up to 15,000 kg or less, including its load?",
+      "ar": "ما الحد الأقصى المسموح به لارتفاع مركبة الوزن الإجمالي المسموح لها حتى 15,000 كجم أو أقل، بما في ذلك حمولتها؟"
+    },
+    "options": [
+      {
+        "he": "שלושה מטרים וחצי, ועליו להיות יחידה אחת",
+        "en": "Three and a half meters, and it must form a single unit",
+        "ar": "ثلاثة أمتار ونصف، ويجب أن يكون وحدة واحدة"
+      },
+      {
+        "he": "ארבעה מטרים",
+        "en": "Four meters",
+        "ar": "أربعة أمتار"
+      },
+      {
+        "he": "עד 4.40 מטרים",
+        "en": "Up to 4.40 meters",
+        "ar": "حتى 4.40 أمتار"
+      },
+      {
+        "he": "עד 4.80 מטרים",
+        "en": "Up to 4.80 meters",
+        "ar": "حتى 4.80 أمتار"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 195,
+    "text": {
+      "he": "ברכב מסחרי שמשקלו הכולל המותר יותר מ-10,000 ק\"ג יש להחזיק מ-1 בנובמבר בכל שנה:",
+      "en": "In a commercial vehicle with a permitted gross weight over 10,000 kg, as of November 1 each year you must carry:",
+      "ar": "في مركبة تجارية يزيد وزنها الإجمالي المسموح به عن 10,000 كجم، يجب حمل ما يلي اعتبارًا من 1 نوفمبر من كل عام:"
+    },
+    "options": [
+      {
+        "he": "אישור על פעולתה התקינה של מערכת האורות",
+        "en": "Certificate of correct operation of the lighting system",
+        "ar": "شهادة تشغيل نظام الإضاءة بشكل صحيح"
+      },
+      {
+        "he": "אישור שהרכב עבר בדיקת חורף או מבחן רישוי שנתי בחודש אוגוסט או אחריו",
+        "en": "Certificate that the vehicle passed a winter inspection or annual licensing test in August or later",
+        "ar": "شهادة اجتياز المركبة لفحص الشتاء أو اختبار الترخيص السنوي في أغسطس أو بعده"
+      },
+      {
+        "he": "אישור על תקינותה של מערכת ההיגוי",
+        "en": "Certificate of steering system integrity",
+        "ar": "شهادة سلامة نظام التوجيه"
+      },
+      {
+        "he": "אישור כיול מד אוץ (ספידומטר)",
+        "en": "Certificate of speedometer calibration",
+        "ar": "شهادة معايرة عداد السرعة"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 196,
+    "text": {
+      "he": "מהי הסכנה הצפויה בנהיגת רכב משא ארוך?",
+      "en": "What danger is expected when driving a long truck?",
+      "ar": "ما الخطر المتوقع عند قيادة شاحنة طويلة؟"
+    },
+    "options": [
+      {
+        "he": "אין סכנה מיוחדת בנהיגה ברכב ארוך לעומת רכב נוסעים פרטי",
+        "en": "No special danger compared to a private passenger car",
+        "ar": "لا يوجد خطر خاص مقارنة بسيارة ركاب خاصة"
+      },
+      {
+        "he": "חוסר אפשרות לבצע פנייה שמאלה בבטחה",
+        "en": "Inability to make a safe left turn",
+        "ar": "عدم القدرة على الانعطاف يسارًا بأمان"
+      },
+      {
+        "he": "הימצאותם של כלי רכב קטנים ב\"שטחים המתים\" וקושי בפניות חדות",
+        "en": "Small vehicles in blind spots and difficulty making sharp turns",
+        "ar": "وجود مركبات صغيرة في النقاط العمياء وصعوبة الانعطاف الحاد"
+      },
+      {
+        "he": "זמן התגובה של הנהג ארוך יותר",
+        "en": "The driver’s reaction time is longer",
+        "ar": "زمن استجابة السائق أطول"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 197,
+    "text": {
+      "he": "חובה להחזיק שתי נעלי ביטחון ברכב מסחרי שמשקלו הכולל המותר יותר מ:",
+      "en": "It is mandatory to carry two safety shoes in a commercial vehicle whose permitted gross weight exceeds:",
+      "ar": "من الضروري حمل حذاءين أمان في مركبة تجارية وزنها الإجمالي المسموح به أكثر من:"
+    },
+    "options": [
+      {
+        "he": "5,000 ק\"ג",
+        "en": "5,000 kg",
+        "ar": "5000 كجم"
+      },
+      {
+        "he": "4,000 ק\"ג",
+        "en": "4,000 kg",
+        "ar": "4000 كجم"
+      },
+      {
+        "he": "3,000 ק\"ג",
+        "en": "3,000 kg",
+        "ar": "3000 كجم"
+      },
+      {
+        "he": "2,500 ק\"ג",
+        "en": "2,500 kg",
+        "ar": "2500 كجم"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 201,
+    "text": {
+      "he": "לאיזה תקופה יינתן רישיון מוביל?",
+      "en": "For what period is a carrier’s license issued?",
+      "ar": "لمدة كم يُمنح ترخيص الناقل؟"
+    },
+    "options": [
+      {
+        "he": "התקופה תלויה בסוג המטען",
+        "en": "Period depends on the type of cargo",
+        "ar": "تعتمد المدة على نوع الحمولة"
+      },
+      {
+        "he": "לשנה אחת",
+        "en": "For one year",
+        "ar": "لسنة واحدة"
+      },
+      {
+        "he": "לחמש שנים",
+        "en": "For five years",
+        "ar": "لخمس سنوات"
+      },
+      {
+        "he": "עד לחידוש רישיון הרכב",
+        "en": "Until vehicle license renewal",
+        "ar": "حتى تجديد رخصة المركبة"
+      }
+    ],
+    "correctOptionIndex": 1,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 203,
+    "text": {
+      "he": "הורה שוטר לנוהג ברכב להביאו לשקילה, על מי יחולו הוצאות השקילה אם המשקל חורג מהמותר?",
+      "en": "If an officer orders a driver to weigh the vehicle, who bears the weighing costs if the weight exceeds the limit?",
+      "ar": "إذا أمر الشرطي السائق بوزن المركبة، من يتحمل تكاليف الوزن إذا تجاوز الوزن المسموح؟"
+    },
+    "options": [
+      {
+        "he": "על הנהג, אבל משרד התמ\"ת נותן החזר של 50 אחוזים אם המשקל היה כחוק",
+        "en": "The driver bears it, but the Ministry reimburses 50% if legal",
+        "ar": "السائق يتحمل التكلفة، لكن الوزارة تعيده 50٪ إذا كان الوزن قانوني"
+      },
+      {
+        "he": "על השוטר",
+        "en": "The officer",
+        "ar": "الشرطي"
+      },
+      {
+        "he": "על מדינת ישראל",
+        "en": "The State of Israel",
+        "ar": "دولة إسرائيل"
+      },
+      {
+        "he": "על הנוהג ברכב",
+        "en": "The vehicle operator",
+        "ar": "قائد المركبة"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 213,
+    "text": {
+      "he": "לאחר כמה שעות מנוחה רשאי נהג רכב משא שמשקלו הכולל המותר 10,000 ק\"ג או יותר להתחיל בעבודתו?",
+      "en": "After how many hours of rest may a truck driver with a gross weight allowance of 10,000 kg or more resume work?",
+      "ar": "بعد كم ساعة راحة يحق لسائق شاحنة وزنها الإجمالي المسموح 10,000 كجم أو أكثر استئناف عمله؟"
+    },
+    "options": [
+      {
+        "he": "לאחר מנוחה רצופה של ארבע שעות",
+        "en": "After a continuous rest of four hours",
+        "ar": "بعد راحة متصلة لمدة أربع ساعات"
+      },
+      {
+        "he": "לאחר מנוחה רצופה של חמש שעות",
+        "en": "After a continuous rest of five hours",
+        "ar": "بعد راحة متصلة لمدة خمس ساعات"
+      },
+      {
+        "he": "לאחר מנוחה רצופה של שש שעות",
+        "en": "After a continuous rest of six hours",
+        "ar": "بعد راحة متصلة لمدة ست ساعات"
+      },
+      {
+        "he": "לאחר מנוחה רצופה של שבע שעות",
+        "en": "After a continuous rest of seven hours",
+        "ar": "بعد راحة متصلة لمدة سبع ساعات"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 237,
+    "text": {
+      "he": "האורך הכולל המותר של רכב משא לא יהיה יותר מ?",
+      "en": "The maximum permitted overall length of a truck must not exceed?",
+      "ar": "يجب ألا يتجاوز الطول الإجمالي المسموح به للشاحنة؟"
+    },
+    "options": [
+      {
+        "he": "12 מטרים",
+        "en": "12 meters",
+        "ar": "12 مترًا"
+      },
+      {
+        "he": "11 מטרים",
+        "en": "11 meters",
+        "ar": "11 مترًا"
+      },
+      {
+        "he": "12.5 מטרים",
+        "en": "12.5 meters",
+        "ar": "12.5 مترًا"
+      },
+      {
+        "he": "10 מטרים",
+        "en": "10 meters",
+        "ar": "10 أمتار"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 241,
+    "text": {
+      "he": "מטען חורג הבולט מאחורי הרכב יש לסמן:",
+      "en": "An overhanging load behind the vehicle must be marked with:",
+      "ar": "يجب تعليم الحمولة البارزة خلف المركبة ب:"
+    },
+    "options": [
+      {
+        "he": "משולש לבן מחזיר אור שכל אחת מצלעותיו באורך 60 ס\"מ",
+        "en": "A white reflective triangle with 60 cm sides",
+        "ar": "مثلث عاكس أبيض بطول ضلع 60 سم"
+      },
+      {
+        "he": "בדגל לבן הקשור לקצהו הבולט של המטען",
+        "en": "A white flag tied to the protruding end",
+        "ar": "علم أبيض مربوط بنهاية الحمولة البارزة"
+      },
+      {
+        "he": "משולש אדום מחזיר אור שכל אחת מצלעותיו באורך 60 ס\"מ",
+        "en": "A red reflective triangle with 60 cm sides",
+        "ar": "مثلث عاكس أحمر بطول ضلع 60 سم"
+      },
+      {
+        "he": "בדגל אדום הקשור לקצהו הבולט של המטען",
+        "en": "A red flag tied to the protruding end",
+        "ar": "علم أحمر مربوط بنهاية الحمولة البارزة"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 246,
+    "text": {
+      "he": "לפי התקנה על שעות הנהיגה, האם טיפול במטען נחשב “נהיגה”?",
+      "en": "According to driving-time regulations, is cargo handling considered “driving”?",
+      "ar": "وفقًا لتنظيم ساعات القيادة، هل يعتبر التعامل مع الحمولة “قيادة”؟"
+    },
+    "options": [
+      {
+        "he": "כן – אבל לא יותר משעה ביום",
+        "en": "Yes – but not more than one hour per day",
+        "ar": "نعم – ولكن لا تزيد عن ساعة واحدة في اليوم"
+      },
+      {
+        "he": "לא. כל הפעולות הקשורות ברכב, למעט הפסקות והמתנות, אינן נחשבות לנהיגה",
+        "en": "No. All vehicle-related tasks, except breaks, are not considered driving",
+        "ar": "لا. جميع الأنشطة المتعلقة بالمركبة، باستثناء الاستراحات، لا تُعتبر قيادة"
+      },
+      {
+        "he": "כן. טיפול במטען נחשב לשעות נהיגה על פי החוק",
+        "en": "Yes. Cargo handling counts as driving hours by law",
+        "ar": "نعم. يعتبر التعامل مع الحمولة ساعات قيادة بموجب القانون"
+      },
+      {
+        "he": "לא. נהיגה היא רק נהיגה בפועל ולא כל פעולה אחרת הקשורה ברכב",
+        "en": "No. Driving is only actual driving, not other vehicle-related tasks",
+        "ar": "لا. القيادة هي القيادة الفعلية فقط وليس أي نشاط آخر متعلق بالمركبة"
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 267,
+    "text": {
+      "he": "צמיגים המורכבים על אותו סרן ברכב חייבים להיות:",
+      "en": "Tyres mounted on the same axle must be:",
+      "ar": "يجب أن تكون الإطارات المركّبة على نفس المحور:"
+    },
+    "options": {
+      "he": [
+        "תמיד מאותו תאריך ייצור.",
+        "בעלי מידה שווה בהתאם להוראות יצרן הרכב.",
+        "בעלי אותו הצבע.",
+        "מאותו יצרן."
+      ],
+      "en": [
+        "Always of the same production date.",
+        "Of identical size, as specified by the vehicle manufacturer.",
+        "Of the same colour.",
+        "From the same manufacturer."
+      ],
+      "ar": [
+        "دائمًا من نفس تاريخ الإنتاج.",
+        "بالمقاس ذاته وفق تعليمات الصانع.",
+        "بنفس اللون.",
+        "من نفس الشركة المصنّعة."
+      ]
+    },
+    "correctOptionIndex": 1,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 276,
+    "text": {
+      "he": "מה אחריות בעל השליטה ברכב לגבי שעות העבודה והמנוחה של הנהג?",
+      "en": "What is the responsibility of the person in control of the vehicle regarding the driver's working and rest hours?",
+      "ar": "ما مسؤولية صاحب السيطرة على المركبة فيما يخص ساعات عمل السائق وراحته؟"
+    },
+    "options": {
+      "he": [
+        "בעל השליטה רשאי, באישור קצין בטיחות, לאפשר לנהג לחרוג מהשעות המותרות.",
+        "קצין בטיחות רשאי לשנות את השעות ללא קשר לחוק.",
+        "בעל השליטה אינו אחראי – האחריות על הנהג בלבד.",
+        "בעל השליטה לא ירשה נהיגה מעבר לשעות שנקבעו בחוק."
+      ],
+      "en": [
+        "The controller may, with the safety officer's approval, allow the driver to exceed the legal hours.",
+        "A safety officer may change the hours regardless of the law.",
+        "The controller is not responsible; the driver alone is liable.",
+        "The controller must not allow driving beyond the hours set by law."
+      ],
+      "ar": [
+        "يجوز لصاحب السيطرة، بموافقة ضابط السلامة، أن يسمح للسائق بتجاوز الساعات المسموح بها.",
+        "يجوز لضابط السلامة تغيير الساعات بغض النظر عن القانون.",
+        "صاحب السيطرة غير مسؤول؛ المسؤولية تقع على السائق فقط.",
+        "لا يجوز لصاحب السيطرة السماح بالقيادة خارج الساعات التي يحددها القانون."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 277,
+    "text": {
+      "he": "איזה רכב משא חייב בהתקנת בלמנוע?",
+      "en": "Which truck must be fitted with an engine brake?",
+      "ar": "أي شاحنة يجب أن تُزوّد بفرملة محرك (ريتארدر)؟"
+    },
+    "options": {
+      "he": [
+        "רכב משא שמשקלו הכולל המותר 5,000 ק\"ג ומעלה.",
+        "רכב משא שמשקלו הכולל המותר 4,000 ק\"ג ומעלה.",
+        "רכב משא שמשקלו הכולל המותר 6,000 ק\"ג ומעלה.",
+        "רכב משא עם מנוע דיזל שמשקלו הכולל המותר 8,000 ק\"ג ומעלה."
+      ],
+      "en": [
+        "A truck with a GVW of 5,000 kg or more.",
+        "A truck with a GVW of 4,000 kg or more.",
+        "A truck with a GVW of 6,000 kg or more.",
+        "A diesel-engined truck with a GVW of 8,000 kg or more."
+      ],
+      "ar": [
+        "شاحنة وزنها الإجمالي المسموح 5,000 كغم فأكثر.",
+        "شاحنة وزنها الإجمالي المسموح 4,000 كغم فأكثر.",
+        "شاحنة وزنها الإجمالي المسموح 6,000 كغم فأكثر.",
+        "شاحنة بمحرك ديزل وزنها الإجمالي المسموح 8,000 كغم فأكثر."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 294,
+    "text": {
+      "he": "נעלי ביטחון חובה:",
+      "en": "Safety shoes are mandatory:",
+      "ar": "حذاء الأمان إلزامي:"
+    },
+    "options": {
+      "he": [
+        "רק לרכב גורר ותומך.",
+        "בכל רכב מעל 5,000 ק\"ג.",
+        "בכל רכב מעל 4,000 ק\"ג פרט לאוטובוס ומסחרי אחוד.",
+        "בכל רכב מעל 5,000 ק\"ג פרט לאוטובוס."
+      ],
+      "en": [
+        "Only for tractor-semitrailers.",
+        "In any vehicle with GVW over 5,000 kg.",
+        "In any vehicle with GVW over 4,000 kg except buses and rigid trucks.",
+        "In any vehicle with GVW over 5,000 kg except a bus."
+      ],
+      "ar": [
+        "فقط لمركبة مقطورة وشبه مقطورة.",
+        "في كل مركبة وزنها الإجمالي المسموح أكثر من 5,000 كغم.",
+        "في كل مركبة وزنها الإجمالي المسموح أكثر من 4,000 كغم ما عدا الحافلة والشاحنة الموحدة.",
+        "في كل مركبة وزنها الإجمالي المسموح أكثر من 5,000 كغم ما عدا الحافلة."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 305,
+    "text": {
+      "he": "חובת נוהג ברכב מעל 3,500 ק\"ג בעת העמדתו בזמן תאורה בדרך לא-עירונית:",
+      "en": "Duty of a driver of a vehicle over 3,500 kg when stopping during lighting hours on a non-urban road:",
+      "ar": "واجب سائق مركبة وزنها أكثر من 3,500 كغم عند إيقافها في «وقت إنارة» بطريق غير حضري:"
+    },
+    "options": {
+      "he": [
+        "להציב משולש אזהרה תמיד ולהפעיל ארבעת מחווני הכיוון או להציב פנס נייד.",
+        "להציב משולש ולהפעיל מחוון ימני.",
+        "להפעיל ארבעת מחווני הכיוון ולהדליק אורות רוחב.",
+        "להפעיל ארבעת מחווני הכיוון ולהציב פנס נייד."
+      ],
+      "en": [
+        "Always place a warning triangle and switch on the four hazard indicators or place a portable lamp.",
+        "Place a triangle and activate the right indicator.",
+        "Switch on all four indicators and width lamps.",
+        "Switch on all four indicators and place a portable lamp."
+      ],
+      "ar": [
+        "وضع مثلث تحذير دائماً وتشغيل الغمازات الأربعة أو وضع مصباح متنقل.",
+        "وضع مثلث وتشغيل المؤشر الأيمن.",
+        "تشغيل الغمازات الأربعة وأضواء العرض.",
+        "تشغيل الغمازات الأربعة ووضع مصباح متنقل."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 308,
+    "text": {
+      "he": "כיצד מסמנים מטען הבולט מעבר לחלקו הקדמי של הרכב?",
+      "en": "How is a load projecting beyond the front of a vehicle marked?",
+      "ar": "كيف يُعلَّم حمولة بارزة من مقدمة المركبة؟"
+    },
+    "options": {
+      "he": [
+        "משולש מחזיר-אור אדום בקצה.",
+        "פנס ודגל לבן/צהוב בקצה.",
+        "פנס ודגל אדום בקצה.",
+        "משולש מחזיר-אור לבן בקצה."
+      ],
+      "en": [
+        "A red reflective triangle at the projecting end.",
+        "A lamp and white or yellow flag at the end.",
+        "A lamp and red flag at the end.",
+        "A white reflective triangle at the end."
+      ],
+      "ar": [
+        "مثلث عاكس أحمر في الطرف.",
+        "مصباح وعلم أبيض/أصفر في الطرف.",
+        "مصباح وعلم أحمر في الطرف.",
+        "مثلث عاكس أبيض في الطرف."
+      ]
+    },
+    "correctOptionIndex": 3,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  },
+  {
+    "id": 345,
+    "text": {
+      "he": "על רכב טעון \"חומר מסוכן\" – מהו המרחק המזערי מבניין מגורים שמותר להחנותו?",
+      "en": "For a vehicle carrying dangerous goods, what is the minimum distance from a dwelling where parking is allowed?",
+      "ar": "بالنسبة لمركبة محمّلة بمواد خطرة، ما أقل مسافة مسموح بها عن مبنى سكني عند الوقوف؟"
+    },
+    "options": {
+      "he": [
+        "400 מ׳.",
+        "200 מ׳.",
+        "300 מ׳ עם מטען; 50 מ׳ בלי מטען.",
+        "לפחות 50 מ׳."
+      ],
+      "en": [
+        "400 m.",
+        "200 m.",
+        "300 m when loaded; 50 m when empty.",
+        "At least 50 m."
+      ],
+      "ar": [
+        "400 م.",
+        "200 م.",
+        "300 م عند وجود حمولة؛ 50 م دون حمولة.",
+        "50 م على الأقل."
+      ]
+    },
+    "correctOptionIndex": 0,
+    "explanation": "",
+    "isImportant": true,
+    "categoryId": 8
+  }
+]

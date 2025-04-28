@@ -1,0 +1,313 @@
+[
+  {
+    "id": 128,
+    "text": {
+      "he": "מהו רכב מסחרי על פי חוק שירותי הובלה?",
+      "en": "What is a commercial vehicle according to the Transport Services Law?",
+      "ar": "ما هي المركبة التجارية حسب قانون خدمات النقل؟"
+    },
+    "options": [
+      {
+        "he": "רכב שמשקלו הכולל המותר 10,000  ק״ג  או יותר ורכב המוביל חומרים מסוכנים בכל משקל.",
+        "en": "A vehicle with a permissible total weight of 10,000 kg or more, and any vehicle carrying hazardous materials of any weight.",
+        "ar": "مركبة وزنها الإجمالي المسموح 10,000 كجم أو أكثر وأي مركبة تنقل مواد خطرة بأي وزن."
+      },
+      {
+        "he": "רכב מסחרי המשמש להובלה בשכר בלבד.",
+        "en": "A commercial vehicle used solely for transport for hire.",
+        "ar": "مركبة تجارية تستخدم للنقل بأجر فقط."
+      },
+      {
+        "he": "רכב מסחרי כהגדרתו בחוק וניתן לו היתר להובלת סחורה והסעת נוסעים.",
+        "en": "A commercial vehicle as defined by law that is permitted to carry goods and passengers.",
+        "ar": "مركبة تجارية كما يعرفها القانون وحصلت على تصريح لنقل البضائع والركاب."
+      },
+      {
+        "he": "רכב המשמש להסעת נוסעים בלבד.",
+        "en": "A vehicle used only for transporting passengers.",
+        "ar": "مركبة تستخدم لنقل الركاب فقط."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5
+  },
+  {
+    "id": 136,
+    "text": {
+      "he": "איזה תמרור מגביל כניסת רכב עם או בלי מטען גבוה ?",
+      "en": "Which road sign restricts the entry of a vehicle with or without high cargo?",
+      "ar": "أي إشارة مرور تُقيّد دخول مركبة ذات حمولة عالية أو بدونها؟"
+    },
+    "options": [
+      {
+        "he": "417",
+        "en": "417",
+        "ar": "417"
+      },
+      {
+        "he": "145",
+        "en": "145",
+        "ar": "145"
+      },
+      {
+        "he": "150",
+        "en": "150",
+        "ar": "150"
+      },
+      {
+        "he": "416",
+        "en": "416",
+        "ar": "416"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 45
+  },
+  {
+    "id": 136,
+    "text": {
+      "he": "איזה תמרור מגביל כניסת רכב עם או בלי מטען גבוה ?",
+      "en": "Which road sign restricts the entry of a vehicle with or without high cargo?",
+      "ar": "أي إشارة مرور تُقيّد دخول مركبة ذات حمولة عالية أو بدونها؟"
+    },
+    "options": [
+      {
+        "he": "417",
+        "en": "417",
+        "ar": "417"
+      },
+      {
+        "he": "145",
+        "en": "145",
+        "ar": "145"
+      },
+      {
+        "he": "150",
+        "en": "150",
+        "ar": "150"
+      },
+      {
+        "he": "416",
+        "en": "416",
+        "ar": "416"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 45
+  },
+  {
+    "id": 180,
+    "text": {
+      "he": "כיצד יש לנהוג בקטע הדרך במקום שבו מוצב התמרור?",
+      "en": "How should you drive on a road section where this sign is posted?",
+      "ar": "كيف يجب القيادة في مقطع طريق توجد فيه هذه الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "יש לנהוג על פי כללי מתן זכות קדימה ועל פי התמרורים המוצבים בצומת.",
+        "en": "Follow the usual right‑of‑way rules and the junction signs.",
+        "ar": "اتباع قواعد حق الأولوية المعتادة والإشارات في التقاطع."
+      },
+      {
+        "he": "יש לעצור תמיד לפני הצומת ולתת זכות קדימה לכלי הרכב הבאים מימין ומתכוונים לפנות שמאלה.",
+        "en": "Always stop before the junction and yield to vehicles from the right that intend to turn left.",
+        "ar": "يجب التوقف دائمًا قبل التقاطع وإعطاء الأولوية للمركبات القادمة من اليمين التي تنوي الانعطاف يسارًا."
+      },
+      {
+        "he": "יש להאט ולתת זכות קדימה לכלי הרכב המתקרבים אל הצומת ממול.",
+        "en": "Slow down and yield to vehicles approaching the junction from opposite.",
+        "ar": "يجب التمهل وإعطاء حق الأولوية للمركبات القادمة من المقابل إلى التقاطع."
+      },
+      {
+        "he": "הנוסע ישר ימשיך בנסיעתו ויוודא כי כלי הרכב המתקרבים אל הכביש הישר נותנים לו זכות קדימה.",
+        "en": "Drivers going straight continue and make sure traffic entering from the side yields.",
+        "ar": "من يسير إلى الأمام يواصل سيره ويتأكد أن المركبات الداخلة تعطيه أولوية."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 62
+  },
+  {
+    "id": 181,
+    "text": {
+      "he": "מה ההבדל בין התמרורים?",
+      "en": "What is the difference between these signs?",
+      "ar": "ما الفرق بين هاتين الإشارتين؟"
+    },
+    "options": [
+      {
+        "he": "תמרור 146 מזהיר מפני חיות בר בדרך. תמרור 411 אוסר כניסה של בעלי חיים.",
+        "en": "Sign 146 warns of wild animals ahead; Sign 411 prohibits entry of animals.",
+        "ar": "الإشارة 146 تحذر من حيوانات برية في الطريق؛ الإشارة 411 تمنع دخول الحيوانات."
+      },
+      {
+        "he": "תמרור 146 אוסר כניסה של בעלי חיים. תמרור 411 מזהיר מפני חיות בדרך.",
+        "en": "Sign 146 prohibits animals; Sign 411 warns of animals ahead.",
+        "ar": "الإشارة 146 تمنع دخول الحيوانات؛ الإشارة 411 تحذر من حيوانات في الطريق."
+      },
+      {
+        "he": "שני התמרורים שייכים לקבוצת תמרורי מודיעין ומזהירים את הנהג מפני בעלי חיים שונים בדרך.",
+        "en": "Both belong to the information group and warn of various animals.",
+        "ar": "كلتاهما من مجموعة إشارات الإرشاد وتنبه السائق لوجود حيوانات."
+      },
+      {
+        "he": "שני התמרורים שייכים לקבוצת תמרורי הוריה ומזהירים את הנהג מפני בעלי חיים שונים בדרך.",
+        "en": "Both belong to the regulation group and warn of animals.",
+        "ar": "كلتاهما من مجموعة إشارات التنظيم وتنبه السائق لحيوانات."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 63
+  },
+  {
+    "id": 182,
+    "text": {
+      "he": "איזה תמרור פירושו: מחסום לפני מפגש מסילת ברזל?",
+      "en": "Which sign means: barrier before a railway crossing?",
+      "ar": "أي إشارة تعني: حاجز قبل معبر سكة حديد؟"
+    },
+    "options": [
+      {
+        "he": "511",
+        "en": "511",
+        "ar": "511"
+      },
+      {
+        "he": "403",
+        "en": "403",
+        "ar": "403"
+      },
+      {
+        "he": "113",
+        "en": "113",
+        "ar": "113"
+      },
+      {
+        "he": "404",
+        "en": "404",
+        "ar": "404"
+      }
+    ],
+    "correctOptionIndex": 3,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 64
+  },
+  {
+    "id": 183,
+    "text": {
+      "he": "מה משמעות התמרור?",
+      "en": "What is the meaning of the sign?",
+      "ar": "ما معنى الإشارة؟"
+    },
+    "options": [
+      {
+        "he": "ההודעה שמעל לתמרור או מתחתיו מיועדת לפונה בכיוון החץ בלבד.",
+        "en": "The message above or below the sign applies only to traffic turning in the arrow direction.",
+        "ar": "الرسالة فوق الإشارة أو أسفلها مخصصة لمن ينعطف في اتجاه السهم فقط."
+      },
+      {
+        "he": "הפנייה ימינה היא לכביש חד‑סטרי.",
+        "en": "The right turn leads into a one‑way street.",
+        "ar": "الانعطاف يمينًا يؤدي إلى طريق أحادي الاتجاه."
+      },
+      {
+        "he": "הפנייה ימינה אסורה.",
+        "en": "Right turn is prohibited.",
+        "ar": "الانعطاف يمينًا ممنوع."
+      },
+      {
+        "he": "הפנייה ימינה מותרת לרכב איטי בלבד.",
+        "en": "Right turn allowed for slow vehicles only.",
+        "ar": "التفاف يمين مسموح للمركبات البطيئة فقط."
+      }
+    ],
+    "correctOptionIndex": 0,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 65
+  },
+  {
+    "id": 202,
+    "text": {
+      "he": "מה ההבדל בין התמרורים?",
+      "en": "What is the difference between the signs?",
+      "ar": "ما الفرق بين هاتين الإشارتين؟"
+    },
+    "options": [
+      {
+        "he": "אין הבדל ביניהם",
+        "en": "There is no difference",
+        "ar": "لا يوجد فرق"
+      },
+      {
+        "he": "תמרור 306 מזהיר על התקרבות למעבר חצייה; תמרור 135 מסמן את מקום המעבר",
+        "en": "Sign 306 warns of an approaching pedestrian crossing; Sign 135 marks its location",
+        "ar": "الإشارة 306 تحذر من اقتراب معبر للمشاة؛ الإشارة 135 تشير إلى موقعه"
+      },
+      {
+        "he": "תמרור 135מזהיר על התקרבות למעבר חצייה; תמרור 306 מסמן את מקום המעבר",
+        "en": "Sign 135 warns of an approaching crossing; Sign 306 marks its location",
+        "ar": "الإشارة 135 تحذر من اقتراب معبر؛ الإشارة 306 تشير إلى موقعه"
+      },
+      {
+        "he": "תמרור 135 מוצב בדרך שאינה עירונית, תמרור 306 מוצב בדרך מהירה",
+        "en": "Sign 135 is on non-urban roads, Sign 306 on highways",
+        "ar": "الإشارة 135 على طرق غير حضرية، الإشارة 306 على الطرق السريعة"
+      }
+    ],
+    "correctOptionIndex": 2,
+    "explanation": {
+      "he": "",
+      "en": "",
+      "ar": ""
+    },
+    "isImportant": true,
+    "categoryId": 5,
+    "relatedSignId": 71
+  }
+]

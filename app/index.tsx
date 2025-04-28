@@ -6,14 +6,16 @@ import { Ionicons } from '@expo/vector-icons';
 import { } from '@expo/vector-icons'; // adjust path
 import { useLanguage } from '../context/LanguageContext'; // adjust path
 import { Header } from '../components/ui/Header'; // adjust path
+import { useVehicle } from '../context/VehicleContext'; // adjust path
 
 export default function VehicleSelectionScreen() {
   const router = useRouter();
   const { t, language } = useLanguage();  // <-- Pull language as well (even if not using)
-
+  const { setVehicleType } = useVehicle();
   const handleVehicleSelect = (type: 'B' | 'C') => {
+    setVehicleType(type);
     console.log('Selected vehicle type:', type);
-    router.push('/'); // Navigate to vehicle details screen
+    router.push('/HomeScreen'); // Navigate to vehicle details screen
   };
 
   return (

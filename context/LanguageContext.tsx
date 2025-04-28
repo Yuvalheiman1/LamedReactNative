@@ -64,6 +64,10 @@ interface Translations {
     carDescription: string;
     truckDescription: string;
     noQuestionsAvailable: string;
+    roadSigns: string;
+    trafficRules: string;
+    vehicleControl: string;
+    safety: string;
   // (rest of your keys stay the same)
 }
 
@@ -129,6 +133,10 @@ const translations: Record<Language, Translations> = {
         carDescription: 'מתאים לנהיגה ברכב פרטי עד 3,500 ק"ג, כולל תיאוריה ומבחן מעשי',
         truckDescription: 'מתאים לנהיגה במשאיות מעל 3,500 ק"ג, כולל תיאוריה מורחבת ומבחן מעשי',
         noQuestionsAvailable: 'אין שאלות זמינות',
+        roadSigns: 'תמרורי דרך',
+        trafficRules: 'חוקי תנועה',
+        vehicleControl: 'שליטת רכב',
+        safety: 'בטיחות',
       },
       en: {
         mainTitle: 'Driving Theory',
@@ -190,6 +198,10 @@ const translations: Record<Language, Translations> = {
         carDescription: 'Suitable for driving private vehicles up to 3,500kg, includes theory and practical test',
         truckDescription: 'Suitable for driving trucks over 3,500kg, includes extended theory and practical test',
         noQuestionsAvailable: 'No questions available',
+        roadSigns: 'Road Signs',
+        trafficRules: 'Traffic Rules',
+        vehicleControl: 'Vehicle Control',
+        safety: 'Safety',
       },
       ar: {
         mainTitle: 'نظرية القيادة',
@@ -251,6 +263,10 @@ const translations: Record<Language, Translations> = {
         carDescription: 'مناسبة لقيادة المركبات الخاصة حتى 3,500 كجم، تشمل النظري والاختبار العملي',
         truckDescription: 'مناسبة لقيادة الشاحنات أكثر من 3,500 كجم، تشمل النظري الموسع والاختبار العملي',
         noQuestionsAvailable: 'لا توجد أسئلة متاحة',
+        roadSigns: 'علامات الطريق',
+        trafficRules: 'قواعد المرور',
+        vehicleControl: 'السيطرة على المركبة',
+        safety: 'السلامة',
       }
 };
 
