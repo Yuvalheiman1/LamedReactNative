@@ -1,43 +1,45 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { View, Text, Pressable, ScrollView } from 'react-native';
 import { useRouter } from 'expo-router';
 import tw from 'twrnc';
 import { Header } from '../components/ui/Header';
 import { useSimulation } from '../context/SimulationContext';
 import { useLanguage } from '../context/LanguageContext';
-import { Ionicons } from '@expo/vector-icons';
 
 export default function SimulationScreen() {
-  const { questions, currentQuestionIndex, userAnswers, answerQuestion, goToNextQuestion, goToPreviousQuestion, finishSimulation } = useSimulation();
-  const { t } = useLanguage(); 
+  const {
+    questions,
+    currentQuestionIndex,
+    userAnswers,
+    simulationStarted,
+    simulationFinished,
+    timer,
+    answerQuestion,
+    goToNextQuestion,
+    goToPreviousQuestion,
+    finishSimulation,
+  } = useSimulation();
+  const { t, language } = useLanguage();
   const router = useRouter();
-
-  const [timer, setTimer] = useState(1800); // 10 minutes simulation (600 seconds)
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setTimer(prev => {
-        if (prev <= 1) {
-          clearInterval(interval);
-          handleFinish();
-          return 0;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-
-    return () => clearInterval(interval);
-  }, []);
 
   const currentQuestion = questions[currentQuestionIndex];
 
+  useEffect(() => {
+    if (!simulationStarted) {
+      // If user somehow comes here without starting simulation
+      router.replace('/');
+    }
+  }, [simulationStarted]);
+
+  useEffect(() => {
+    if (simulationFinished) {
+      // Redirect to results screen after finishing
+      router.replace('/SimulationResultsScreen');
+    }
+  }, [simulationFinished]);
+
   const handleSelectOption = (index: number) => {
     answerQuestion(index);
-  };
-
-  const handleFinish = () => {
-    finishSimulation();
-    router.push('/'); // (Create Results page soon!)
   };
 
   const formatTime = (seconds: number) => {
@@ -49,7 +51,7 @@ export default function SimulationScreen() {
   if (!currentQuestion) {
     return (
       <View style={tw`flex-1 items-center justify-center bg-gray-100`}>
-        <Text style={tw`text-lg text-gray-600`}>No simulation questions loaded!</Text>
+        <Text style={tw`text-lg text-gray-600`}>{t('noQuestionsAvailable')}</Text>
       </View>
     );
   }
@@ -58,7 +60,8 @@ export default function SimulationScreen() {
     <View style={tw`flex-1 bg-gray-100`}>
       <Header title={t('mainTitle')} showBackButton={true} />
       <View style={tw`flex-row justify-between items-center px-4 py-2 bg-blue-500`}>
-        <Text style={tw`text-white font-bold text-xl`}>  {t('question')} {currentQuestionIndex + 1} {t('of')} {questions.length}
+        <Text style={tw`text-white font-bold text-xl`}>
+          {t('question')} {currentQuestionIndex + 1} {t('of')} {questions.length}
         </Text>
         <Text style={tw`text-white text-lg`}>{formatTime(timer)}</Text>
       </View>
@@ -66,17 +69,17 @@ export default function SimulationScreen() {
       <ScrollView contentContainerStyle={tw`p-6`}>
         <View style={tw`bg-white p-6 rounded-lg mb-6 shadow`}>
           <Text style={tw`text-xl font-bold text-gray-800 mb-4`}>
-            {currentQuestion.text}
+            {currentQuestion.text[language]}
           </Text>
 
-          {currentQuestion.options.map((option, index) => (
+          {Array.isArray(currentQuestion.options) && currentQuestion.options.map((option, index) => (
             <Pressable
               key={index}
               onPress={() => handleSelectOption(index)}
-              style={tw`${userAnswers[currentQuestionIndex] === index ? 'bg-blue-500' : 'bg-gray-100'} p-4 rounded-lg mb-4`}
+              style={tw`${userAnswers[currentQuestionIndex] === index ? 'bg-blue-500' : 'bg-gray-200'} p-4 rounded-lg mb-4`}
             >
               <Text style={tw`${userAnswers[currentQuestionIndex] === index ? 'text-white' : 'text-gray-700'} text-lg`}>
-                {option}
+                {option[language]}
               </Text>
             </Pressable>
           ))}
@@ -104,7 +107,7 @@ export default function SimulationScreen() {
             </Pressable>
           ) : (
             <Pressable
-              onPress={handleFinish}
+              onPress={finishSimulation}
               style={tw`bg-green-500 px-6 py-3 rounded-lg`}
             >
               <Text style={tw`text-white font-bold`}>

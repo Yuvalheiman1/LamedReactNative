@@ -3,15 +3,17 @@ import { View, Text, Pressable, ScrollView } from 'react-native';
 import { useRouter } from 'expo-router';
 import tw from 'twrnc';
 import { Ionicons } from '@expo/vector-icons';
-import { Header } from '../components/ui/Header'; // adjust if needed
-import { useLanguage } from '../context/LanguageContext'; // adjust if needed
+import { Header } from '../components/ui/Header';
+import { useLanguage } from '../context/LanguageContext';
+import { useVehicle } from '../context/VehicleContext'; // adjust path
 
-export default function CategoriesScreen() {
+export default function StudyCategoriesScreen() {
   const router = useRouter();
   const { t } = useLanguage();
+  const { vehicleType } = useVehicle(); // ✅ Get vehicleType from VehicleContext
 
-  // For now, simple hardcoded categories
   const categories = [
+    { id: 0, title: t('allCategories'), icon: 'apps-outline' },
     { id: 1, title: t('roadSigns'), icon: 'warning-outline' },
     { id: 2, title: t('trafficRules'), icon: 'car-sport-outline' },
     { id: 3, title: t('vehicleControl'), icon: 'speedometer-outline' },
@@ -19,13 +21,19 @@ export default function CategoriesScreen() {
   ];
 
   const handleCategorySelect = (id: number) => {
-    console.log('Selected category ID:', id);
-    router.push(`/category/${id}`); // Navigate to questions page for this category (we'll build later)
+    if (!vehicleType) {
+      console.error('Vehicle type is not set in VehicleContext');
+      return;
+    } // Ensure vehicleType is defined
+    router.push({
+      pathname: "/study/[vehicleType]/[categoryId]",
+      params: { vehicleType, categoryId: id.toString() }
+    });
   };
 
   return (
     <View style={tw`flex-1 bg-gray-100`}>
-      <Header title={t('selectCategory')} showBackButton={true} />
+      <Header title={t('chooseCategory')} showBackButton={true} />
 
       <ScrollView contentContainerStyle={tw`p-6`}>
         {categories.map((cat) => (

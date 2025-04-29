@@ -5,8 +5,8 @@ import tw from 'twrnc';
 import { Ionicons } from '@expo/vector-icons';
 import { useLanguage } from '../context/LanguageContext'; // adjust path
 import { Header } from '../components/ui/Header'; // adjust path
-
 import { useSimulation } from '../context/SimulationContext'; // ✅ Import simulation context
+import { useVehicle} from '../context/VehicleContext';
 
 
 // export default function HomeScreen() {
@@ -24,10 +24,15 @@ export default function HomeScreen() {
   const router = useRouter();
   const { t } = useLanguage();
   const { startSimulation } = useSimulation(); // ✅ Get startSimulation
+  const { vehicleType } = useVehicle(); // ✅ Get vehicleType from VehicleContext
 
   const handleStartSimulation = () => {
-    startSimulation
-    router.push('/simulation'); // ✅ Navigate to SimulationScreen
+    if (!vehicleType) {
+      console.error('Vehicle type not selected!');
+      return;
+    }
+    startSimulation(); // pass it into startSimulation
+    router.push('/simulation');
   };
 
   // rest of your HomeScreen (no change needed to Study Mode etc.)
@@ -50,7 +55,7 @@ export default function HomeScreen() {
             {t('studyModeDescription')}
           </Text>
           <Pressable
-            onPress={() => router.push('/categories')} // Adjust when ready
+            onPress={() => router.push('/StudyCategoriesScreen')} // Adjust when ready
             style={tw`bg-blue-500 py-4 rounded-lg items-center`}
           >
             <Text style={tw`text-white text-lg`}>{t('startStudying')}</Text>
