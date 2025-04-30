@@ -5,24 +5,29 @@ import tw from 'twrnc';
 import { MaterialCommunityIcons, Ionicons, FontAwesome5 } from '@expo/vector-icons';
 import { useLanguage } from '../../context/LanguageContext'; // adjust path if needed
 import { SafeAreaView } from 'react-native';
+import { useVehicle } from '@/context/VehicleContext'; 
 
 interface HeaderProps {
   title: string;
   showBackButton?: boolean;
-  vehicleType?: 'B' | 'C';
+  vehicleType?: 'B' | 'C' | null;
 }
 
-export const Header: React.FC<HeaderProps> = ({ title, showBackButton = true, vehicleType = 'B' }) => {
+
+
+export const Header: React.FC<HeaderProps> = ({ title, showBackButton = true, vehicleType = null }) => {
   const navigation = useNavigation();
   const [isModalVisible, setIsModalVisible] = useState(false);
   const { setLanguage } = useLanguage();  // <-- use context directly
+  const { vehicleType: contextVehicleType } = useVehicle(); 
+  vehicleType = vehicleType || contextVehicleType; // Use the passed vehicleType or fallback to context
 
   const getHeaderIcon = () => {
     if (vehicleType === 'B') {
       return <FontAwesome5 name="car" size={24} color="white" />;
     }
     if (vehicleType === 'C') {
-      return <MaterialCommunityIcons name="truck" size={24} color="white" />;
+      return <FontAwesome5 name="truck" size={24} color="white" />;
     }
     return <Ionicons name="help-circle-outline" size={24} color="white" />;
   };

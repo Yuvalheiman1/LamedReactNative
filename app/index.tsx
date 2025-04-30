@@ -10,14 +10,13 @@ import { useVehicle } from '../context/VehicleContext'; // adjust path
 
 export default function VehicleSelectionScreen() {
   const router = useRouter();
-  const { t, language } = useLanguage();  // <-- Pull language as well (even if not using)
+  const { t, language, direction } = useLanguage();  // <-- Pull language as well (even if not using)
   const { setVehicleType } = useVehicle();
   const handleVehicleSelect = (type: 'B' | 'C') => {
     setVehicleType(type);
     console.log('Selected vehicle type:', type);
     router.push('/HomeScreen'); // Navigate to vehicle details screen
   };
-
   return (
     <View style={tw`flex-1 bg-gray-100`}>
       {/* No back button */}
@@ -41,7 +40,7 @@ export default function VehicleSelectionScreen() {
               <View style={tw`p-3 rounded-full bg-blue-100`}>
                 <Ionicons name="car" size={24} color="#3B82F6" />
               </View>
-              <View>
+              <View style={tw`flex-1`}>
                 <Text style={tw`text-lg font-bold text-blue-700`}>{t('carLicense')}</Text>
                 <Text style={tw`text-sm text-gray-500`}>{t('typeB')}</Text>
               </View>

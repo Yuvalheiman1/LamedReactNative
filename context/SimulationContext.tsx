@@ -12,31 +12,10 @@ import truckTrafficRules from '../data/truck-traffic-rules.json';
 import truckSafetyProcedures from '../data/truck-safety-procedures.json';
 import truckVehicleControl from '../data/truck-vehicle-control.json';
 
-// --- Types ---
-interface Question {
-  id: number;
-  text: {
-    he: string;
-    en: string;
-    ar: string;
-  };
-  options: {
-    he: string;
-    en: string;
-    ar: string;
-  }[];
-  correctOptionIndex: number;
-  explanation: {
-    he: string;
-    en: string;
-    ar: string;
-  };
-  isImportant: boolean;
-  categoryId: number;
-  relatedSignId: number;
-  imageSource?: string; // Optional
-}
+import { Question } from "../types/question";
 
+import { mergeQuestionsForVehicleType, pickRandomSubset }
+from "../utils/simulation";
 
 interface SimulationContextType {
   questions: Question[];
@@ -88,57 +67,20 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
   // --- Start Simulation ---
   const startSimulation = () => {
     if (!vehicleType) {
-      console.error('Vehicle type not selected!');
+      console.error("Vehicle type not selected!");
       return;
     }
   
-    let allQuestions: any[] = [];
-  
-    if (vehicleType === 'B') {
-      allQuestions = [
-        ...roadSigns,
-        ...trafficRules,
-        ...safetyProcedures,
-        ...vehicleControl,
-      ];
-    } else if (vehicleType === 'C') {
-      allQuestions = [
-        ...truckRoadSigns,
-        ...truckTrafficRules,
-        ...truckSafetyProcedures,
-        ...truckVehicleControl,
-        ...roadSigns,
-        ...trafficRules,
-        ...safetyProcedures,
-        ...vehicleControl,
-      ];
-    }
-  
-    // Map the questions to the right format
-    const cleanedQuestions = allQuestions.map((q) => {
-      if (Array.isArray(q.options)) {
-        return q;
-      }
-  
-      const optionCount = q.options.he.length;
-      const options = Array.from({ length: optionCount }, (_, idx) => ({
-        he: q.options.he[idx],
-        en: q.options.en[idx],
-        ar: q.options.ar[idx],
-      }));
-  
-      return {
-        ...q,
-        options,
-      };
+    const allQuestions = mergeQuestionsForVehicleType(vehicleType, {
+      roadSigns, trafficRules, safetyProcedures, vehicleControl,
+      truckRoadSigns, truckTrafficRules, truckSafetyProcedures, truckVehicleControl
     });
   
-    const shuffled = [...cleanedQuestions].sort(() => 0.5 - Math.random());
-    const selected = shuffled.slice(0, 30);
+    const selected = pickRandomSubset(allQuestions, 30);
   
     setQuestions(selected);
-    setCurrentQuestionIndex(0);
     setUserAnswers(new Array(selected.length).fill(null));
+    setCurrentQuestionIndex(0);
     setTimer(1800);
     setSimulationStarted(true);
     setSimulationFinished(false);

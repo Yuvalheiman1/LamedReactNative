@@ -1,4 +1,6 @@
 import React, { createContext, useContext, useState, ReactNode } from 'react';
+import { I18nManager } from 'react-native';
+import * as Updates from 'expo-updates';
 
 type Language = 'he' | 'en' | 'ar';
 type Direction = 'rtl' | 'ltr';
@@ -68,6 +70,10 @@ interface Translations {
     trafficRules: string;
     vehicleControl: string;
     safety: string;
+    loadingQuestions: string;
+    noQuestionsForCategory: string;
+    invalidInput: string;
+    pleaseEnterNumberInRange: string;
   // (rest of your keys stay the same)
 }
 
@@ -137,6 +143,10 @@ const translations: Record<Language, Translations> = {
         trafficRules: 'חוקי תנועה',
         vehicleControl: 'שליטת רכב',
         safety: 'בטיחות',
+        loadingQuestions: 'טוען שאלות...',
+        noQuestionsForCategory: 'אין שאלות בקטגוריה זו',
+        invalidInput: 'קלט לא חוקי',
+        pleaseEnterNumberInRange: 'אנא הכנס מספר בטווח',
       },
       en: {
         mainTitle: 'Driving Theory',
@@ -153,7 +163,7 @@ const translations: Record<Language, Translations> = {
         learningTip: 'Learning Tip',
         learningTipContent: 'The more questions you practice, the better prepared you will be for the exam. It is recommended to go through all the questions in study mode and then try several simulations.',
         categories: 'Categories',
-        chooseCategory: 'Choose a category to study',
+        chooseCategory: 'Choose a category',
         allCategories: 'All Categories',
         studyAllQuestions: 'Study all questions',
         studyOnlyCategory: 'Study only questions in this category',
@@ -202,6 +212,10 @@ const translations: Record<Language, Translations> = {
         trafficRules: 'Traffic Rules',
         vehicleControl: 'Vehicle Control',
         safety: 'Safety',
+        loadingQuestions: 'Loading questions...',
+        noQuestionsForCategory: 'No questions in this category',
+        invalidInput: 'Invalid input',
+        pleaseEnterNumberInRange: 'Please enter a number in the range',
       },
       ar: {
         mainTitle: 'نظرية القيادة',
@@ -267,6 +281,10 @@ const translations: Record<Language, Translations> = {
         trafficRules: 'قواعد المرور',
         vehicleControl: 'السيطرة على المركبة',
         safety: 'السلامة',
+        loadingQuestions: 'جارٍ تحميل الأسئلة...',
+        noQuestionsForCategory: 'لا توجد أسئلة في هذه الفئة',
+        invalidInput: 'إدخال غير صالح',
+        pleaseEnterNumberInRange: 'يرجى إدخال رقم في النطاق',
       }
 };
 
@@ -284,10 +302,26 @@ export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }
 
   const direction: Direction = language === 'en' ? 'ltr' : 'rtl';
 
-  const handleSetLanguage = (lang: Language) => {
-    setLanguage(lang);
-    // (No document updates in RN)
+  const handleSetLanguage = async (lang: Language) => {
+    const newDirection: Direction = lang === 'en' ? 'ltr' : 'rtl';
+  
+    // If the app needs to flip layout direction:
+    const shouldForceFlip = I18nManager.isRTL !== (newDirection === 'rtl');
+  
+    if (shouldForceFlip) {
+      try {
+        I18nManager.forceRTL(newDirection === 'rtl');
+        setLanguage(lang); // Update language state
+        //await Updates.reloadAsync(); // Restart app to apply direction
+      } catch (error) {
+        console.error("Failed to reload app for RTL/LTR switch", error);
+      }
+    } else {
+      setLanguage(lang); // No restart needed
+    }
   };
+  
+  
 
   const t = (key: keyof Translations): string => {
     return translations[language][key];

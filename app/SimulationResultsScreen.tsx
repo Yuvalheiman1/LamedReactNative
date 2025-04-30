@@ -4,6 +4,7 @@ import { useRouter } from 'expo-router';
 import tw from 'twrnc';
 import { useSimulation } from '../context/SimulationContext';
 import { useLanguage } from '../context/LanguageContext';
+import { Header } from '../components/ui/Header';
 
 export default function SimulationResultsScreen() {
   const { questions, userAnswers, resetSimulation } = useSimulation();
@@ -38,6 +39,9 @@ export default function SimulationResultsScreen() {
   };
 
   return (
+    <View style={tw`flex-1 bg-gray-100`}>
+      <Header title={t('testResults')} showBackButton = {false} />
+
     <ScrollView contentContainerStyle={tw`p-6 bg-gray-100 flex-grow`}>
       {/* Title */}
       <Text style={tw`text-3xl font-bold text-center text-gray-800 mb-6`}>
@@ -140,5 +144,6 @@ export default function SimulationResultsScreen() {
         </View>
       )}
     </ScrollView>
+  </View>
   );
 }
