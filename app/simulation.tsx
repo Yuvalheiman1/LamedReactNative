@@ -5,8 +5,6 @@ import tw from 'twrnc';
 import { Header } from '../components/ui/Header';
 import { useSimulation } from '../context/SimulationContext';
 import { useLanguage } from '../context/LanguageContext';
-import { useDirectionStyle } from '@/hooks/useDirectionStyle';
-import { QuestionCard } from '../components/ui/QuestionCard';
 
 export default function SimulationScreen() {
   const {
@@ -23,7 +21,6 @@ export default function SimulationScreen() {
   } = useSimulation();
   const { t, language } = useLanguage();
   const router = useRouter();
-  const dirStyle = useDirectionStyle();
 
   const currentQuestion = questions[currentQuestionIndex];
 
@@ -62,7 +59,7 @@ export default function SimulationScreen() {
   return (
     <View style={tw`flex-1 bg-gray-100`}>
       <Header title={t('mainTitle')} showBackButton={true} />
-      <View style={[tw`flex-row justify-between items-center px-4 py-2 bg-blue-500`, { flexDirection: dirStyle.flexDirection }]}>
+      <View style={tw`flex-row justify-between items-center px-4 py-2 bg-blue-500`}>
         <Text style={tw`text-white font-bold text-xl`}>
           {t('question')} {currentQuestionIndex + 1} {t('of')} {questions.length}
         </Text>
@@ -71,17 +68,24 @@ export default function SimulationScreen() {
 
       <ScrollView contentContainerStyle={tw`p-6`}>
         <View style={tw`bg-white p-6 rounded-lg mb-6 shadow`}>
-          <QuestionCard
-            question={currentQuestion.text[language]}
-            options={currentQuestion.options.map(opt => opt[language])}
-            correctOptionIndex={currentQuestion.correctOptionIndex}
-            imageSource={currentQuestion.imageSource ? { uri: currentQuestion.imageSource } : undefined}
-            onSelectOption={handleSelectOption}
-            selectedOptionIndex={userAnswers[currentQuestionIndex]}
-          />
+          <Text style={tw`text-xl font-bold text-gray-800 mb-4`}>
+            {currentQuestion.text[language]}
+          </Text>
+
+          {Array.isArray(currentQuestion.options) && currentQuestion.options.map((option, index) => (
+            <Pressable
+              key={index}
+              onPress={() => handleSelectOption(index)}
+              style={tw`${userAnswers[currentQuestionIndex] === index ? 'bg-blue-500' : 'bg-gray-200'} p-4 rounded-lg mb-4`}
+            >
+              <Text style={tw`${userAnswers[currentQuestionIndex] === index ? 'text-white' : 'text-gray-700'} text-lg`}>
+                {option[language]}
+              </Text>
+            </Pressable>
+          ))}
         </View>
 
-        <View style={[tw`flex-row justify-between items-center`, { flexDirection: dirStyle.flexDirection }]}>
+        <View style={tw`flex-row justify-between items-center`}>
           <Pressable
             onPress={goToPreviousQuestion}
             disabled={currentQuestionIndex === 0}

@@ -18,6 +18,7 @@ import truckTrafficRules from '../../../data/truck-traffic-rules.json';
 import truckSafetyProcedures from '../../../data/truck-safety-procedures.json';
 import truckVehicleControl from '../../../data/truck-vehicle-control.json';
 
+import { imageMap } from '@/utils/images';  
 
 
 export default function StudyQuestionsScreen() {
@@ -138,10 +139,11 @@ export default function StudyQuestionsScreen() {
 
         <Animated.View style={{ opacity: fadeAnim }}>
           <QuestionCard
+            id={currentQuestion.id.toString()}
             question={currentQuestion.text[language]}
             options={currentQuestion.options.map((opt: any) => opt[language])}
             correctOptionIndex={currentQuestion.correctOptionIndex}
-            imageSource={currentQuestion.imageSource ? { uri: currentQuestion.imageSource } : undefined}
+            imageSource={currentQuestion.id && imageMap[currentQuestion.id] ? imageMap[currentQuestion.id] : undefined}
             onSelectOption={handleSelectOption}
             selectedOptionIndex={userAnswers[currentIndex]}
           />

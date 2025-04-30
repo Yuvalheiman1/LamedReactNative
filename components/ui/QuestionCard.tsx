@@ -5,6 +5,7 @@ import { Card } from './card'; // Assuming './card' exists and exports a Card co
 
 // Interface defines the props the component expects
 interface QuestionCardProps {
+  id: number; // Unique identifier for the question
   question: string;
   options: string[];
   correctOptionIndex: number;
@@ -15,6 +16,7 @@ interface QuestionCardProps {
 }
 
 export const QuestionCard: React.FC<QuestionCardProps> = ({
+  id,
   question,
   options,
   correctOptionIndex,
@@ -81,9 +83,9 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                   // Actual Image
                   <Image
                       source={imageSource}
-                      style={tw`h-48 rounded-lg`}
-                      resizeMode="cover"
-                      onError={() => setImageError(true)} // Set error state if image fails
+                      style={tw`h-48 w-full rounded-lg`}
+                      resizeMode="contain"
+                      onError={() => setImageError(true)}
                   />
               )}
           </View>

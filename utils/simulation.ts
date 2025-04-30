@@ -30,7 +30,7 @@ export const normalizeOptions = (questions: any[]): Question[] => {
       ar: q.options.ar[idx],
     }));
 
-    return { ...q, options };
+    return { ...q, options, imageSource: `../../assets/images/${q.id}.jpg`,};
   });
 };
 

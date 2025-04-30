@@ -1,22 +1,22 @@
-// src/context/SimulationContext.tsx
-import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import { useVehicle } from './VehicleContext';
-
-import roadSigns from '../data/road-signs.json';
-import trafficRules from '../data/traffic-rules.json';
-import safetyProcedures from '../data/safety-procedures.json';
-import vehicleControl from '../data/vehicle-control.json';
-
-import truckRoadSigns from '../data/truck-road-signs.json';
-import truckTrafficRules from '../data/truck-traffic-rules.json';
-import truckSafetyProcedures from '../data/truck-safety-procedures.json';
-import truckVehicleControl from '../data/truck-vehicle-control.json';
-
+import React, { createContext, useContext, useState, useEffect, ReactNode } from "react";
+import { useVehicle } from "./VehicleContext";
 import { Question } from "../types/question";
 
-import { mergeQuestionsForVehicleType, pickRandomSubset }
-from "../utils/simulation";
+import roadSigns from "../data/road-signs.json";
+import trafficRules from "../data/traffic-rules.json";
+import safetyProcedures from "../data/safety-procedures.json";
+import vehicleControl from "../data/vehicle-control.json";
+import truckRoadSigns from "../data/truck-road-signs.json";
+import truckTrafficRules from "../data/truck-traffic-rules.json";
+import truckSafetyProcedures from "../data/truck-safety-procedures.json";
+import truckVehicleControl from "../data/truck-vehicle-control.json";
 
+import {
+  mergeQuestionsForVehicleType,
+  pickRandomSubset
+} from "../utils/simulation";
+
+// --- Context Type ---
 interface SimulationContextType {
   questions: Question[];
   currentQuestionIndex: number;
@@ -44,14 +44,14 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
   const [userAnswers, setUserAnswers] = useState<(number | null)[]>([]);
   const [simulationStarted, setSimulationStarted] = useState<boolean>(false);
   const [simulationFinished, setSimulationFinished] = useState<boolean>(false);
-  const [timer, setTimer] = useState<number>(1800); // 30 minutes default
+  const [timer, setTimer] = useState<number>(1800); // 30 minutes
 
-  // --- Effect: Timer Countdown ---
+  // Timer countdown
   useEffect(() => {
     if (!simulationStarted || simulationFinished) return;
 
     const interval = setInterval(() => {
-      setTimer(prev => {
+      setTimer((prev) => {
         if (prev <= 1) {
           clearInterval(interval);
           finishSimulation(); // Auto-finish
@@ -64,20 +64,19 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
     return () => clearInterval(interval);
   }, [simulationStarted, simulationFinished]);
 
-  // --- Start Simulation ---
   const startSimulation = () => {
     if (!vehicleType) {
       console.error("Vehicle type not selected!");
       return;
     }
-  
+
     const allQuestions = mergeQuestionsForVehicleType(vehicleType, {
       roadSigns, trafficRules, safetyProcedures, vehicleControl,
       truckRoadSigns, truckTrafficRules, truckSafetyProcedures, truckVehicleControl
     });
-  
+
     const selected = pickRandomSubset(allQuestions, 30);
-  
+
     setQuestions(selected);
     setUserAnswers(new Array(selected.length).fill(null));
     setCurrentQuestionIndex(0);
@@ -85,10 +84,9 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
     setSimulationStarted(true);
     setSimulationFinished(false);
   };
-  
 
   const answerQuestion = (selectedOptionIndex: number) => {
-    setUserAnswers(prev => {
+    setUserAnswers((prev) => {
       const updated = [...prev];
       updated[currentQuestionIndex] = selectedOptionIndex;
       return updated;
@@ -97,13 +95,13 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
 
   const goToNextQuestion = () => {
     if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(prev => prev + 1);
+      setCurrentQuestionIndex((prev) => prev + 1);
     }
   };
 
   const goToPreviousQuestion = () => {
     if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(prev => prev - 1);
+      setCurrentQuestionIndex((prev) => prev - 1);
     }
   };
 
@@ -143,11 +141,10 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
   );
 };
 
-// --- Hook ---
 export const useSimulation = () => {
   const context = useContext(SimulationContext);
   if (!context) {
-    throw new Error('useSimulation must be used within a SimulationProvider');
+    throw new Error("useSimulation must be used within a SimulationProvider");
   }
   return context;
 };
