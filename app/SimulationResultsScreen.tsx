@@ -7,7 +7,7 @@ import { useLanguage } from '../context/LanguageContext';
 import { Header } from '../components/ui/Header';
 
 export default function SimulationResultsScreen() {
-  const { questions, userAnswers, resetSimulation } = useSimulation();
+  const { questions, userAnswers, resetSimulation, startSimulation } = useSimulation();
   const { t, language } = useLanguage();
   const router = useRouter();
 
@@ -30,12 +30,14 @@ export default function SimulationResultsScreen() {
 
   const handleRetry = () => {
     resetSimulation();
-    router.replace('/HomeScreen');
+    // Start a new simulation before navigating
+    startSimulation();
+    router.replace('/simulation');
   };
 
   const handleBackHome = () => {
     resetSimulation();
-    router.replace('/');
+    router.back();
   };
 
   return (

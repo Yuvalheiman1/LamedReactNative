@@ -75,7 +75,7 @@ export const SimulationProvider: React.FC<{ children: ReactNode }> = ({ children
       truckRoadSigns, truckTrafficRules, truckSafetyProcedures, truckVehicleControl
     });
 
-    const selected = pickRandomSubset(allQuestions, 30);
+    const selected = pickRandomSubset(allQuestions, 3);      //30 questions for simulation
 
     setQuestions(selected);
     setUserAnswers(new Array(selected.length).fill(null));

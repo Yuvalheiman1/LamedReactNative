@@ -1,10 +1,11 @@
-import React, { useEffect } from 'react';
-import { View, Text, Pressable, ScrollView } from 'react-native';
+import React, { useEffect, useState } from 'react';
+import { View, Text, Pressable, ScrollView, Image } from 'react-native';
 import { useRouter } from 'expo-router';
 import tw from 'twrnc';
 import { Header } from '../components/ui/Header';
 import { useSimulation } from '../context/SimulationContext';
 import { useLanguage } from '../context/LanguageContext';
+import { imageMap } from '../utils/images';
 
 export default function SimulationScreen() {
   const {
@@ -21,6 +22,7 @@ export default function SimulationScreen() {
   } = useSimulation();
   const { t, language } = useLanguage();
   const router = useRouter();
+  const [imageError, setImageError] = useState(false);
 
   const currentQuestion = questions[currentQuestionIndex];
 
@@ -71,6 +73,23 @@ export default function SimulationScreen() {
           <Text style={tw`text-xl font-bold text-gray-800 mb-4`}>
             {currentQuestion.text[language]}
           </Text>
+
+          {currentQuestion.id && imageMap[(currentQuestion.id.toString())] && (
+            <View style={tw`w-full mb-4`}>
+              {imageError ? (
+                <View style={tw`h-48 rounded-lg bg-gray-200 items-center justify-center`}>
+                  <Text style={tw`text-gray-500`}>Image unavailable</Text>
+                </View>
+              ) : (
+                <Image
+                  source={imageMap[(currentQuestion.id.toString())]}
+                  style={tw`h-48 w-full rounded-lg`}
+                  resizeMode="contain"
+                  onError={() => setImageError(true)}
+                />
+              )}
+            </View>
+          )}
 
           {Array.isArray(currentQuestion.options) && currentQuestion.options.map((option, index) => (
             <Pressable
