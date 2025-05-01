@@ -1,6 +1,6 @@
-import React, { createContext, useContext, useState, ReactNode } from 'react';
+import React, { createContext, useContext, useState, ReactNode, useEffect } from 'react';
 import { I18nManager } from 'react-native';
-import * as Updates from 'expo-updates';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 type Language = 'he' | 'en' | 'ar';
 type Direction = 'rtl' | 'ltr';
@@ -288,6 +288,8 @@ const translations: Record<Language, Translations> = {
       }
 };
 
+const LANGUAGE_STORAGE_KEY = '@app_language';
+
 interface LanguageContextType {
   language: Language;
   direction: Direction;
@@ -298,37 +300,62 @@ interface LanguageContextType {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
 export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-  const [language, setLanguage] = useState<Language>('he');
+  const [language, setLanguageState] = useState<Language>('he');
+  const [isLoading, setIsLoading] = useState(true);
 
-  const direction: Direction = language === 'en' ? 'ltr' : 'rtl';
+  // Load saved language on initial mount
+  useEffect(() => {
+    loadSavedLanguage();
+  }, []);
 
-  const handleSetLanguage = async (lang: Language) => {
-    const newDirection: Direction = lang === 'en' ? 'ltr' : 'rtl';
-  
-    // If the app needs to flip layout direction:
-    const shouldForceFlip = I18nManager.isRTL !== (newDirection === 'rtl');
-  
-    if (shouldForceFlip) {
-      try {
-        I18nManager.forceRTL(newDirection === 'rtl');
-        setLanguage(lang); // Update language state
-        //await Updates.reloadAsync(); // Restart app to apply direction
-      } catch (error) {
-        console.error("Failed to reload app for RTL/LTR switch", error);
+  const loadSavedLanguage = async () => {
+    try {
+      const savedLanguage = await AsyncStorage.getItem(LANGUAGE_STORAGE_KEY);
+      if (savedLanguage) {
+        const parsedLang = savedLanguage as Language;
+        updateLanguageAndDirection(parsedLang);
       }
-    } else {
-      setLanguage(lang); // No restart needed
+    } catch (error) {
+      console.error('Failed to load saved language:', error);
+    } finally {
+      setIsLoading(false);
     }
   };
-  
-  
+
+  const updateLanguageAndDirection = (lang: Language) => {
+    const newDirection: Direction = lang === 'en' ? 'ltr' : 'rtl';
+    const newIsRTL = newDirection === 'rtl';
+
+    // Update RTL settings
+    I18nManager.allowRTL(newIsRTL);
+    I18nManager.forceRTL(newIsRTL);
+    
+    // Update stored language
+    AsyncStorage.setItem(LANGUAGE_STORAGE_KEY, lang).catch(error => {
+      console.error('Failed to save language:', error);
+    });
+
+    setLanguageState(lang);
+  };
+
+  const direction: Direction = language === 'en' ? 'ltr' : 'rtl';
 
   const t = (key: keyof Translations): string => {
     return translations[language][key];
   };
 
+  if (isLoading) {
+    // You might want to show a loading indicator here
+    return null;
+  }
+
   return (
-    <LanguageContext.Provider value={{ language, direction, setLanguage: handleSetLanguage, t }}>
+    <LanguageContext.Provider value={{ 
+      language, 
+      direction, 
+      setLanguage: updateLanguageAndDirection, 
+      t 
+    }}>
       {children}
     </LanguageContext.Provider>
   );

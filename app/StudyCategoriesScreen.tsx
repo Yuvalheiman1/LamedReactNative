@@ -5,12 +5,12 @@ import tw from 'twrnc';
 import { Ionicons } from '@expo/vector-icons';
 import { Header } from '../components/ui/Header';
 import { useLanguage } from '../context/LanguageContext';
-import { useVehicle } from '../context/VehicleContext'; // adjust path
+import { useVehicle } from '../context/VehicleContext';
 
 export default function StudyCategoriesScreen() {
   const router = useRouter();
-  const { t } = useLanguage();
-  const { vehicleType } = useVehicle(); // ✅ Get vehicleType from VehicleContext
+  const { t, direction } = useLanguage();
+  const { vehicleType } = useVehicle();
 
   const categories = [
     { id: 0, title: t('allCategories'), icon: 'apps-outline' },
@@ -24,7 +24,7 @@ export default function StudyCategoriesScreen() {
     if (!vehicleType) {
       console.error('Vehicle type is not set in VehicleContext');
       return;
-    } // Ensure vehicleType is defined
+    }
     router.push({
       pathname: "/study/[vehicleType]/[categoryId]",
       params: { vehicleType, categoryId: id.toString() }
@@ -40,10 +40,12 @@ export default function StudyCategoriesScreen() {
           <Pressable
             key={cat.id}
             onPress={() => handleCategorySelect(cat.id)}
-            style={tw`bg-white rounded-xl p-6 mb-4 flex-row items-center gap-4 border border-gray-200`}
+            style={tw`bg-white rounded-xl p-6 mb-4 ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'} items-center gap-4 border border-gray-200`}
           >
             <Ionicons name={cat.icon as any} size={32} color="#3B82F6" />
-            <Text style={tw`text-lg font-bold text-gray-700`}>{cat.title}</Text>
+            <Text style={tw`text-lg font-bold text-gray-700 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
+              {cat.title}
+            </Text>
           </Pressable>
         ))}
       </ScrollView>

@@ -8,7 +8,7 @@ import { Header } from '../components/ui/Header';
 
 export default function SimulationResultsScreen() {
   const { questions, userAnswers, resetSimulation, startSimulation } = useSimulation();
-  const { t, language } = useLanguage();
+  const { t, language, direction } = useLanguage();
   const router = useRouter();
 
   // Calculate results
@@ -46,17 +46,17 @@ export default function SimulationResultsScreen() {
 
     <ScrollView contentContainerStyle={tw`p-6 bg-gray-100 flex-grow`}>
       {/* Title */}
-      <Text style={tw`text-3xl font-bold text-center text-gray-800 mb-6`}>
+      <Text style={tw`text-3xl font-bold text-center text-gray-800 mb-6 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
         {t('testResults')}
       </Text>
 
       {/* Score Card */}
       <View style={tw`bg-white rounded-xl shadow p-6 mb-6`}>
-        <Text style={tw`text-2xl font-bold text-center mb-4`}>
+        <Text style={tw`text-2xl font-bold text-center mb-4 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
           {correctCount} / {questions.length} ({scorePercentage}%)
         </Text>
 
-        <Text style={tw`text-xl text-center ${scorePercentage >= 80 ? 'text-green-600' : 'text-red-500'}`}>
+        <Text style={tw`text-xl text-center ${scorePercentage >= 80 ? 'text-green-600' : 'text-red-500'} ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
           {scorePercentage >= 80 ? t('passed') : t('failed')}
         </Text>
 
@@ -72,7 +72,7 @@ export default function SimulationResultsScreen() {
           />
         </View>
 
-        <View style={tw`flex-row justify-around mt-6`}>
+        <View style={tw`flex-row justify-around mt-6 ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
           <Pressable
             onPress={handleRetry}
             style={tw`bg-green-500 px-6 py-3 rounded-lg`}
@@ -92,7 +92,7 @@ export default function SimulationResultsScreen() {
       {/* Mistakes Section */}
       {incorrectQuestions.length > 0 && (
         <View style={tw`mt-8`}>
-          <Text style={tw`text-xl font-bold text-gray-800 mb-4`}>
+          <Text style={tw`text-xl font-bold text-gray-800 mb-4 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
             {t('incorrectAnswers')}
           </Text>
 
@@ -104,7 +104,7 @@ export default function SimulationResultsScreen() {
             return (
               <View key={question.id} style={tw`bg-white p-4 mb-4 rounded-lg shadow`}>
                 {/* Question Text */}
-                <Text style={tw`text-lg font-bold text-gray-700 mb-4`}>
+                <Text style={tw`text-lg font-bold text-gray-700 mb-4 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
                   {question.text[language]}
                 </Text>
 
@@ -125,9 +125,9 @@ export default function SimulationResultsScreen() {
                   return (
                     <View
                       key={index}
-                      style={tw`${backgroundColor} p-3 rounded-md mb-2`}
+                      style={tw`${backgroundColor} p-3 rounded-md mb-2 ${direction === 'rtl' ? 'items-end' : 'items-start'}`}
                     >
-                      <Text style={tw`text-gray-800`}>{option[language]}</Text>
+                      <Text style={tw`text-gray-800 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>{option[language]}</Text>
                     </View>
                   );
                 })}
@@ -135,7 +135,7 @@ export default function SimulationResultsScreen() {
                 {/* Explanation */}
                 {question.explanation && (
                   <View style={tw`bg-blue-100 p-3 rounded-md mt-4`}>
-                    <Text style={tw`text-gray-700`}>
+                    <Text style={tw`text-gray-700 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
                       {t('explanation')} {question.explanation[language]}
                     </Text>
                   </View>

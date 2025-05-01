@@ -8,6 +8,11 @@ import { useLanguage } from '../context/LanguageContext';
 import { imageMap } from '../utils/images';
 
 export default function SimulationScreen() {
+  const { t, language, direction } = useLanguage();
+  const router = useRouter();
+  const [imageError, setImageError] = useState(false);
+
+
   const {
     questions,
     currentQuestionIndex,
@@ -20,12 +25,9 @@ export default function SimulationScreen() {
     goToPreviousQuestion,
     finishSimulation,
   } = useSimulation();
-  const { t, language } = useLanguage();
-  const router = useRouter();
-  const [imageError, setImageError] = useState(false);
 
   const currentQuestion = questions[currentQuestionIndex];
-
+  
   useEffect(() => {
     if (!simulationStarted) {
       // If user somehow comes here without starting simulation
@@ -61,7 +63,7 @@ export default function SimulationScreen() {
   return (
     <View style={tw`flex-1 bg-gray-100`}>
       <Header title={t('mainTitle')} showBackButton={true} />
-      <View style={tw`flex-row justify-between items-center px-4 py-2 bg-blue-500`}>
+      <View style={tw`flex-row justify-between items-center px-4 py-2 bg-blue-500 ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
         <Text style={tw`text-white font-bold text-xl`}>
           {t('question')} {currentQuestionIndex + 1} {t('of')} {questions.length}
         </Text>
@@ -70,7 +72,7 @@ export default function SimulationScreen() {
 
       <ScrollView contentContainerStyle={tw`p-6`}>
         <View style={tw`bg-white p-6 rounded-lg mb-6 shadow`}>
-          <Text style={tw`text-xl font-bold text-gray-800 mb-4`}>
+          <Text style={tw`text-xl font-bold text-gray-800 mb-4 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
             {currentQuestion.text[language]}
           </Text>
 
@@ -95,16 +97,24 @@ export default function SimulationScreen() {
             <Pressable
               key={index}
               onPress={() => handleSelectOption(index)}
-              style={tw`${userAnswers[currentQuestionIndex] === index ? 'bg-blue-500' : 'bg-gray-200'} p-4 rounded-lg mb-4`}
+              style={[
+                tw`${userAnswers[currentQuestionIndex] === index ? 'bg-blue-500' : 'bg-gray-200'} p-4 rounded-lg mb-4`,
+                direction === 'rtl' ? { alignItems: 'flex-end' } : { alignItems: 'flex-start' }
+              ]}
             >
-              <Text style={tw`${userAnswers[currentQuestionIndex] === index ? 'text-white' : 'text-gray-700'} text-lg`}>
+              <Text 
+                style={[
+                  tw`${userAnswers[currentQuestionIndex] === index ? 'text-white' : 'text-gray-700'} text-lg`,
+                  direction === 'rtl' ? { textAlign: 'right' } : { textAlign: 'left' }
+                ]}
+              >
                 {option[language]}
               </Text>
             </Pressable>
           ))}
         </View>
 
-        <View style={tw`flex-row justify-between items-center`}>
+        <View style={tw`flex-row justify-between items-center ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
           <Pressable
             onPress={goToPreviousQuestion}
             disabled={currentQuestionIndex === 0}

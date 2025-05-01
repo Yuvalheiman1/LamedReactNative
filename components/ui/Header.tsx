@@ -13,12 +13,10 @@ interface HeaderProps {
   vehicleType?: 'B' | 'C' | null;
 }
 
-
-
 export const Header: React.FC<HeaderProps> = ({ title, showBackButton = true, vehicleType = null }) => {
   const navigation = useNavigation();
   const [isModalVisible, setIsModalVisible] = useState(false);
-  const { setLanguage } = useLanguage();  // <-- use context directly
+  const { setLanguage, direction } = useLanguage();  // <-- use context directly
   const { vehicleType: contextVehicleType } = useVehicle(); 
   vehicleType = vehicleType || contextVehicleType; // Use the passed vehicleType or fallback to context
 
@@ -39,18 +37,24 @@ export const Header: React.FC<HeaderProps> = ({ title, showBackButton = true, ve
 
   return (
     <SafeAreaView style={tw`bg-blue-500`}>
-      <View style={tw`w-full py-3 px-4 bg-blue-500 flex-row items-center justify-between`}>
-        <View style={tw`flex-row items-center gap-3`}>
+      <View style={tw`w-full py-3 px-4 bg-blue-500 flex-row items-center justify-between ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
+        <View style={tw`flex-row items-center gap-3 ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
           {showBackButton && (
             <Pressable 
               onPress={() => navigation.goBack()}
               style={tw`p-2 rounded-full bg-white/10`}
             >
-              <Ionicons name="arrow-back" size={24} color="white" />
+              <Ionicons 
+                name={direction === 'rtl' ? 'arrow-forward' : 'arrow-back'} 
+                size={24} 
+                color="white" 
+              />
             </Pressable>
           )}
+
+          
   
-          <View style={tw`flex-row items-center gap-2`}>
+          <View style={tw`flex-row items-center gap-2 ${direction === 'rtl' ? 'flex-row-reverse' : 'flex-row'}`}>
             <View style={tw`p-2 rounded-full bg-white/10`}>
               {getHeaderIcon()}
             </View>
@@ -102,4 +106,4 @@ export const Header: React.FC<HeaderProps> = ({ title, showBackButton = true, ve
       </Modal>
     </SafeAreaView>
   )
-};  
+};

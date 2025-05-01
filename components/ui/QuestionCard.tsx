@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { View, Text, Pressable, Image, ImageSourcePropType } from 'react-native';
 import tw from 'twrnc';
 import { Card } from './card'; // Assuming './card' exists and exports a Card component
+import { useLanguage } from '../../context/LanguageContext';
 
 // Interface defines the props the component expects
 interface QuestionCardProps {
@@ -27,6 +28,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 }) => {
   // State only for handling image loading errors
   const [imageError, setImageError] = useState(false);
+  const { direction } = useLanguage();
 
   // Function to determine background style based on selection and correctness
   // Uses the selectedOptionIndex prop directly
@@ -69,7 +71,9 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 
   return (
     <Card>
-      <Text style={tw`text-lg font-bold mb-4 text-center text-gray-900`}>{question}</Text>
+      <Text style={tw`text-lg font-bold mb-4 text-gray-900 ${direction === 'rtl' ? 'text-right' : 'text-left'}`}>
+        {question}
+      </Text>
 
       {/* Render Image or Placeholder if imageSource is provided */}
       {imageSource && (
@@ -91,24 +95,27 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           </View>
       )}
 
-
-      {/* Map over options to render Pressable buttons */}
-      {options.map((option, index) => (
-        <Pressable
-          key={index}
-          // Call the onSelectOption callback passed from the parent
-          // Only allow selection if nothing is selected yet OR if not disabled
-          onPress={() => !disabled && selectedOptionIndex === null && onSelectOption(index)}
-          // Apply dynamic styles based on selection state
-          style={tw`${getOptionStyle(index)} p-4 rounded-lg mb-3`} // Added slight margin bottom
-          // Disable button interaction visually and functionally after selection or if disabled prop is true
-          disabled={disabled || selectedOptionIndex !== null}
-        >
-          <Text style={tw`${getTextColor(index)} text-base font-medium`}> {/* Adjusted text size/weight */}
-            {option}
-          </Text>
-        </Pressable>
-      ))}
+      <View style={tw`${direction === 'rtl' ? 'items-end' : 'items-start'}`}>
+        {options.map((option, index) => (
+          <Pressable
+            key={index}
+            // Call the onSelectOption callback passed from the parent
+            // Only allow selection if nothing is selected yet OR if not disabled
+            onPress={() => !disabled && selectedOptionIndex === null && onSelectOption(index)}
+            // Apply dynamic styles based on selection state
+            style={[
+              tw`${getOptionStyle(index)} p-4 rounded-lg mb-3 w-full`,
+              direction === 'rtl' ? { alignItems: 'flex-end' } : { alignItems: 'flex-start' }
+            ]}
+            // Disable button interaction visually and functionally after selection or if disabled prop is true
+            disabled={disabled || selectedOptionIndex !== null}
+          >
+            <Text style={tw`${getTextColor(index)} text-base font-medium ${direction === 'ltr' ? 'text-left' : 'text-right'}`}> {/* Adjusted text size/weight */}
+              {option}
+            </Text>
+          </Pressable>
+        ))}
+      </View>
     </Card>
   );
 };
