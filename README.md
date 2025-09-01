@@ -1,50 +1,67 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# LamedReactNative
 
-## Get started
+A modern, cross-platform React Native app built with Expo for interactive study and simulation experiences. The app features a study mode, simulation quizzes, and result tracking, supporting multiple languages and RTL/LTR layouts.
 
-1. Install dependencies
+## Features
 
-   ```bash
-   npm install
-   ```
+- 📚 Study mode for learning and reviewing content
+- 📝 Simulation mode with timed quizzes and instant feedback
+- 📊 Results screen to track your progress
+- 🌐 Multi-language support (LTR & RTL)
+- 🎨 Beautiful, responsive UI with Tailwind CSS (via NativeWind)
+- 🔄 File-based routing for easy navigation
 
-2. Start the app
+## Getting Started
 
-   ```bash
-    npx expo start
-   ```
+### Prerequisites
 
-In the output, you'll find options to open the app in a
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- [Yarn](https://yarnpkg.com/) or npm
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+### Installation
 
 ```bash
-npm run reset-project
+npm install
+# or
+
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Running the App
 
-## Learn more
+```bash
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Open the app in:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Expo Go (scan QR code)
+- Android/iOS simulator
+- Web browser
 
-## Join the community
+## Project Structure
 
-Join our community of developers creating universal apps.
+```
+app/            # Main screens and navigation
+components/     # Reusable UI components
+context/        # React context providers (language, simulation, etc.)
+utils/          # Utility functions and assets
+assets/         # Images, fonts, etc.
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Environment Variables
+
+If your app uses secrets (API keys, etc.), create a `.env` file in the root directory. See `.env.example` for reference.
+
+## Contributing
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes
+4. Push to the branch
+5. Open a pull request
+
+## License
+
+This project is licensed under the MIT License.
